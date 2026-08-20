@@ -6,140 +6,140 @@
       "title": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "excerpt": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "meta": "Python · ★ 111,933 · 🍴 16,956 · 📈 2,221 stars today",
+      "meta": "Python · ★ 112,002 · 🍴 16,965 · 📈 2,221 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于AI大模型与自动化流程，输入主题或关键词即可一键生成高清短视频，适合内容创作者快速产出视频，覆盖脚本、配音、剪辑等环节。"
+      "summary": "利用AI大模型和自动化工作流，根据用户提供的主题或关键词一键生成高清短视频。它集成了内容生成、编辑和渲染的完整流程，适用于需要快速批量制作视频的创作者、营销人员或社交媒体运营者，显著降低视频制作门槛和时间成本。"
     },
     {
       "sourceId": "github-trending",
       "title": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "excerpt": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "meta": "Python · ★ 30,619 · 🍴 2,367 · 📈 804 stars today",
+      "meta": "Python · ★ 30,637 · 🍴 2,368 · 📈 804 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向AI代理的自进化上下文数据库，统一管理代理记忆、知识RAG与技能，提升代理在多轮任务中的上下文连续性与知识利用效率。"
+      "summary": "面向AI代理的自进化上下文数据库，统一管理代理记忆、知识检索（RAG）和技能。它旨在解决代理在长期任务中上下文丢失和知识分散的问题，提升AI代理的连贯性和效率，适用于需要持久化和动态更新知识库的复杂AI应用开发。"
     },
     {
       "sourceId": "github-trending",
       "title": "chaitanyagiri/munder-difflin",
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "excerpt": "local multi-agent harness",
-      "meta": "TypeScript · ★ 2,867 · 🍴 334 · 📈 795 stars today",
+      "meta": "TypeScript · ★ 2,880 · 🍴 335 · 📈 795 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "本地多代理协作框架，用于在单一环境中运行和管理多个AI代理，支持任务分配与协作，适合开发者在本地测试多代理系统。"
+      "summary": "一个本地多代理协同框架，用于在本地环境中编排多个AI代理共同完成任务。它可能为开发者提供便捷的代理通信和任务分配机制，适用于测试或运行需要多个代理协作的本地自动化场景，如数据处理、模拟对话等。"
     },
     {
       "sourceId": "github-trending",
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "excerpt": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · ",
-      "meta": "Python · ★ 30,105 · 🍴 3,573 · 📈 766 stars today",
+      "meta": "Python · ★ 30,118 · 🍴 3,575 · 📈 766 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "为AI代理提供817个结构化网络安全技能，映射至MITRE ATT&CK、NIST CSF等六大框架，遵循agentskills标准，助力安全自动化。"
+      "summary": "为AI代理提供817个结构化网络安全技能，涵盖MITRE ATT&CK、NIST CSF 2.0等六大主流框架。它采用agentskills.io标准，帮助安全团队快速构建具备威胁检测、响应和合规能力的AI代理，适用于安全运营自动化和威胁情报分析场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "excerpt": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "meta": "Rust · ★ 3,309 · 🍴 272 · 📈 606 stars today",
+      "meta": "Rust · ★ 3,314 · 🍴 272 · 📈 606 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向AI编码CLI的长期记忆解决方案，支持跨代理厂商的交接，解决代理在复杂任务中遗忘上下文的问题，提升开发效率。"
+      "summary": "解决AI编码命令行工具的长期记忆问题，并促进不同代理供应商之间的交接。它提供一种方案让代理在会话间保留关键上下文，适用于使用Claude Code等AI编程工具进行持续开发、需要跨会话和跨工具协作的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "nautechsystems/nautilus_trader",
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "excerpt": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "meta": "Rust · ★ 26,578 · 🍴 3,430 · 📈 80 stars today",
+      "meta": "Rust · ★ 26,588 · 🍴 3,430 · 📈 80 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "生产级Rust原生交易引擎，采用确定性事件驱动架构，适用于高频与算法交易，强调性能与稳定性，面向量化交易开发者。"
+      "summary": "生产级、基于Rust的本地交易引擎，采用确定性事件驱动架构。它专为高频和算法交易设计，提供低延迟、高可靠性的执行环境，适用于量化交易团队开发和研究交易策略，支持实时回测和实盘部署。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
-      "meta": "Shell · ★ 224,447 · 🍴 19,292 · 📈 1,894 stars today",
+      "meta": "Shell · ★ 224,479 · 🍴 19,297 · 📈 1,894 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "来自资深工程师.agents目录的真实技能集合，为AI编码代理提供实用工程模式，帮助开发者提升代理在代码生成与重构中的表现。"
+      "summary": "来自作者.agents目录的一系列实用技能集合，专为真实工程师设计。这些技能可能包含代码审查、测试、调试等最佳实践，可直接集成到AI代理的配置中，帮助工程师更高效地与AI协作完成日常开发任务。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 274,531 · 🍴 24,574 · 📈 557 stars today",
+      "meta": "Shell · ★ 274,539 · 🍴 24,574 · 📈 557 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个有效运行的代理技能框架与软件开发方法论，系统性定义代理行为，提升开发流程的可控性与一致性，适合团队采用。"
+      "summary": "一个有效的代理技能框架和软件开发方法论。它提供结构化的方式组织AI代理的技能和流程，旨在提升代理在软件开发中的自主性和可靠性，适用于希望系统化应用AI代理进行项目开发、需求分析和代码实现的工程团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "excerpt": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "meta": "Python · ★ 19,949 · 🍴 1,700 · 📈 472 stars today",
+      "meta": "Python · ★ 19,954 · 🍴 1,700 · 📈 472 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "在Apple Silicon上运行的LLM推理服务器，支持连续批处理与SSD缓存，可通过macOS菜单栏管理，适合本地高效部署大模型。"
+      "summary": "专为Apple Silicon设计的LLM推理服务器，支持连续批处理和SSD缓存，并通过macOS菜单栏进行管理。它优化了本地大模型推理性能，降低了内存占用，适用于需要高效运行大语言模型的Mac用户，支持本地AI应用开发。"
     },
     {
       "sourceId": "github-trending",
       "title": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
       "excerpt": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "meta": "JavaScript · ★ 66,078 · 🍴 12,773 · 📈 198 stars today",
+      "meta": "JavaScript · ★ 66,091 · 🍴 12,774 · 📈 198 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "开源AI求职工具，扫描招聘网站，用A-F评分体系评估职位，自动定制简历并跟踪申请，在本地AI编码CLI中运行，保护隐私。"
+      "summary": "开源的AI求职工具，自动扫描求职门户，用结构化A-F评分（1.0-5.0）评估职位，定制简历并跟踪申请。它可在本地AI编码CLI（如Claude Code）中运行，帮助求职者高效筛选职位、优化简历和监控求职进度，推动求职自动化。"
     },
     {
       "sourceId": "github-trending",
       "title": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "excerpt": "High performance self-hosted photo and video management solution.",
-      "meta": "TypeScript · ★ 112,058 · 🍴 6,641 · 📈 128 stars today",
+      "meta": "TypeScript · ★ 112,066 · 🍴 6,642 · 📈 128 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "高性能自托管照片与视频管理方案，提供类似Google Photos的体验，但数据完全由用户掌控，适合注重隐私的个人或家庭使用。"
+      "summary": "高性能的自托管照片和视频管理方案。它提供类似Google Photos的功能，包括自动备份、智能分类和搜索，同时保护用户隐私，适用于重视数据主权、希望拥有本地或私有云存储的个人和家庭用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "amadeusprotocol/node",
       "url": "https://github.com/amadeusprotocol/node",
       "excerpt": "",
-      "meta": "Rust · ★ 4,853 · 🍴 89 · 📈 1,397 stars today",
+      "meta": "Rust · ★ 4,870 · 🍴 89 · 📈 1,397 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "（描述缺失）疑似Amadeus协议的节点实现，用于区块链或去中心化网络，具体功能待官方说明，适合关注该协议的技术人员跟进。"
+      "summary": "（由于描述为空，根据名称推断）一个区块链或去中心化协议节点，可能是Amadeus协议的一部分，用于在分布式网络中提供基础设施服务。具体功能需进一步参考项目文档，适用于关注去中心化应用或区块链技术的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "marceloprates/prettymaps",
       "url": "https://github.com/marceloprates/prettymaps",
       "excerpt": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
-      "meta": "Python · ★ 13,375 · 🍴 664 · 📈 63 stars today",
+      "meta": "Python · ★ 13,385 · 🍴 666 · 📈 63 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "基于OpenStreetMap数据绘制精美地图，使用osmnx、matplotlib和shapely工具，可生成风格化地图图像，适合制图或艺术创作。"
+      "summary": "用Python绘制漂亮地图的库，基于OpenStreetMap数据，结合osmnx+matplotlib+shapely。它可将真实地理数据渲染成艺术风格的地图海报，适用于个人创作、地理数据可视化或设计元素，无需专业GIS工具即可生成美观地图。"
     },
     {
       "sourceId": "github-trending",
       "title": "genlayerlabs/genlayer-project-boilerplate",
       "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
       "excerpt": "",
-      "meta": "TypeScript · ★ 16,268 · 🍴 811 · 📈 430 stars today",
+      "meta": "TypeScript · ★ 16,272 · 🍴 812 · 📈 430 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GenLayer项目模板，用于快速搭建基于GenLayer（可能是去中心化推理或智能合约平台）的应用，提供起步代码结构，适合开发者快速上手。"
+      "summary": "GenLayer项目模板，用于快速搭建基于GenLayer（一个去中心化AI协议）的应用。它提供初始结构和配置，简化开发流程，适用于希望利用区块链和人工智能结合技术构建去中心化应用的开发者，专注于智能合约或AI代理集成。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -154,7 +154,7 @@
       "sourceId": "v2ex-hot",
       "title": "想买 iPad Pro M5 13 寸，该怎么买？",
       "url": "https://www.v2ex.com/t/1235743",
-      "excerpt": "76 回复 · Apple 节点",
+      "excerpt": "77 回复 · Apple 节点",
       "publishedAt": "2026-08-20T00:09:37.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -181,17 +181,8 @@
       "sourceId": "v2ex-hot",
       "title": "chatgpt/codex 1000 credits (价值$40 刀）邀请，极速邀请",
       "url": "https://www.v2ex.com/t/1235877",
-      "excerpt": "24 回复 · 程序员 节点",
+      "excerpt": "28 回复 · 程序员 节点",
       "publishedAt": "2026-08-20T06:34:06.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "Codex 1000 Credits，符合资格的兄弟直接留言邮箱",
-      "url": "https://www.v2ex.com/t/1235874",
-      "excerpt": "23 回复 · 程序员 节点",
-      "publishedAt": "2026-08-20T06:27:15.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -215,6 +206,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "iCloud 为啥不加个 512G 或者 1TB 的档位呢",
+      "url": "https://www.v2ex.com/t/1235840",
+      "excerpt": "20 回复 · Apple 节点",
+      "publishedAt": "2026-08-20T04:10:07.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "TG api 我用 google Voice 老申请失败",
       "url": "https://www.v2ex.com/t/1229505",
       "excerpt": "17 回复 · Python 节点",
@@ -228,15 +228,6 @@
       "url": "https://www.v2ex.com/t/1235328",
       "excerpt": "17 回复 · Linux 节点",
       "publishedAt": "2026-08-18T07:58:19.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "iCloud 为啥不加个 512G 或者 1TB 的档位呢",
-      "url": "https://www.v2ex.com/t/1235840",
-      "excerpt": "15 回复 · Apple 节点",
-      "publishedAt": "2026-08-20T04:10:07.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -350,6 +341,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "多 codex 账号用什么工具聚合",
+      "url": "https://www.v2ex.com/t/1235901",
+      "excerpt": "5 回复 · 程序员 节点",
+      "publishedAt": "2026-08-20T07:50:06.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "[开源自推]我用 Rust 做了一个约 30 MiB 内存的多入口 AI Agent，已经在线跑了半年",
       "url": "https://www.v2ex.com/t/1231826",
       "excerpt": "5 回复 · Rust 节点",
@@ -437,7 +437,7 @@
       "publishedAt": "2026-08-19T19:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI重申对符合条件的API客户提供零数据保留服务，并预览私有安全处理功能，旨在兼顾先进AI安全性与数据隐私。"
+      "summary": "OpenAI 重申对符合条件的 API 客户提供零数据保留，并预览了用于高级 AI 安全且不损害数据隐私的私有安全处理技术。"
     },
     {
       "sourceId": "openai-news",
@@ -978,7 +978,7 @@
       "publishedAt": "2026-08-19T13:48:49.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face博客发布LiquidAI的LFM2.5 Q4_0检查点，该模型通过量化感知蒸馏技术生成，用于改进量化后模型性能。"
+      "summary": "LiquidAI 发布 LFM2.5 的 Q4_0 检查点，该检查点通过量化感知蒸馏获得，适用于高效部署。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1247,10 +1247,10 @@
       "url": "https://huggingface.co/papers/2608.14036",
       "excerpt": "Skills have emerged as a practical and effective approach for enhancing LLM agents at inference time through structured packages of knowledge. However, existing evaluations largely measure whether skills improve aggregated task success, leaving a more fundamental question underexplored: \\textbf{When",
       "publishedAt": "2026-08-14T00:00:00.000Z",
-      "meta": "👍 150",
+      "meta": "👍 151",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "本文探究 Agent Skill 在 LLM 智能体中的作用机理，揭示其有效性与失效条件。通过分析 skill 的结构化知识包在推理时的表现，指出传统评估仅关注聚合任务成功率，忽略了 skill 何时失效的关键问题，为 skill 设计的可靠性提供新视角。"
+      "summary": "该论文探究技能（Skills）为何能提升LLM智能体性能却存在失效边界。通过分析技能的结构化知识包在推理时发挥作用的机制，揭示其失效场景与原因，为智能体技能设计提供理论指导，弥补现有评估仅关注整体任务成功率而忽视技能适用边界的不足。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1261,7 +1261,7 @@
       "meta": "👍 96",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对长时程智能体推理中 RL 训练因分支交互和多稀疏奖励而受限、且重计算训练栈难以部署的问题，提出 Agentic ESOpt，以极低 GPU 需求微调长时程 LLM 智能体，通过轻量化策略规避传统 RL 的代价，提升训练可行性并保持性能。"
+      "summary": "长时程智能体任务中，强化学习的反向传播训练开销大且奖励稀疏，难以实用。本文提出Agentic ESOpt，以轻量级微调方式训练长时程LLM智能体，在极低GPU需求下实现高效优化，缓解了分支交互和稀疏奖励带来的训练难题。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1272,7 +1272,7 @@
       "meta": "👍 95",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "现有具身智能体 harness 在物理执行中仅开环，无法闭环学习。本文提出 Zetta ζ，一种高效闭环具身 harness，使智能体在 rollout 中自适应调整策略，并通过事后反思实现自进化，弥补端到端策略模型的局限，提升物理交互任务的持续学习能力。"
+      "summary": "具身智能体在物理执行中缺乏闭环学习，现有系统多为开环。该文提出Zetta ζ，一种高效闭环具身训练框架，在物理执行中实时反馈并更新策略，实现自我进化，弥补端到端策略模型的不足，推动物理智能自主迭代。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1280,10 +1280,21 @@
       "url": "https://huggingface.co/papers/2608.17253",
       "excerpt": "Reinforcement learning (RL) has emerged as a powerful approach for improving reasoning in language and vision-language models, yet its strongest successes still depend heavily on ground-truth supervision (e.g., verifiable reward). Such annotations are costly to obtain and become increasingly scarce ",
       "publishedAt": "2026-08-19T00:00:00.000Z",
-      "meta": "👍 74",
+      "meta": "👍 75",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对 RL 强依赖可验证奖励等监督信号、成本高昂的问题，本文提出 Co-RL，在多样智能体群体的多智能体 RL 中实现无监督推理涌现，无需 ground-truth 奖励，通过群体协作与竞争促使推理能力自发形成，扩展 RL 在语言和视觉语言模型中的应用。"
+      "summary": "针对强化学习提升推理能力依赖昂贵真值监督的问题，本文提出Co-RL，利用多智能体强化学习中多样群体实现无监督推理涌现。无需可验证奖励，通过智能体间协作与竞争促进推理能力自发形成，降低监督成本并扩展适用场景。"
+    },
+    {
+      "sourceId": "huggingface-papers",
+      "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
+      "url": "https://huggingface.co/papers/2608.18565",
+      "excerpt": "Programmable logic controllers (PLCs) run industrial plants, and large language models can already generate independent program organization units (POUs) for them. Whether such logic integrates into an existing PLC project and then runs correctly has been checked only in limited tests. We present Se",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "meta": "👍 67",
+      "category": "tech",
+      "source": "HuggingFace Trending Papers",
+      "summary": "PLC代码生成需确保逻辑集成到完整项目后正确运行，现有验证有限。本文提出SemaPLC，一个项目级、验证门控的智能体框架，通过项目集成与验证机制生成可运行的PLC代码，显著提升生成代码在实际工业项目中的正确性与集成度。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1294,18 +1305,7 @@
       "meta": "👍 65",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "面向边缘个人设备，本文提出 FreeToken，一种边缘原生的 MoE 推理系统。它将个人机器视为统一弹性平台，通过带宽自适应执行和协同设计，突破数据中心依赖，实现高效 MoE 模型推理，显著降低延迟与资源需求，适用于资源受限场景。"
-    },
-    {
-      "sourceId": "huggingface-papers",
-      "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
-      "url": "https://huggingface.co/papers/2608.18565",
-      "excerpt": "Programmable logic controllers (PLCs) run industrial plants, and large language models can already generate independent program organization units (POUs) for them. Whether such logic integrates into an existing PLC project and then runs correctly has been checked only in limited tests. We present Se",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "meta": "👍 59",
-      "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "针对 PLC 代码生成中逻辑集成与正确性验证不足的问题，提出 SemaPLC，一种项目级、验证门控的智能体 harness。它以项目为背景生成程序组织单元，并通过验证门控确保逻辑正确集成与运行，提升工业控制环境中 LLM 生成代码的可靠性与部署可行性。"
+      "summary": "针对边缘设备MoE模型服务忽视本地算力问题，本文提出FreeToken，将个人机器视为统一弹性推理平台，协同设计带宽自适应执行策略，实现边缘原生MoE高效服务。在不依赖数据中心设施下，提升资源利用率与推理效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1313,10 +1313,10 @@
       "url": "https://huggingface.co/papers/2608.13558",
       "excerpt": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide access to the full evidence on which scientific discovery depend",
       "publishedAt": "2026-08-13T00:00:00.000Z",
-      "meta": "👍 57",
+      "meta": "👍 61",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对现有 AI 科学家仅覆盖工作流而缺乏完整科学证据的问题，提出 OmniScientist，一种全模态、全学科的 AI 科学家，能自动完成从假设生成到代码执行再到论文撰写的全流程，整合多源证据以支撑科学发现，推动研究自动化的完整性。"
+      "summary": "现有AI科学家自动化流程未覆盖完整证据链。本文提出OmniScientist，一种全模态、全学科AI科学家，集成假设生成、代码执行、论文撰写等流程，并强化对科学发现所依赖证据的获取与利用，提升研究自动化与全面性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1327,7 +1327,7 @@
       "meta": "👍 55",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对 AI 从知识应用走向探索未知的需求，提出 ASI-Bench 基准，评估 AI 探索新知识、创造知识并转化为可验证结果的能力。该基准聚焦超越现有知识的任务，为迈向人工超级智能提供衡量标准，揭示当前 AI 在创造与验证方面的局限。"
+      "summary": "人工超智能需探索未知、创造知识并验证新想法，现有AI主要基于学习与压缩。本文构建ASI-Bench基准，系统评估AI在未知探索、知识创造与可验证结果产出方面的能力，为迈向人工超智能提供评测依据。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1338,7 +1338,7 @@
       "meta": "👍 46",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对 VLM 直接部署于具身导航时的动作空间错配与推理刚性，提出 Embodied-Navigator，通过“点、思、忆、对齐”机制。它让 VLM 在自然动作空间中高效导航，结合记忆与对齐策略，提升导航效率与灵活性，缓解预训练先验的冲突。"
+      "summary": "针对VLM在具身导航中直接部署困难（动作空间不匹配、推理僵化、信息不足）问题，本文提出Embodied-Navigator，通过指向、思考、记忆与对齐机制，将导航任务与VLM的2D预训练先验对齐，提升导航效率与灵活性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1349,7 +1349,7 @@
       "meta": "👍 40",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "为解决创意智能体缺乏有效电影级视频学习结构的问题，提出 AVA-Encoder，一种智能体原生视频表示学习方法。它构建忠实于电影内容且可直接用于智能体推理与操作的结构化表示，使智能体从高质量电影中学习，提升生成视频的电影级质量与创作能力。"
+      "summary": "创意代理缺乏从高质量人类电影中有效学习的方式，难以生成电影级视频。本文提出AVA-Encoder，一种面向代理的视频表示学习方法，构建忠实于电影内容且可直接用于代理推理与操作的结构化视频表示，增强创意视频生成能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1360,7 +1360,7 @@
       "meta": "👍 30",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对语言智能体中自生成目标分布固定、难以持续自我改进的问题，提出 SPADE，一种自适应合成可执行环境中的自博弈方法。它动态生成多样自适应目标，使智能体在训练中不断扩展目标池，促进持续改进，突破手工或静态环境的局限。"
+      "summary": "针对语言代理训练环境池目标分布固定、无法随规模变化自适应的问题，本文提出SPADE，利用自博弈在自适应合成可执行环境中生成多样化、更新颖的目标。通过与自身对抗持续扩展目标集，促进代理持续自改进与能力泛化。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1371,7 +1371,7 @@
       "meta": "👍 23",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对单步逆合成中一对多映射被单一答案评估低估的问题，提出 Top-K prompting 训练与推理范式，结合化学合理性感知，训练 LLM 输出多个候选产物。该方法提升模型预测多样性与化学合理性，更好地匹配多答案评估协议，优化合成规划。"
+      "summary": "单步逆合成是一对多问题，现有单答案评估不完善。该文提出Top-K提示作为训练与推理范式，并训练化学合理性感知的LLM，以更好捕捉逆合成多解性，提升生成结果的化学合理性与多样性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1382,7 +1382,7 @@
       "meta": "👍 19",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对前沿 LLM 安全评估将有害生成视为攻击结果而非分析对象的问题，提出 HarmProfile，系统刻画模型有害输出分布。通过收集大规模高质量有害样本，分析不当行为期间的输出特征，为安全性评估提供结构化理解，弥补相关数据与分析的缺失。"
+      "summary": "前沿LLM安全评估多将有害生成视为攻击结果，而非分析对象。本文提出HarmProfile，通过构建大规模高质量有害输出集，系统刻画模型异常行为下的有害分布特征，为安全风险评估提供深入的数据化分析框架。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1393,7 +1393,7 @@
       "meta": "👍 18",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对智能体 harness 在 RL 训练中的整合问题，提出 Agent Lightning v1.0，一种被约束的智能体 RL 架构。通过分离式设计，将任意智能体经 LLM 端点代理连接 RL 训练，实现 harness 原生强化学习，提升训练稳定性与智能体系统的整体性能。"
+      "summary": "现代智能体依赖管理工具、上下文和控制流的harness，却未与RL训练对齐。本文提出Agent Lightning v1.0，采用解耦架构通过LLM端点代理连接任意智能体与RL训练，实现hnative agentic强化学习，提升训练稳定性与效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1404,7 +1404,7 @@
       "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对文生图模型生成 NSFW 内容及红队攻击的安全问题，提出 DiSCO，一种基于分布引导的对比提示优化防御方法。它无需白盒假设，通过优化提示分布以引导模型避免有害输出，提升模型在对抗攻击下的安全性，适用于黑盒场景。"
+      "summary": "针对文本到图像模型易生成NSFW内容且现有防御多为白盒局限，本文提出DiSCO，基于分布引导的对比提示优化防御方法，在不依赖白盒假设下优化输入提示，降低暴力、裸露等有害内容生成，增强模型安全性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1415,7 +1415,7 @@
       "meta": "👍 16",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对编码智能体 RL 中环境与策略梯度训练错配的问题，提出 LEGO-RL，一种 harness 原生强化学习方法。它协调工具集成与执行反馈，使环境与训练对齐，提升编码任务中的 RL 效率与性能，解决长期执行与策略更新的矛盾。"
+      "summary": "编码代理的强化学习依赖长时间运行的harness，但其原生执行环境与策略梯度训练不匹配。本文提出LEGO-RL，一种harness原生的强化学习方法，协调工具集成、仓库上下文与执行反馈，使环境与训练对齐，提升编码代理RL效果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1426,7 +1426,7 @@
       "meta": "👍 13",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "本文研究循环语言模型在组合工具调用中的潜力，该场景需协调多次 API 调用、维护中间状态并保持一致性。实验表明，循环 LM 能有效提升组合工具调用的性能，优于传统模型，为智能体工具使用提供新方向。"
+      "summary": "循环语言模型在推理基准表现优异，但在智能体工具调用中未充分探索。该文研究其在组合工具调用场景中的应用，需协调多个API调用、维护中间状态并保持语义，证明循环结构能提升复杂工具调用的组合能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1437,7 +1437,7 @@
       "meta": "👍 13",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对视觉编码器密集扩展导致计算与延迟增加的问题，提出 MoE-ViE，一种混合专家视觉编码器。采用 MoE 架构实现高效扩展，在图像与视频理解中保持性能的同时降低推理成本，为视觉语言模型提供更高效的编码方案。"
+      "summary": "视觉编码器密集扩展提升性能但增加计算成本。本文提出MoE-ViE，一种混合专家视觉编码器，通过稀疏激活实现高效扩展，在图像与视频理解任务中取得高精度低延迟表现，证明MoE在视觉编码中的有效性与效率优势。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1447,7 +1447,8 @@
       "publishedAt": "2026-08-15T00:00:00.000Z",
       "meta": "👍 13",
       "category": "tech",
-      "source": "HuggingFace Trending Papers"
+      "source": "HuggingFace Trending Papers",
+      "summary": "长时程LLM代理中记忆介质选择缺少系统指导。该文提出受控harness评估，全面对比不同记忆底物（表示与存储媒介）在多种运行机制下的性能，为代理记忆系统设计提供选择依据，优化长期记忆利用。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1458,7 +1459,7 @@
       "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对 LLM 创意写作数据以故事为中心、缺乏多样性格式的问题，提出属性引导的类型扩展框架。通过属性控制与类型生成，扩展创作数据覆盖面，使模型学习不同创意格式的结构与功能惯例，提升非故事类创作的遵循能力。"
+      "summary": "高质量创意写作数据以故事为核心，限制模型遵循多样体裁的结构惯例。本文提出属性引导的体裁扩展框架，通过生成多种创意格式数据扩展训练集，增强LLM在非故事体裁上的结构与功能遵循能力，提升创意写作泛化性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -2018,7 +2019,7 @@
       "publishedAt": "2026-08-20T05:17:12.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space发布AINews播客，聚焦智谱CEO唐杰关于GLM 5.3模型的讨论，提出后训练缩放定律，并称参数量可能已不是关键，各实验室CEO都在社交平台活跃。"
+      "summary": "据 Latent Space 报道，智谱 CEO 唐杰在 AINews 节目中谈及 GLM 5.3 及新的后训练缩放定律，并称所有实验室 CEO 都在 X 平台上活跃。"
     },
     {
       "sourceId": "latent-space",
@@ -2028,7 +2029,7 @@
       "publishedAt": "2026-08-19T08:44:52.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space报道内存价格在过去12个月上涨500%，内存短缺持续，摩尔定律逆转至2007年水平，引发行业关注。"
+      "summary": "据 Latent Space 报道，内存价格在12个月内上涨500%，内存短缺持续，摩尔定律反转至2007年水平。"
     },
     {
       "sourceId": "latent-space",
@@ -2291,7 +2292,7 @@
       "category": "tech",
       "meta": "@nateherk · 25.8K 粉丝 · 1.3M 阅 · 558 赞 · 75 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者总结一周使用 Grok Bot 的亲测经验，分享 9 个他最喜欢的 Grok Bot 黑客技巧。强调默认设置只是起点，创建机器人容易，关键在于教它们你的工作方式，而非停留在基础玩法。"
+      "summary": "作者实操一周 Grok Bot 后提炼出 9 个最爱的使用技巧。指出默认设置只是起点，创建机器人容易，真正有价值的部分是教会机器人你的工作方式与偏好，帮助用户从基础操作进阶到个性化定制。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2302,7 +2303,7 @@
       "category": "tech",
       "meta": "@sairahul1 · 135.5K 粉丝 · 938.1K 阅 · 867 赞 · 115 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "针对一人公司运营痛点，展示如何用 Grok Bot 构建自动化流程。列举从线索挖掘、外联写信、图片制作到回复评论的繁重工作，都可交给 Grok Bot 分担，让你不再事必躬亲。"
+      "summary": "探讨如何用 Grok Bot 打造一人公司。聚焦于 AI 代理如何承接找线索、写外联、做图、回复留言等重复性工作，将创始人从事事亲力亲为的瓶颈中解放出来，实现业务自动化运转。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2313,7 +2314,7 @@
       "category": "tech",
       "meta": "@Sabrina_Ramonov · 5.9K 粉丝 · 275.5K 阅 · 503 赞 · 191 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "提供 5 步完整教程，用 1 个免费 Claude 技能替代 Higgsfield 订阅，制作无脸 AI 视频。通过 Kie 生成病毒式视频，每次成本约 75 美分，适合用来推广你的 App。"
+      "summary": "分享用 1 个免费 Claude Skill 完全替代 Higgsfield 订阅的 5 步设置法。通过 Kie 生成无脸 AI 视频的成本仅约 75 美分/条，为 App 营销提供低成本高转化的视频制作方案，摆脱月费订阅负担。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2324,7 +2325,7 @@
       "category": "tech",
       "meta": "@RayFernando1337 · 37.8K 粉丝 · 169.9K 阅 · 520 赞 · 85 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者将 Grok Bot 打造为自己的 CTO，使其承担项目管理职责。在新项目开始时创建机器人并赋予特定指令，从此不再成为新想法、Bug 修复或项目任何环节的瓶颈。"
+      "summary": "作者将 Grok Bot 打造成自己的 CTO，不再成为新想法、Bug 修复或项目推进的瓶颈。分享了具体 Prompt 方法：创建新项目时建立一个机器人并赋予其 CTO 角色，让 AI 代理自主管理开发事务。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2335,7 +2336,7 @@
       "category": "tech",
       "meta": "@XFreeze · 260.4K 粉丝 · 163.1K 阅 · 589 赞 · 93 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "介绍当前最火爆的 AI 产品 Grok Bot 的最简入门方式。指出它能同时运行多个实例，极其实用，随着更多人发现其强大功能而持续病毒式传播，是当下值得关注的 AI 工具。"
+      "summary": "介绍 Grok Bot 最简单的上手方式。作为当前最热门的 AI 产品之一，其核心价值在于可同时运行多个机器人并行处理不同任务，帮助用户快速理解这一产品的基本概念与使用门槛。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2346,7 +2347,7 @@
       "category": "tech",
       "meta": "@milesdeutscher · 676.5K 粉丝 · 142.9K 阅 · 515 赞 · 65 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "作者称 Elon 打造了世界上最强大的智能体软件，并提供 Grok Bot 完整指南。他宣称已进行深度使用测试，为你梳理关于 Grok Bot 的一切必知要点，从基础到进阶全覆盖。"
+      "summary": "一份详尽的 Grok Bot 终极指南。作者宣称这是马斯克打造的全球最强智能体软件，涵盖从基础原理、功能特性到高级用法的全部知识点，是快速全面掌握 Grok Bot 的必读教程。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2357,7 +2358,7 @@
       "category": "tech",
       "meta": "@mattyp · 49.7K 粉丝 · 141.9K 阅 · 764 赞 · 67 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "观点：Grok Bot 唯一的输出就是一条消息，看似反直觉，因为高端工具往往以复杂度和功能广度取胜。但作者认为聊天界面恰好满足了其独特的工作流需求，化繁为简。"
+      "summary": "提出反直觉观点：Grok Bot 的唯一输出就是一条消息。认为强大工具并不依赖复杂功能和广度，聊天界面本身就能承载完整工作流。作者以自身使用体验论证「纯聊天」工作流的可行性与优势。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2368,7 +2369,7 @@
       "category": "tech",
       "meta": "@JensenHuang · 1.0M 粉丝 · 110.9K 阅 · 1.9K 赞 · 234 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "黄仁勋发文阐述 AI 工厂时代的关键资源：土地、电力和外壳。AI 工厂是 AI 时代的基础设施，通过算力将能源和数据转化为智能，而这三项资源将成为制约其发展的瓶颈。"
+      "summary": "黄仁勋提出 AI 工厂时代的下一个关键资源是「土地、电力和外壳」。强调 AI 工厂是 AI 时代的基础设施，通过算力将能源和数据转化为智能，点出算力扩张背后的物理资源瓶颈。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2379,7 +2380,7 @@
       "category": "tech",
       "meta": "@0xCodez · 32.7K 粉丝 · 92.3K 阅 · 508 赞 · 48 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "指出传统 AI 工具都是被动等待指令，而 Grok Bot 能自动化执行任务。提供 10 步完整教程，教你如何用 Grok Bot 代理自动完成生活中的重复工作，并推广其 Substack 获取更多内容。"
+      "summary": "10 步完整教程，教你用 Grok Bot Agents 实现生活自动化。核心观点是传统 AI 工具被动等待你提问，而 Grok Bot 代理能主动执行任务，将工作从「人做模型指导」转变为真正的自动化执行。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2390,7 +2391,7 @@
       "category": "tech",
       "meta": "@PiCoreTeam · 4.3M 粉丝 · 74.1K 阅 · 850 赞 · 222 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Pi 官方公告：自 2026 年 8 月 24 日起，Pi App Studio 将调整应用创建与编辑的定价机制。此前 Pi 对创作者在 App Studio 中创建和编辑应用的成本提供了大量补贴，此次更新将改变这一模式。"
+      "summary": "Pi 官方发布 App Studio 定价调整公告：自 2026 年 8 月 24 日起，App 创建和编辑将采用新定价。此前 Pi 为所有创作者大幅补贴 App 制作成本，此次调整将结束高额补贴阶段，创作者需关注费用变化。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2401,7 +2402,7 @@
       "category": "tech",
       "meta": "@_avichawla · 73.4K 粉丝 · 54.7K 阅 · 525 赞 · 48 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Grok Bot 大师课：全面讲解它是什么、底层共享计算机如何运作、与 Hermes Agent 的对比，以及如何配置并利用它完成实际工作。内容涵盖从概念到实践的全套流程。"
+      "summary": "GroK Bot 大师课，覆盖理解、设置到实际产出全流程。深入讲解 Bot 的本质、底层共享计算机工作原理，并与 Hermes Agent 做对比，帮助用户系统掌握这一新工具的核心机制和实际应用。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2412,7 +2413,7 @@
       "category": "tech",
       "meta": "@GoogleAI · 2.4M 粉丝 · 49.3K 阅 · 516 赞 · 53 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Google 推出 Sheets canvas + Gemini 3.7 Flash，可把电子表格变成实时交互的迷你应用，无需编写代码。打破传统 AI UI 工具只产出原型、不够实用的局限，让数据展示更生动。"
+      "summary": "谷歌发布 Sheets canvas 结合 Gemini 3.7 Flash 的新功能，无需编码即可将电子表格变成实时交互的迷你应用。指出大多数 AI UI 工具只能产出原型，而此方案能直接生成可用的动态应用。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2423,7 +2424,7 @@
       "category": "tech",
       "meta": "@queenpresh_x · 3.3K 粉丝 · 15.5K 阅 · 516 赞 · 113 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨 AI 训练数据来源问题，指出你的真实世界数据能帮助训练更好的 AI。平台 @KGeN_IO 为用户提供贡献数据的理由和激励，让普通人参与 AI 发展并从中获益。"
+      "summary": "探讨 AI 训练数据来源问题，指出真实世界数据能帮助训练更好的 AI。介绍 KGeN 平台，通过激励用户贡献个人数据来参与 AI 训练，为普通人提供参与 AI 进步并获得回报的途径。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2434,7 +2435,7 @@
       "category": "tech",
       "meta": "@Oracle_Vault · 21.6K 粉丝 · 11.5K 阅 · 2.8K 赞 · 597 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "报告 2026 年自主 AI 代理已成为预测市场的有效策略，Polymarket 上超 30% 交易来自算法和 AI 钱包。声称有验证过的 AI 机器人活跃交易，24 小时内回报率高达 200%。"
+      "summary": "报告称 2026 年自主 AI 代理已成为预测市场的有效策略，Polymarket 超 30% 交易量来自算法和 AI 钱包。宣称其验证过的 AI 机器人可在 24 小时内实现最高 200% 回报，暗示有可复制的交易方法。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2445,7 +2446,7 @@
       "category": "tech",
       "meta": "@Oracle_AI_Vault · 23.6K 粉丝 · 7.0K 阅 · 3.0K 赞 · 511 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "报告 2026 年自主 AI 代理已成为预测市场的有效策略，Polymarket 上超 30% 交易来自算法和 AI 钱包。声称有验证过的 AI 机器人活跃交易，24 小时内回报率高达 200%。"
+      "summary": "报告称 2026 年自主 AI 代理已成为预测市场的有效策略，Polymarket 超 30% 交易量来自算法和 AI 钱包。宣称其验证过的 AI 机器人可在 24 小时内实现最高 200% 回报，暗示有可复制的交易方法。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2955,7 +2956,7 @@
       "sourceId": "ft-companies",
       "title": "Top US law firms hit by backlash over ‘crazy’ hiring of first-year students",
       "url": "https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1",
-      "excerpt": "Wall Street firms are recruiting ever-earlier drawing concern from students and executives",
+      "excerpt": "Wall Street firms are recruiting ever earlier, drawing concern from students and executives",
       "publishedAt": "2026-08-20T04:00:19.000Z",
       "category": "finance",
       "source": "Financial Times"
@@ -3031,6 +3032,15 @@
       "publishedAt": "2026-08-20T00:27:53.000Z",
       "category": "finance",
       "source": "Financial Times"
+    },
+    {
+      "sourceId": "ftchinese-news",
+      "title": "中国称欧盟对京东收购Ceconomy的调查构成“不当域外管辖”",
+      "url": "https://www.ftchinese.com/story/001110669",
+      "excerpt": "中国司法部已禁止任何组织、个人协助调查，并警告称，“中方将坚决依法反制”。",
+      "publishedAt": "2026-08-19T16:00:00.000Z",
+      "category": "finance",
+      "source": "FT中文网"
     },
     {
       "sourceId": "ftchinese-news",
@@ -3204,23 +3214,13 @@
       "source": "FT中文网"
     },
     {
-      "sourceId": "ftchinese-news",
-      "title": "Shein拟以不到300亿美元估值上市",
-      "url": "https://www.ftchinese.com/story/001110578",
-      "excerpt": "较这家快时尚零售商在2022年一轮私募融资后达到的超过1000亿美元的估值大幅缩水。",
-      "publishedAt": "2026-08-10T16:00:00.000Z",
-      "category": "finance",
-      "source": "FT中文网"
-    },
-    {
       "sourceId": "bbc-business",
-      "title": "Travelodge boss steps down after security issues in rooms",
+      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
       "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
       "publishedAt": "2026-08-20T08:19:50.000Z",
       "category": "finance",
-      "source": "BBC Business",
-      "summary": "Travelodge首席执行官乔·博伊德尔因公司处理客房安全与保障问题不力而受到批评，现已辞职离任。"
+      "source": "BBC Business"
     },
     {
       "sourceId": "bbc-business",
@@ -3755,6 +3755,51 @@
     },
     {
       "sourceId": "wallstreetcn",
+      "title": "木头姐：一听到“短缺”，我就开始止盈",
+      "url": "https://wallstreetcn.com/charts/41959641",
+      "excerpt": "知名科技投资人“木头姐” Cathie Wood表示，一听到“短缺”，她就会开始考虑止盈，因为短缺往往会刺激市场疯狂扩产。 她认为，这一轮AI和芯片需求冲击最终也会走向均衡，真正值得关注的，是供应何时开始大规模释放，以及哪些公司会成为新的受益者。 ",
+      "publishedAt": "2026-08-20T08:47:03.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "谷歌与海力士双双加码，光学为何再次引爆全场？",
+      "url": "https://wallstreetcn.com/member/articles/3779877",
+      "excerpt": "",
+      "publishedAt": "2026-08-20T08:36:30.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "宇树科技上市两天大幅“波动”，但这批投资者还是最大“赢家”",
+      "url": "https://wallstreetcn.com/articles/3779893",
+      "excerpt": "",
+      "publishedAt": "2026-08-20T08:35:35.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "泡泡玛特上半年净利润50.4亿元不及预期，海外收入下滑拖累整体表现 | 财报见闻",
+      "url": "https://wallstreetcn.com/articles/3779894",
+      "excerpt": "",
+      "publishedAt": "2026-08-20T08:31:18.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "A股三大股指缩量反弹，创新药掀涨停潮，CPO活跃，宇树科技跌超18%，恒指涨0.8%，科网股多上涨",
+      "url": "https://wallstreetcn.com/articles/3779859",
+      "excerpt": "",
+      "publishedAt": "2026-08-20T08:26:31.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
       "title": "俄乌冲突+霍尔木兹受阻，美国加州柴油价格再破7美元",
       "url": "https://wallstreetcn.com/articles/3779881",
       "excerpt": "",
@@ -3777,6 +3822,15 @@
       "url": "https://wallstreetcn.com/livenews/3152216",
       "excerpt": "中国电信：上半年营收2590亿元，同比下降3.9%；净利润195.88亿元，同比下降14.9%。公司拟向全体股东每股派发现金红利0.1606元（含税）。",
       "publishedAt": "2026-08-20T08:25:22.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
+      "title": "韩国存储双雄“巨额回购”！美股盘前存储芯片股普涨，SK海力士涨约5%，全球债市风暴暂歇，黄金小幅下跌",
+      "url": "https://wallstreetcn.com/articles/3779853",
+      "excerpt": "",
+      "publishedAt": "2026-08-20T08:20:01.000Z",
       "category": "finance",
       "source": "华尔街见闻"
     },
@@ -3836,15 +3890,6 @@
     },
     {
       "sourceId": "wallstreetcn",
-      "title": "A股三大股指缩量反弹，创新药掀涨停潮，CPO活跃，宇树科技跌超18%，恒指涨1%，科网股午后回落",
-      "url": "https://wallstreetcn.com/articles/3779859",
-      "excerpt": "",
-      "publishedAt": "2026-08-20T07:42:37.000Z",
-      "category": "finance",
-      "source": "华尔街见闻"
-    },
-    {
-      "sourceId": "wallstreetcn",
       "title": "城投也卖起Token了",
       "url": "https://wallstreetcn.com/charts/41959639",
       "excerpt": "城投开始卖Token了。 没错，就是以前修路、建桥、搞园区的那个城投。 7月30日，嘉兴城投正式成立Token运营中心。 它自己不造芯片，也不做大模型，干的更像“批发生意”：把外面的算力和模型服务买过来，打包之后再卖给本地企业。 而就在一个月时间里，温州、广州、苏州接连入场。 城投怎么突然都盯上Token了？ 因为这门生意，他们其实很熟。以前修路收过路费，那现在给AI修路，照样可以收。 问题是，他",
@@ -3881,15 +3926,6 @@
     },
     {
       "sourceId": "wallstreetcn",
-      "title": "韩国存储双雄“巨额回购”！Kospi指数大涨6%，全球债市风暴暂歇，黄金小幅下跌",
-      "url": "https://wallstreetcn.com/articles/3779853",
-      "excerpt": "",
-      "publishedAt": "2026-08-20T07:15:29.000Z",
-      "category": "finance",
-      "source": "华尔街见闻"
-    },
-    {
-      "sourceId": "wallstreetcn",
       "title": "过去40年从未“在选举年下半年转鹰”，美联储“这一次不一样”？",
       "url": "https://wallstreetcn.com/articles/3779880",
       "excerpt": "",
@@ -3898,50 +3934,14 @@
       "source": "华尔街见闻"
     },
     {
-      "sourceId": "wallstreetcn",
-      "title": "美财政部出手救美债，美联储反而被逼到了墙角",
-      "url": "https://wallstreetcn.com/charts/41959638",
-      "excerpt": "资深交易员Dan Nathan和Guy Adami表示：财政部今天早上的突发行动， 直接改变了市场的游戏规则！在美债市场的剧烈波动下， 央行官员恐怕很难再继续维持鹰派立场。 从 30 年期国债收益率单日变动 9 个基点，到几周前暴涨 13 个基点， 债券市场的巨大波动已经全面拉开序幕，并且不会轻易结束。 ",
-      "publishedAt": "2026-08-20T07:09:39.000Z",
-      "category": "finance",
-      "source": "华尔街见闻"
-    },
-    {
-      "sourceId": "wallstreetcn",
-      "title": "对话付鹏：AI生产力叙事进入证伪空档期？市场正迎来关键窗口期！",
-      "url": "https://wallstreetcn.com/premium/articles/3779686?layout=wscn-layout",
-      "excerpt": "",
-      "publishedAt": "2026-08-20T06:50:51.000Z",
-      "category": "finance",
-      "source": "华尔街见闻"
-    },
-    {
-      "sourceId": "wallstreetcn",
-      "title": "三星美国扩产提速：德州2号晶圆厂年底动工，设备认证已提前启动",
-      "url": "https://wallstreetcn.com/articles/3779875",
-      "excerpt": "",
-      "publishedAt": "2026-08-20T06:50:09.000Z",
-      "category": "finance",
-      "source": "华尔街见闻"
-    },
-    {
-      "sourceId": "wallstreetcn",
-      "title": "Moderna癌症疫苗的“软件定义时刻”：工业文明最伟大的能力不再是标准化？",
-      "url": "https://wallstreetcn.com/articles/3779879",
-      "excerpt": "",
-      "publishedAt": "2026-08-20T06:48:24.000Z",
-      "category": "finance",
-      "source": "华尔街见闻"
-    },
-    {
       "sourceId": "bbc-world",
       "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-      "publishedAt": "2026-08-20T07:59:55.000Z",
+      "publishedAt": "2026-08-20T08:39:26.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "俄罗斯周四对基辅发动“大规模袭击”，击中公寓楼和仓库，造成至少13人死亡。乌克兰面临防空力量短缺问题。"
+      "summary": "乌克兰首都基辅遭俄军大规模导弹袭击，至少13人死亡。官员称公寓楼和仓库被击中，乌方正面临防空力量不足的困境。"
     },
     {
       "sourceId": "bbc-world",
@@ -3968,8 +3968,7 @@
       "excerpt": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
       "publishedAt": "2026-08-20T07:08:35.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "检察官称，蘑菇杀人犯艾琳·帕特森的刑期“明显不足”，因存在假释可能，上诉法院要求其终身监禁，称其罪行“极其可怕”。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3979,7 +3978,7 @@
       "publishedAt": "2026-08-20T07:33:11.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "澳大利亚对以色列决定不就加沙援助人员佐米·弗兰克姆之死展开刑事调查表示“愤怒”。澳外长就此“侮辱性”决定召见以色列大使。"
+      "summary": "澳大利亚外长召见以色列大使，称以方决定不就援助人员佐米·弗兰科姆在加沙被杀一事展开刑事调查是“侮辱”行为。"
     },
     {
       "sourceId": "bbc-world",
@@ -4016,7 +4015,7 @@
       "publishedAt": "2026-08-20T08:14:20.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "日本栃木县新鹿沼站附近，一列火车撞上四名工人，致其死亡。当局称事发点在东京北部，具体原因正在调查中。"
+      "summary": "日本栃木县新鹿沼站附近，一列火车撞上4名工人，导致4人死亡。该站位于东京以北，当局正在调查事故原因。"
     },
     {
       "sourceId": "bbc-world",
@@ -4101,9 +4100,9 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Who is Natalie Harp, Trump's right-hand woman?",
+      "title": "A constant presence by Trump's side, now Natalie Harp is suddenly in spotlight",
       "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "excerpt": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
       "publishedAt": "2026-08-19T23:11:14.000Z",
       "category": "politics",
       "source": "BBC World"
@@ -4320,10 +4319,10 @@
       "title": "Australia news live: NSW police commissioner says ‘I unreservedly apologise’ for miscommunication over 18-year-old bushwalker Lily Hooper’s death",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
       "excerpt": "Follow today’s news live Get our breaking news email, free app or daily news podcast ‘Outrageous’: Greens leader says sending Israeli ambassador home should be on the table Greens leader Larissa Waters says strong words are not enough, and the government should sanction the state of Israel after its",
-      "publishedAt": "2026-08-20T08:01:50.000Z",
+      "publishedAt": "2026-08-20T08:16:06.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "新南威尔士州警察局长就18岁徒步者莉莉·胡珀死亡事件的沟通失误表示“毫无保留地道歉”。绿党领袖呼吁政府制裁以色列，并考虑驱逐其大使。"
+      "summary": "新南威尔士州警察局长就18岁丛林徒步者莉莉·胡珀死亡事件的沟通失误郑重道歉。绿党领袖称澳洲应制裁以色列并将驻澳大使遣返。"
     },
     {
       "sourceId": "guardian-world",
@@ -4333,7 +4332,7 @@
       "publishedAt": "2026-08-20T07:47:06.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "悉尼法庭聆讯，艾伦·琼斯的“叫喊声停止”时开始其“性行为”。原告称其比琼斯年轻40多岁，权力远不如他，当时担任其司机。"
+      "summary": "悉尼法庭审理艾伦·琼斯性侵案，一名成年受害人作证称，其担任司机时，琼斯的咆哮停止后性行为开始。该受害人称比琼斯年轻40岁以上，权力远不及对方。"
     },
     {
       "sourceId": "guardian-world",
@@ -4343,7 +4342,7 @@
       "publishedAt": "2026-08-20T07:29:30.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚南澳州发生三起大规模鸟类死亡事件，超1000只鸟死亡，H5禽流感疫情“显著”升级。州长马利诺斯卡斯称，家禽、牲畜或哺乳动物尚无感染报告。"
+      "summary": "澳大利亚出现三起大规模鸟类死亡事件，逾1000只鸟死亡，H5禽流感疫情显著升级。南澳州长表示，目前未在家禽或牲畜中检出病毒，也未发现哺乳动物群体死亡。"
     },
     {
       "sourceId": "guardian-world",
@@ -4367,11 +4366,11 @@
       "sourceId": "guardian-world",
       "title": "Russia launches ‘massive attack’ on Kyiv and surrounding region – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/aug/20/ukraine-volodymyr-zelenskyy-russia-vladimir-putin-kyiv-europe-live-latest-updates",
-      "excerpt": "Zelenskyy says Russia had been preparing for a long time, combining different types of missiles Ukraine’s air ⁠force said that Russia ⁠had ⁠launched dozens ​of ballistic, cruise, and ⁠hypersonic missiles, as well as 168 ⁠drones in ​its ‌overnight attack ‌on the country. It said ‌that air defence uni",
-      "publishedAt": "2026-08-20T08:01:32.000Z",
+      "excerpt": "Zelenskyy says Russia had been preparing for a long time, combining different types of missiles The United Nations nuclear ⁠watchdog said on Thursday that Russian-held Zaporizhzhia ⁠nuclear power ⁠station lost ​its only remaining external power line, ⁠forcing emergency diesel generators to start sup",
+      "publishedAt": "2026-08-20T08:26:22.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "俄罗斯对基辅及周边地区发动“大规模攻击”，泽连斯基称俄方蓄谋已久。乌克兰空军表示，俄方发射数十枚弹道导弹、巡航导弹和高超音速导弹，以及168架无人机。"
+      "summary": "俄罗斯对基辅及周边地区发动大规模导弹袭击。泽连斯基称俄方筹备已久，多种导弹并用。国际原子能机构表示，俄控扎波罗热核电站失去唯一外部电力线，被迫启用应急柴油发电机。"
     },
     {
       "sourceId": "guardian-world",
@@ -4380,8 +4379,7 @@
       "excerpt": "Children’s hospital and residential areas hit in latest bombardment of capital and surrounding region Europe live – latest updates A heavy Russian bombardment has killed at least 13 people in Ukraine’s capital and its surrounding region overnight, authorities have said. A missile attack on Kyiv stru",
       "publishedAt": "2026-08-20T07:08:50.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "俄罗斯对基辅及周边地区发动猛烈导弹袭击，造成至少13人死亡。儿童医院和居民区被击中。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -4550,9 +4548,10 @@
       "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
       "url": "https://www.nytimes.com/2026/08/19/world/asia/vietnam-crash-tree-55-community-party-official.html",
       "excerpt": "Young people are calling for justice after a former Communist Party official killed a teenager in a car crash. The government’s response has been surprising.",
-      "publishedAt": "2026-08-19T18:14:47.000Z",
+      "publishedAt": "2026-08-20T08:31:27.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "越南青少年抗议后，政府称前共产党官员造成55号树致命车祸，致一名青少年死亡。政府回应出人意料，引发公众对正义的呼吁。"
     },
     {
       "sourceId": "nyt-world",
@@ -4615,8 +4614,7 @@
       "excerpt": "The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision.",
       "publishedAt": "2026-08-20T06:51:04.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "哈里王子和梅根将在美国居住六年后搬回英国。据知情人士透露，尽管与王室关系紧张，他们仍将保持非在职王室成员身份。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4734,7 +4732,7 @@
       "publishedAt": "2026-08-20T07:31:55.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "中国法院判处恒大地产创始人许家印终身监禁。此判决是恒大垮台后的里程碑，该公司负债超3000亿美元。"
+      "summary": "中国法院判处恒大集团创始人许家印无期徒刑。恒大负债超3000亿美元而倒闭，此判决是其事件的重要里程碑。"
     },
     {
       "sourceId": "npr-world",
@@ -5089,13 +5087,52 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
+      "url": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
+      "excerpt": "Four-time F1 World Drivers' Champion's new deal puts to rest rumours that he would exit the team at the end of 2028.",
+      "publishedAt": "2026-08-20T08:27:55.000Z",
+      "category": "politics",
+      "source": "Al Jazeera"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
+      "excerpt": "Heatwaves are squeezing growth and productivity while the Iran war drives up Europe's energy costs.",
+      "publishedAt": "2026-08-20T08:24:04.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "热浪侵蚀欧洲经济增长与生产力，同时伊朗战争推高能源成本。欧洲面临热浪与能源危机双重冲击的考验。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Video shows Russian missile strike on Ukrainian capital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+      "excerpt": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
+      "publishedAt": "2026-08-20T08:18:15.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "视频显示俄军弹道导弹袭击乌克兰首都基辅，乌官员称至少12人死亡、数十人受伤。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
+      "excerpt": "Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000 Palestinian homes in Israel.",
+      "publishedAt": "2026-08-20T08:16:47.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "以色列极右翼部长伊塔马尔·本-格维尔赞扬拆除巴勒斯坦人1万套房屋的行为。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
       "excerpt": "Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.",
       "publishedAt": "2026-08-20T07:50:07.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "以色列总理内塔尼亚胡警告称，以色列不会容忍土耳其在叙利亚的军事存在。"
+      "summary": "以色列总理内塔尼亚胡警告，以方不会容忍土耳其在叙利亚的军事存在。"
     },
     {
       "sourceId": "aljazeera",
@@ -5105,7 +5142,7 @@
       "publishedAt": "2026-08-20T07:38:22.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "分析显示，在美伊谅解备忘录到期前，石油流量几乎增长两倍。Kpler数据指出，60天窗口期约有3.74亿桶石油离开海湾。"
+      "summary": "分析显示，在美国与伊朗谅解备忘录失效前，60天内海湾石油出口量达3.74亿桶，几乎增长两倍。数据来自行业机构Kpler。"
     },
     {
       "sourceId": "aljazeera",
@@ -5115,7 +5152,7 @@
       "publishedAt": "2026-08-20T07:17:13.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "辛辛那提公开赛头号种子萨巴伦卡爆冷负于贝莱克，法网冠军兹维列夫第四轮出局。"
+      "summary": "辛辛那提网球公开赛冷门频出，女单头号种子萨巴伦卡爆冷不敌贝奇莱克，男单法网冠军兹维列夫在第四轮出局。"
     },
     {
       "sourceId": "aljazeera",
@@ -5124,8 +5161,7 @@
       "excerpt": "UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.",
       "publishedAt": "2026-08-20T07:11:37.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "苏丹科尔多凡地区战火持续，新增超20万流离失所者。联合国警告流离失所激增，奥贝德电力和供水设施遭袭。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -5140,7 +5176,7 @@
       "sourceId": "aljazeera",
       "title": "Bangladesh holds presidential election in first contested vote in 35 years",
       "url": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
-      "excerpt": "BNP's Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.",
+      "excerpt": "BNP's Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmad, nominee of Jamaat-led 11-party alliance.",
       "publishedAt": "2026-08-20T06:38:39.000Z",
       "category": "politics",
       "source": "Al Jazeera"
@@ -5255,7 +5291,7 @@
     },
     {
       "sourceId": "aljazeera",
-      "title": "Iran war live: Tehran says Trump’s new economic measures will fail",
+      "title": "Iran war live: Tehran says Trump’s ‘economic warfare’ will fail",
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
       "excerpt": "Trump says Washington may resume talks with Tehran 'at some point'.",
       "publishedAt": "2026-08-20T00:00:00.000Z",
@@ -5277,42 +5313,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss",
       "excerpt": "The grandmother of Hind Rajab, a five-year-old Palestinian girl killed in her family’s car by Israeli forces in Gaza.",
       "publishedAt": "2026-08-19T23:56:47.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Kosovo finds remains of 23 people in mass graves search",
-      "url": "https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss",
-      "excerpt": "The discovery is part of Kosovo’s long-running effort to find people who disappeared during a brutal war in the 1990s.",
-      "publishedAt": "2026-08-19T23:55:33.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "South Korea’s rookie investors lose small fortunes amid AI stocks frenzy",
-      "url": "https://www.aljazeera.com/economy/2026/8/19/south-koreas-rookie-investors-lose-small-fortunes-amid-ai-stocks-frenzy?traffic_source=rss",
-      "excerpt": "South Korea's stock market has attracted a wave of novice investors amid booming demand for chips used in AI.",
-      "publishedAt": "2026-08-19T23:51:12.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "International body votes to convene emergency meeting over Nicaragua",
-      "url": "https://www.aljazeera.com/news/2026/8/19/international-body-votes-to-convene-emergency-meeting-over-nicaragua?traffic_source=rss",
-      "excerpt": "Nicaragua's move to extend Ortega's rule and bar rivals from elections triggers a near-unanimous OAS rebuke.",
-      "publishedAt": "2026-08-19T23:48:52.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Pentagon quizzes NATO allies on political loyalty, documents reveal",
-      "url": "https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss",
-      "excerpt": "NATO allies probed on loyalty to US policies in Pentagon questionnaire obtained exclusively by Al Jazeera.",
-      "publishedAt": "2026-08-19T23:24:43.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
@@ -5588,6 +5588,55 @@
     },
     {
       "sourceId": "sina-finance",
+      "title": "港交所CEO：香港IPO热潮不止科技领域，募资规模突破400亿美元",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxzpt8825498.shtml",
+      "excerpt": "核心要点今年迄今，香港已有超 100 家企业完成上市，募资总额超 400 亿美元，已经超越港交所 2025 全年 IPO 募资额。港交所行政总裁陈翊庭（Bonnie Chan）表示...",
+      "publishedAt": "2026-08-20T08:46:14.000Z",
+      "category": "finance",
+      "meta": "来源：环球市场播报",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "光大期货0820热点追踪：黄金站上4500！美国财政部出手了",
+      "url": "https://finance.sina.com.cn/money/future/2026-08-20/doc-ininxzps2050370.shtml",
+      "excerpt": "光大期货0820热点追踪：黄金站上4500！美国财政部出手了",
+      "publishedAt": "2026-08-20T08:42:26.000Z",
+      "category": "finance",
+      "meta": "来源：市场资讯",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "英国软件公司Pinewood以5.45亿英镑接受美国私募股权收购",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxzps2045693.shtml",
+      "excerpt": "英国汽车经销商软件开发商Pinewood Technologies已同意美国私募股权公司Ridgeview Partners提出的5.45亿英镑收购要约。此前，另一家竞购方Apax因担忧人工智能技术对软件行...",
+      "publishedAt": "2026-08-20T08:35:30.000Z",
+      "category": "finance",
+      "meta": "来源：环球市场播报",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "光大期货0820热点追踪：油脂持续走强，棕榈油刷新年内高点",
+      "url": "https://finance.sina.com.cn/money/future/2026-08-20/doc-ininxzpk8039913.shtml",
+      "excerpt": "周四油脂品种共振走高，其中棕榈油2701合约刷新年内高点，盘中涨近2%。棕榈油维持近弱远强格局，近端受库存现实压制，远月博弈厄尔尼诺天气导致主产区减产预期...",
+      "publishedAt": "2026-08-20T08:32:22.000Z",
+      "category": "finance",
+      "meta": "来源：市场资讯",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "中央气象台：全球天气公报（2026年08月20日）",
+      "url": "https://finance.sina.com.cn/money/future/hyxh/2026-08-20/doc-ininxzpp6766055.shtml",
+      "excerpt": "来源：中央气象台网站 1．中南半岛西欧等地出现较强降水 过去24小时（8月19日00时-8月20日00时，UTC），韩国、日本、斯里兰卡、中南半岛、澳大利亚东部和南部、西欧...",
+      "publishedAt": "2026-08-20T08:30:24.000Z",
+      "category": "finance",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
       "title": "就在美国宣布扩大回购前一天 长期债券ETF获创纪录资金流入",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxzpt8812123.shtml",
       "excerpt": "周二，一位或多位投资者大举买入一只对美国长期国债收益率波动高度敏感的交易所交易基金（ETF）。而就在一天后，美国财政部意外宣布加大长期美债回购力度...",
@@ -5728,62 +5777,12 @@
     },
     {
       "sourceId": "sina-finance",
-      "title": "劲拓股份索赔持续征集，符合要求即可加入",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-20/doc-ininxzpt8798385.shtml",
-      "excerpt": "上海沪紫律师事务所刘鹏律师团队截止目前已收到数千位投资者的索赔报名，目前正在准备起诉材料中，暂定于2025年11月28日（含当日）之前买入...",
-      "publishedAt": "2026-08-20T08:02:41.000Z",
+      "title": "镍与不锈钢：配额博弈撑住了矿价，但撑不住高库存",
+      "url": "https://finance.sina.com.cn/money/future/2026-08-20/doc-ininxzpp6766539.shtml",
+      "excerpt": "一德菁英汇 作者：何牧/F0279329、Z0012371/ 一句话定调：镍矿在等配额，镍铁在等需求，不锈钢在等旺季——三个“等”字，全是震荡。",
+      "publishedAt": "2026-08-20T08:02:47.000Z",
       "category": "finance",
       "meta": "来源：市场资讯",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "港股收评：恒指涨0.80% 科指涨0.39% 黄金股集体大涨 创新药概念股普涨 快手跌超11%",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-20/doc-ininxzpt8802845.shtml",
-      "excerpt": "8月20日消息，港股三大指数集体上涨。截至收盘，恒生指数涨0.80%，报25698.49，恒生科技指数涨0.39%，国企指数涨0.90%。盘面上，科网股涨跌不一，百度涨超2%...",
-      "publishedAt": "2026-08-20T08:00:24.000Z",
-      "category": "finance",
-      "meta": "来源：新浪港股",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "马斯克称中国在火箭技术和AI领域都是“最强竞争对手”",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxzpt8795291.shtml",
-      "excerpt": "美国科技亿万富翁埃隆·马斯克周三在X上发帖称，“中国也是迄今为止人工智能领域的最强竞争对手”，回应了他15年前的一则预言，即中国最终将成为SpaceX在火箭技术方面最重要的...",
-      "publishedAt": "2026-08-20T07:59:54.000Z",
-      "category": "finance",
-      "meta": "来源：环球市场播报",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "长安期货屈亚娟：供给端提振仍强 铜价高位波动料加剧",
-      "url": "https://finance.sina.com.cn/money/future/2026-08-20/doc-ininxzpk8008371.shtml",
-      "excerpt": " 8月后，铜价快速冲高，宏观压力减轻金银反弹，矿端紧张及非美国家铜资源趋紧持续发酵，沪铜最高近11万，LME铜最高至14400附近，冲高后有小幅回调。",
-      "publishedAt": "2026-08-20T07:56:08.000Z",
-      "category": "finance",
-      "meta": "来源：市场资讯",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "瑞典央行维持利率不变 重申今年有可能加息",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxzpt8788102.shtml",
-      "excerpt": "瑞典央行连续第十二个月维持借贷成本不变，并重申如果伊朗战争引发通胀上行，该行今年准备收紧货币政策。 瑞典央行周四维持关键利率在1.75%不变，为欧盟最低水平。",
-      "publishedAt": "2026-08-20T07:48:17.000Z",
-      "category": "finance",
-      "meta": "来源：环球市场播报",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "巴克莱投行管理层再度重组 联席架构缩减为双人领导",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxzpt8784373.shtml",
-      "excerpt": "巴克莱银行于本周一宣布对其华尔街投行业务进行重大管理层重组，任命来自美国银行的交易撮合者迈克·朱与现任全球市场主管阿迪勒·汗共同担任投行业务联席主管。",
-      "publishedAt": "2026-08-20T07:43:12.000Z",
-      "category": "finance",
-      "meta": "来源：环球市场播报",
       "source": "新浪财经"
     },
     {
@@ -6058,73 +6057,19 @@
     },
     {
       "sourceId": "producthunt",
+      "title": "Lifelong",
+      "url": "https://www.producthunt.com/products/lifelong-the-family-health-company",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-08-20T03:03:33.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
       "title": "Checksum AI",
       "url": "https://www.producthunt.com/products/checksum-ai",
       "excerpt": "Discussion | Link",
       "publishedAt": "2026-08-10T14:43:32.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
-      "title": "Revy",
-      "url": "https://www.producthunt.com/products/revy-the-fashion-app",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-19T05:03:32.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
-      "title": "Roveri",
-      "url": "https://www.producthunt.com/products/roveri",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-11T13:14:36.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
-      "title": "MiniMax Design",
-      "url": "https://www.producthunt.com/products/minimax",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-20T04:06:04.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
-      "title": "Berd",
-      "url": "https://www.producthunt.com/products/berd",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-18T23:41:53.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
-      "title": "NobodyWho",
-      "url": "https://www.producthunt.com/products/nobodywho",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-19T09:35:50.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
-      "title": "Peach Co-Pilot",
-      "url": "https://www.producthunt.com/products/peach-co-pilot",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-19T08:08:55.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
-      "title": "The New Calendly",
-      "url": "https://www.producthunt.com/products/calendly",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-20T05:17:09.000Z",
       "category": "tech",
       "source": "Product Hunt"
     },
@@ -6139,10 +6084,46 @@
     },
     {
       "sourceId": "producthunt",
-      "title": "ProtoNote",
-      "url": "https://www.producthunt.com/products/protonote",
+      "title": "Prized",
+      "url": "https://www.producthunt.com/products/prized",
       "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-20T06:59:05.000Z",
+      "publishedAt": "2026-08-19T22:38:09.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
+      "title": "MiniMax Design",
+      "url": "https://www.producthunt.com/products/minimax",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-08-20T04:06:04.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
+      "title": "The New Calendly",
+      "url": "https://www.producthunt.com/products/calendly",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-08-20T05:17:09.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
+      "title": "Zoho Cliq 7.0",
+      "url": "https://www.producthunt.com/products/zoho",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-07-31T11:44:22.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
+      "title": "bitdrift.ai",
+      "url": "https://www.producthunt.com/products/bitdrift",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-08-17T17:12:19.000Z",
       "category": "tech",
       "source": "Product Hunt"
     },
@@ -6175,46 +6156,37 @@
     },
     {
       "sourceId": "producthunt",
-      "title": "bitdrift.ai",
-      "url": "https://www.producthunt.com/products/bitdrift",
+      "title": "Roveri",
+      "url": "https://www.producthunt.com/products/roveri",
       "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-17T17:12:19.000Z",
+      "publishedAt": "2026-08-11T13:14:36.000Z",
       "category": "tech",
       "source": "Product Hunt"
     },
     {
       "sourceId": "producthunt",
-      "title": "Grok 4.6",
-      "url": "https://www.producthunt.com/products/grok-4-6-7",
+      "title": "NobodyWho",
+      "url": "https://www.producthunt.com/products/nobodywho",
       "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-19T14:26:08.000Z",
+      "publishedAt": "2026-08-19T09:35:50.000Z",
       "category": "tech",
       "source": "Product Hunt"
     },
     {
       "sourceId": "producthunt",
-      "title": "Zoho Cliq 7.0",
-      "url": "https://www.producthunt.com/products/zoho",
+      "title": "ProtoNote",
+      "url": "https://www.producthunt.com/products/protonote",
       "excerpt": "Discussion | Link",
-      "publishedAt": "2026-07-31T11:44:22.000Z",
+      "publishedAt": "2026-08-20T06:59:05.000Z",
       "category": "tech",
       "source": "Product Hunt"
     },
     {
       "sourceId": "producthunt",
-      "title": "Lifelong",
-      "url": "https://www.producthunt.com/products/lifelong-the-family-health-company",
+      "title": "Berd",
+      "url": "https://www.producthunt.com/products/berd",
       "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-20T03:03:33.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
-      "title": "Prized",
-      "url": "https://www.producthunt.com/products/prized",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-19T22:38:09.000Z",
+      "publishedAt": "2026-08-18T23:41:53.000Z",
       "category": "tech",
       "source": "Product Hunt"
     },
@@ -6242,6 +6214,33 @@
       "url": "https://www.producthunt.com/products/shape-5",
       "excerpt": "Discussion | Link",
       "publishedAt": "2026-08-19T23:56:11.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
+      "title": "Revy",
+      "url": "https://www.producthunt.com/products/revy-the-fashion-app",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-08-19T05:03:32.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
+      "title": "Grok 4.6",
+      "url": "https://www.producthunt.com/products/grok-4-6-7",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-08-19T14:26:08.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
+      "title": "Peach Co-Pilot",
+      "url": "https://www.producthunt.com/products/peach-co-pilot",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-08-19T08:08:55.000Z",
       "category": "tech",
       "source": "Product Hunt"
     },
@@ -6292,15 +6291,6 @@
     },
     {
       "sourceId": "producthunt",
-      "title": "Antibot",
-      "url": "https://www.producthunt.com/products/antibot",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-06-26T07:19:53.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
       "title": "Loopcase",
       "url": "https://www.producthunt.com/products/loopcase",
       "excerpt": "Discussion | Link",
@@ -6319,10 +6309,19 @@
     },
     {
       "sourceId": "producthunt",
-      "title": "AgentR 3.0",
-      "url": "https://www.producthunt.com/products/agentr",
+      "title": "Astute",
+      "url": "https://www.producthunt.com/products/astute-2",
       "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-16T05:45:01.000Z",
+      "publishedAt": "2026-08-16T18:31:20.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
+      "title": "Claude Watermark Remover",
+      "url": "https://www.producthunt.com/products/claude-watermark",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-08-19T06:46:06.000Z",
       "category": "tech",
       "source": "Product Hunt"
     },
@@ -6332,15 +6331,6 @@
       "url": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob",
       "excerpt": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob",
       "publishedAt": "2026-08-20T00:17:26.000Z",
-      "category": "tech",
-      "source": "AIHOT"
-    },
-    {
-      "sourceId": "aihot",
-      "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
-      "url": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
-      "excerpt": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
-      "publishedAt": "2026-08-19T21:42:09.000Z",
       "category": "tech",
       "source": "AIHOT"
     },
@@ -6589,12 +6579,759 @@
     },
     {
       "sourceId": "aihot",
-      "title": "新兴多智能体系统的模式与问题",
-      "url": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
-      "excerpt": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
-      "publishedAt": "2026-08-16T11:17:57.000Z",
+      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
+      "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
+      "excerpt": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
+      "publishedAt": "2026-08-15T11:00:50.000Z",
       "category": "tech",
       "source": "AIHOT"
+    },
+    {
+      "sourceId": "aihot",
+      "title": "MOSS-VL技术报告：将实时交互作为一等能力的开源视觉语言模型家族",
+      "url": "https://aihot.virxact.com/items/cmsyhyrd60wg3roz03o05ne6l",
+      "excerpt": "MOSS-VL是一个将实时交互（边感知边说话）作为一等能力的开源视觉语言模型家族，通过门控交叉注意力让语言解码器在生成时同步处理视觉输入。MOSS-VL-Realtime在四个流式基准中平均成绩居开源模型之首（三项第一、一项第二），在OmniMMI Proactive Alerting上以66.0分大幅领先最佳基线（37.5分）。 🔗 阅读原文 via AIHOT · https://aihot.virxact.com/items/cmsyhyrd60wg3roz03o05ne6l",
+      "publishedAt": "2026-08-15T00:00:00.000Z",
+      "category": "tech",
+      "source": "AIHOT"
+    },
+    {
+      "sourceId": "art-news",
+      "title": "Crushing Heat Waves in France Threaten Monet’s Gardens in Giverny",
+      "url": "https://www.artnews.com/art-news/news/crushing-heatwaves-in-france-threaten-monets-gardens-giverny-1234795339/",
+      "excerpt": "Some of the iconic flowers in the Impressionist master's gardens have not survived this summer's record-breaking heat, as gardeners at the painter's historic home in Normandy adapt to the changing climate.",
+      "publishedAt": "2026-08-19T22:06:21.000Z",
+      "category": "tech",
+      "source": "ARTnews"
+    },
+    {
+      "sourceId": "art-news",
+      "title": "Artists, Collectors, Dealers Accuse San Francisco Dealer Jonathan Carver Moore of Nonpayment",
+      "url": "https://www.artnews.com/art-news/news/artists-collectors-dealers-accuse-jonathan-carver-moore-1234795320/",
+      "excerpt": "\"I care so much about the arts community and will continue to learn the business and make things right,” Moore told ARTnews.",
+      "publishedAt": "2026-08-19T20:22:23.000Z",
+      "category": "tech",
+      "source": "ARTnews"
+    },
+    {
+      "sourceId": "art-news",
+      "title": "Sandy Lerner Cat-Themed Art Collection is Out of the Bag",
+      "url": "https://www.artnews.com/art-news/news/sandy-lerner-cat-themed-art-collection-auctioned-bonhams-1234795289/",
+      "excerpt": "Bonhams will auction the American business woman's collection this fall, which she began when she was \"forced to be catless.\"",
+      "publishedAt": "2026-08-19T20:06:38.000Z",
+      "category": "tech",
+      "source": "ARTnews"
+    },
+    {
+      "sourceId": "art-news",
+      "title": "Speed Art Museum in Kentucky Is Repatriating 24 Objects to Cheyenne and Arapaho Tribes",
+      "url": "https://www.artnews.com/art-news/news/speed-art-museum-kentucky-repatriating-24-objects-cheyenne-arapaho-tribes-1234795292/",
+      "excerpt": "The items, including beaded bags, moccasins, and a cradleboard, have been in the museum's collection since 1930.",
+      "publishedAt": "2026-08-19T19:23:58.000Z",
+      "category": "tech",
+      "source": "ARTnews"
+    },
+    {
+      "sourceId": "art-news",
+      "title": "Bruce Museum Names New Chief Curator, Yusaku Maezawa’s Art-Filled $350 M. Yacht, and More: Industry Moves for August 19, 2026",
+      "url": "https://www.artnews.com/art-news/market/bruce-museum-chief-curator-yusaku-maezawa-yacht-industry-moves-1234795285/",
+      "excerpt": "Plus, Towner Eastbourne in England names next director and CEO.",
+      "publishedAt": "2026-08-19T19:15:00.000Z",
+      "category": "tech",
+      "source": "ARTnews"
+    },
+    {
+      "sourceId": "art-news",
+      "title": "Christie’s and Sotheby’s Are Duking It Out to Secure Eccentric Collector Herbert Lust’s $60 M. Art Holdings",
+      "url": "https://www.artnews.com/art-news/market/christies-sothebys-battle-herbert-lust-collection-1234795281/",
+      "excerpt": "The top lot will almost certainly be a large sculpture by Alberto Giacometti, sources tell ARTnews.",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "category": "tech",
+      "source": "ARTnews"
+    },
+    {
+      "sourceId": "art-news",
+      "title": "Fakes Proliferate as South Asian Art Market Booms, Dealers Warn",
+      "url": "https://www.artnews.com/art-news/market/south-asian-modern-art-fakes-forgeries-market-1234795249/",
+      "excerpt": "“When people can’t tell any more whether they are dealing with the real McCoy, why would they pay premium prices?” said collector Hameed Haroon.",
+      "publishedAt": "2026-08-19T18:53:26.000Z",
+      "category": "tech",
+      "source": "ARTnews"
+    },
+    {
+      "sourceId": "art-news",
+      "title": "New York Museums Reportedly Get a Pass on Fines Resulting From Fire Code Violations",
+      "url": "https://www.artnews.com/art-news/news/new-york-museums-reportedly-fines-fire-code-violations-1234795275/",
+      "excerpt": "Most of the violations result from alarms going off in the absence of an emergency.",
+      "publishedAt": "2026-08-19T18:36:52.000Z",
+      "category": "tech",
+      "source": "ARTnews"
+    },
+    {
+      "sourceId": "art-news",
+      "title": "MIT Study Finds that AI-Generated Images Often Can’t Be Traced Back to Their Sources",
+      "url": "https://www.artnews.com/art-news/news/mit-study-ai-generated-images-trace-back-sources-1234795260/",
+      "excerpt": "The phenomenon, termed attribution decay, may have implications for copyright disputes.",
+      "publishedAt": "2026-08-19T16:29:55.000Z",
+      "category": "tech",
+      "source": "ARTnews"
+    },
+    {
+      "sourceId": "art-news",
+      "title": "Gen Z and Millennials are Rejecting AI for Plein Air, Sydney City Council Stirs Censorship Debate: Morning Links for August 19, 2026",
+      "url": "https://www.artnews.com/art-news/news/gen-z-and-millennials-are-rejecting-ai-for-plein-air-sydney-city-council-stirs-censorship-debate-morning-links-for-august-19-2026-1234795236/",
+      "excerpt": "Here's what we're reading this morning.",
+      "publishedAt": "2026-08-19T14:28:29.000Z",
+      "category": "tech",
+      "source": "ARTnews"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "Rijksmuseum Receives Book of Drawings Made By Rombout van Uylenburgh",
+      "url": "https://www.artforum.com/news/rijksmuseum-receives-drawings-by-rombout-van-uylenburgh-1234757391/",
+      "excerpt": "The Rijksmuseum in Amsterdam recently received an exceptionally well-preserved 17th-century drawing book as a donation from the prominent Van Eeghen family in the Netherlands, the museum announced. The book, which has been in the safekeeping of the Van Eeghen family for more than three centuries, co",
+      "publishedAt": "2026-08-19T20:20:47.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "Judge Approves Trump Administration’s Paint Tests On Eisenhower Building",
+      "url": "https://www.artforum.com/news/judge-approves-trump-paint-tests-on-eisenhower-building-1234757385/",
+      "excerpt": "On Tuesday, a federal judge granted the Trump administration permission to proceed with paint tests on the Eisenhower Executive Building. Trump’s desire, which is to coat the granite facade with white paint, has been met with significant pushback from historians who say that covering the historic bu",
+      "publishedAt": "2026-08-19T19:44:58.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "Alison Jacques Gallery Faces Lawsuit Over Canceled Sale Of Monica Sjöö Works",
+      "url": "https://www.artforum.com/news/alison-jacques-gallery-faces-lawsuit-over-canceled-sale-1234757375/",
+      "excerpt": "A trio of paintings by Swedish-born artist Monica Sjöö are at the center of a legal dispute between London-based Alison Jacques gallery and Swedish-American couple Yoed and Natasha Anise. The couple allege that Jacques, who represents Sjöö’s estate, breached contract conditions in selling the painti",
+      "publishedAt": "2026-08-19T17:52:54.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "Former Owner of Frank Lloyd Wright Skyscraper Sues Media for Defamation",
+      "url": "https://www.artforum.com/news/former-owner-of-frank-lloyd-wright-skyscraper-sues-1234757371/",
+      "excerpt": "Cynthia Blanchard, the former owner of Price Tower in Bartlesville, Oklahoma, and the Dallas-based company 20cDesign have filed a defamation suit against numerous media outlets, as well as the Frank Lloyd Wright Building Conservancy and its executive director, Barbara Gordon, over coverage of the 20",
+      "publishedAt": "2026-08-19T17:51:32.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "Taiwanese Artists Accuse Gwangju Biennale of Censorship Over Renaming of Pavilion",
+      "url": "https://www.artforum.com/news/taiwanese-artists-accuse-gwangju-biennale-censorship-1234757357/",
+      "excerpt": "Taiwanese artist participating in the 16th iteration of the Gwangju Biennale allege that exhibition organizers changed the name of their pavilion in an act of political censorship. The group’s proposal was submitted by the National Taiwan Museum of Fine Arts (NTMoFA) and accepted under the name “Tai",
+      "publishedAt": "2026-08-19T15:02:43.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "Chinati Foundation to Renovate Artillery Sheds Housing Judd Works",
+      "url": "https://www.artforum.com/news/chinati-foundation-to-restore-artillery-sheds-1234757349/",
+      "excerpt": "The Chinati Foundation in Marfa, Texas, has announced plans to restore the Artillery Sheds, a pair of military structures repurposed by renowned Minimalist Donald Judd to house his 100 untitled works in mill aluminum. The buildings sit on the grounds of the decommissioned Fort D. A. Russell, the for",
+      "publishedAt": "2026-08-19T14:20:30.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "Deadlines and Divine Distractions",
+      "url": "https://www.artforum.com/columns/deadlines-and-divine-distractions-postcard-1234757201/",
+      "excerpt": "“I’m taken over by this impossible life of hers”",
+      "publishedAt": "2026-08-18T20:58:45.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "Repatriated Skull To Be Displayed in Community Museum in Oaxaca",
+      "url": "https://www.artforum.com/news/repatriated-skull-to-be-displayed-in-museum-in-oaxaca-1234757191/",
+      "excerpt": "An ancient Mesoamerican skull is now in the possession of the National Institute of Anthropology and History (INAH) in Mexico, more than a year after it was repatriated from the Netherlands, according to reports. It’s planned that the skull will eventually be displayed in the Yucu Saa Community Muse",
+      "publishedAt": "2026-08-18T20:20:04.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "New York City Department Of Cultural Affairs Announces Two New Leadership Appointments",
+      "url": "https://www.artforum.com/news/new-york-dcla-announces-two-new-leadership-appointments-1234757188/",
+      "excerpt": "Diya Vij, commissioner of the New York City Department of Cultural Affairs (DCLA), named two new positions within the agency: Bryan Joseph Lee will serve as deputy commissioner, and Ryan Max will serve as chief of staff. Max has been the director of external affairs at DCLA for 11 years—he first joi",
+      "publishedAt": "2026-08-18T19:01:20.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "The Oldest Existing Fragment of ‘The Odyssey’ is on Display at the Met",
+      "url": "https://www.artforum.com/news/oldest-existing-fragment-of-the-odyssey-at-the-met-1234757178/",
+      "excerpt": "The oldest existing fragment of The Odyssey, Homer’s eternally relevant epic Greek poem that’s recently been adapted into a high-profile blockbuster, has just gone on display at the Metropolitan Museum of Art after a long hiatus from being on public view. The fragment is a Ptolemaic relic that dates",
+      "publishedAt": "2026-08-18T18:44:45.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "Brett Littman to Lead Museum of Contemporary Art San Diego",
+      "url": "https://www.artforum.com/news/brett-littman-to-helm-museum-of-contemporary-art-san-diego-1234757138/",
+      "excerpt": "The Museum of Contemporary Art San Diego (MCASD) has announced Brett Littman as its new director and CEO. From 2018 to 2023, Littman served as director of the Noguchi Museum in Long Island City, New York. He succeeds Kathryn Kanjo, who left after nine years in the role to become the inaugural direct",
+      "publishedAt": "2026-08-17T19:32:52.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "artforum",
+      "title": "Two Pace Gallery Executives Resign In The Aftermath Of Major Layoffs",
+      "url": "https://www.artforum.com/news/two-pace-gallery-executives-resign-1234757150/",
+      "excerpt": "On the back of a major restructuring in June, two senior Pace Gallery executives have left the organization. Amelia Redgrift, Pace Gallery’s chief communications officer, and senior sales director Danielle Forest resigned, and sources told ARTnews that both have secured high-level positions elsewher",
+      "publishedAt": "2026-08-17T19:26:26.000Z",
+      "category": "tech",
+      "source": "ARTFORUM"
+    },
+    {
+      "sourceId": "colossal",
+      "title": "Damien Hoar de Galvan Puzzles Scraps of Reclaimed Wood for a Daily Sculpture Project",
+      "url": "https://www.thisiscolossal.com/2026/08/damien-hoar-de-galvan-wood-sculptures/",
+      "excerpt": "From reclaimed wood, Damien Hoar de Galvan pieces together dynamic sculptures for a daily project. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Damien Hoar de Galvan Puzzles Scraps of",
+      "publishedAt": "2026-08-19T19:31:00.000Z",
+      "category": "tech",
+      "source": "Colossal"
+    },
+    {
+      "sourceId": "colossal",
+      "title": "Four Shortlisted Artists Stand to Win the Winston Taylor Photo Portrait Prize 2026",
+      "url": "https://www.thisiscolossal.com/2026/08/winston-taylor-photo-portrait-prize-photography/",
+      "excerpt": "The winner of the competition receives a £15,000 award plus a commissioned work for London's National Portrait Gallery. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Four Shortlisted A",
+      "publishedAt": "2026-08-19T17:16:22.000Z",
+      "category": "tech",
+      "source": "Colossal"
+    },
+    {
+      "sourceId": "colossal",
+      "title": "Brussels’ Grand-Place Is Carpeted with 750,000 Fresh Dahlias in a Tribute to Hokusai",
+      "url": "https://www.thisiscolossal.com/2026/08/brussels-grand-place-flower-carpet-dahlias-hokusai/",
+      "excerpt": "Titled \"Neo Hokusai,\" the monumental arrangement last weekend in Brussels covered nearly 14,000 square feet. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Brussels’ Grand-Place Is Carp",
+      "publishedAt": "2026-08-19T14:17:05.000Z",
+      "category": "tech",
+      "source": "Colossal"
+    },
+    {
+      "sourceId": "colossal",
+      "title": "Dark Emotions Evoke Growth in Alejandro Aguliar Canela’s Graphite Drawings",
+      "url": "https://www.thisiscolossal.com/2026/08/alejandro-aguliar-canela-graphite-drawings/",
+      "excerpt": "\"It’s more about not discarding what might be considered unwanted, but instead finding some use for it,\" says the artist. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Dark Emotions Ev",
+      "publishedAt": "2026-08-18T20:02:13.000Z",
+      "category": "tech",
+      "source": "Colossal"
+    },
+    {
+      "sourceId": "colossal",
+      "title": "Glowing Paintings by Francesco Pirazzi Meditate on the Enigmas of Absence",
+      "url": "https://www.thisiscolossal.com/2026/08/francesco-pirazzi-paintings-landscapes-architecture-trees-mystery/",
+      "excerpt": "\"For me, paintings represent an attempt to grasp a 'something' that for some reason deeply moves me, agitates me.\" Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Glowing Paintings by Fr",
+      "publishedAt": "2026-08-18T17:00:00.000Z",
+      "category": "tech",
+      "source": "Colossal"
+    },
+    {
+      "sourceId": "colossal",
+      "title": "Julie Green’s ‘The Last Supper’ Memorializes Hundreds of People’s Final Meals While on Death Row",
+      "url": "https://www.thisiscolossal.com/2026/08/julie-green-last-supper-ceramic-plates-final-meals/",
+      "excerpt": "Over a 22-year period, Green illustrated final requests ranging from pizzas and lobster to pies and KFC cartons. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Julie Green’s ‘The Last S",
+      "publishedAt": "2026-08-18T14:27:26.000Z",
+      "category": "tech",
+      "source": "Colossal"
+    },
+    {
+      "sourceId": "colossal",
+      "title": "Milk Cartons and Bottle Gourds Form Sipho Mabona’s Tribute to His Late Father",
+      "url": "https://www.thisiscolossal.com/2026/08/sipho-mabona-calabasha-sculpture-series/",
+      "excerpt": "Mabona's sculptures highlight how the personal and cultural intersect alongside the distinctly South African sense of resilience. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Milk Car",
+      "publishedAt": "2026-08-17T19:31:57.000Z",
+      "category": "tech",
+      "source": "Colossal"
+    },
+    {
+      "sourceId": "colossal",
+      "title": "In Jewel-Like Paintings, Wiley Wallace Conjures Enchantment in the Desert",
+      "url": "https://www.thisiscolossal.com/2026/08/wiley-wallace-night-blooms-acrylic-paintings-desert-crystals/",
+      "excerpt": "Wallace's glowing acrylic paintings feature crystals, enigmatic energy forces, starlight, and specters. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article In Jewel-Like Paintings, Wiley Wal",
+      "publishedAt": "2026-08-17T17:09:01.000Z",
+      "category": "tech",
+      "source": "Colossal"
+    },
+    {
+      "sourceId": "colossal",
+      "title": "Clay Transforms into Vibrant and Funky ‘Habibti’ Sculptures by Maryam Yousif",
+      "url": "https://www.thisiscolossal.com/2026/08/maryam-yousif-ceramic-sculptures/",
+      "excerpt": "\"Clay, as a medium, has a way of connecting us to the past,\" Yousif says. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Clay Transforms into Vibrant and Funky ‘Habibti’ Sculptures by M",
+      "publishedAt": "2026-08-17T13:54:54.000Z",
+      "category": "tech",
+      "source": "Colossal"
+    },
+    {
+      "sourceId": "colossal",
+      "title": "Sly Foxes Emerge from Boxes and Under Bridges in Murals by Annatomix",
+      "url": "https://www.thisiscolossal.com/2026/08/annatomix-murals-foxes-animals/",
+      "excerpt": "The street artist is known for her vivid geometric animal murals evocative of origami. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Sly Foxes Emerge from Boxes and Under Bridges in Mu",
+      "publishedAt": "2026-08-14T18:00:00.000Z",
+      "category": "tech",
+      "source": "Colossal"
+    },
+    {
+      "sourceId": "paris-review",
+      "title": "The Catalogue of Lost Things",
+      "url": "https://www.theparisreview.org/blog/2026/08/18/the-catalogue-of-lost-things/",
+      "excerpt": "Some favorite passages from the many new releases that wound up on our desks this July and August.",
+      "publishedAt": "2026-08-18T14:00:10.000Z",
+      "category": "tech",
+      "source": "The Paris Review"
+    },
+    {
+      "sourceId": "paris-review",
+      "title": "James Joyces’s Baby Impressions and Other “Awkward Pleasures” of Literary Biography",
+      "url": "https://www.theparisreview.org/blog/2026/08/17/james-joycess-baby-impressions-and-other-awkward-pleasures-of-literary-biography/",
+      "excerpt": "“I believed I had a fair understanding of W. G. Sebald until I read his biography and saw the black-and-white snapshot of him as a young man standing thigh-deep in a river, topless in wet jeans with a deep tan, defined muscles, and a dagger in his hand.”",
+      "publishedAt": "2026-08-17T15:09:54.000Z",
+      "category": "tech",
+      "source": "The Paris Review"
+    },
+    {
+      "sourceId": "paris-review",
+      "title": "In the Studio with Chad Fore, the Writer Behind “Lil Spooky”",
+      "url": "https://www.theparisreview.org/blog/2026/08/14/chad-fore-on-lil-spooky/",
+      "excerpt": "“‘What are they rapping about?’ ‘Well, devil worship.’”",
+      "publishedAt": "2026-08-14T14:00:26.000Z",
+      "category": "tech",
+      "source": "The Paris Review"
+    },
+    {
+      "sourceId": "paris-review",
+      "title": "The Bookstore-Slash-Skate-Shop Next to Ballerina Farm",
+      "url": "https://www.theparisreview.org/blog/2026/08/12/the-bookstore-slash-skate-shop-next-to-ballerina-farm/",
+      "excerpt": "“The first book I sell on our first day in business is a used copy of 'Fart Proudly: Writings of Benjamin Franklin You Never Read in School.'”",
+      "publishedAt": "2026-08-12T14:00:33.000Z",
+      "category": "tech",
+      "source": "The Paris Review"
+    },
+    {
+      "sourceId": "paris-review",
+      "title": "No More Missionaries: Shiva Naipaul’s Jonestown",
+      "url": "https://www.theparisreview.org/blog/2026/08/06/no-more-missionaries-shiva-naipauls-jonestown/",
+      "excerpt": "There is no better book for understanding Shiva Naipaul, a tragic figure whose name has long been associated with phrases like “unjustly overlooked,” “basically forgotten,” and “younger brother.”",
+      "publishedAt": "2026-08-06T14:00:38.000Z",
+      "category": "tech",
+      "source": "The Paris Review"
+    },
+    {
+      "sourceId": "paris-review",
+      "title": "Last Days at the Aqueduct: New York’s Rundown Racetrack",
+      "url": "https://www.theparisreview.org/blog/2026/08/04/last-days-at-the-aqueduct-new-yorks-rundown-racetrack/",
+      "excerpt": "“We used to wear hats—everyone in a hat. We called them fedoras back then. You probably never heard of a fedora.”",
+      "publishedAt": "2026-08-04T15:07:07.000Z",
+      "category": "tech",
+      "source": "The Paris Review"
+    },
+    {
+      "sourceId": "paris-review",
+      "title": "My Year of Tests and Arbitration",
+      "url": "https://www.theparisreview.org/blog/2026/08/03/my-year-of-tests-and-arbitration/",
+      "excerpt": "“Let me be clear: I don’t ever want to see this story again.”",
+      "publishedAt": "2026-08-03T15:59:26.000Z",
+      "category": "tech",
+      "source": "The Paris Review"
+    },
+    {
+      "sourceId": "paris-review",
+      "title": "The Soothing Unsubtlety of  UNBROKEN: The Untold Story of Shen Yun",
+      "url": "https://www.theparisreview.org/blog/2026/07/30/the-soothing-unsubtlety-of-unbroken-the-untold-story-of-shen-yun/",
+      "excerpt": "“What a relief, a breath of fresh air, to be reminded what the barest, sloppiest propaganda can look like.”",
+      "publishedAt": "2026-07-30T16:15:05.000Z",
+      "category": "tech",
+      "source": "The Paris Review"
+    },
+    {
+      "sourceId": "paris-review",
+      "title": "The Theater of Sport: Bill Buford Revisits Among the Thugs",
+      "url": "https://www.theparisreview.org/blog/2026/07/29/the-theater-of-sport-bill-buford-revisits-among-the-thugs/",
+      "excerpt": "“I kept getting hit by beer cans.”",
+      "publishedAt": "2026-07-29T14:00:58.000Z",
+      "category": "tech",
+      "source": "The Paris Review"
+    },
+    {
+      "sourceId": "paris-review",
+      "title": "The Bit Player: My Father with Steve Zissou",
+      "url": "https://www.theparisreview.org/blog/2026/07/27/the-bit-player-my-father-with-steve-zissou/",
+      "excerpt": "“Just as I was getting back to my desk, the phone rang. It was Bill Murray, and he had a question.”",
+      "publishedAt": "2026-07-27T14:35:56.000Z",
+      "category": "tech",
+      "source": "The Paris Review"
+    },
+    {
+      "sourceId": "aperture",
+      "title": "How Catherine Opie Learned the Art of Teaching Photography",
+      "url": "https://aperture.org/editorial/how-catherine-opie-learned-the-art-of-teaching-photography/",
+      "excerpt": "Students often imagine that a career in art can be sustained by inspiration alone. But endurance, structure, and collaboration are equally essential.",
+      "publishedAt": "2026-08-18T15:36:23.000Z",
+      "category": "tech",
+      "source": "Aperture 光圈"
+    },
+    {
+      "sourceId": "aperture",
+      "title": "An Odyssey Across the Japanese Archipelago",
+      "url": "https://aperture.org/editorial/an-odyssey-across-the-japanese-archipelago/",
+      "excerpt": "For ten years, Ishikawa Naoki traveled among the country's numerous islands, documenting scenes of everyday life and ceremonial traditions found on the margins.",
+      "publishedAt": "2026-08-13T19:33:44.000Z",
+      "category": "tech",
+      "source": "Aperture 光圈"
+    },
+    {
+      "sourceId": "aperture",
+      "title": "The Untold Story Behind Larry Clark’s “Tulsa”",
+      "url": "https://aperture.org/editorial/the-untold-story-behind-larry-clarks-tulsa/",
+      "excerpt": "Clark’s legendary photobook may seem like a timeless portrait of youth and addiction, but its images emerged from failed policies that still haunt Tulsa today.",
+      "publishedAt": "2026-07-31T14:56:27.000Z",
+      "category": "tech",
+      "source": "Aperture 光圈"
+    },
+    {
+      "sourceId": "aperture",
+      "title": "How Three Friends Turned Photography into a Way of Life",
+      "url": "https://aperture.org/editorial/how-three-friends-turned-photography-into-a-way-of-life/",
+      "excerpt": "In the 1970s, Minor White, Aaron Siskind, and Harry Callahan wrested photography into a deeply personal medium, using the camera to explore emotion and the possibility of transcendence.",
+      "publishedAt": "2026-07-31T14:53:34.000Z",
+      "category": "tech",
+      "source": "Aperture 光圈"
+    },
+    {
+      "sourceId": "aperture",
+      "title": "A People’s History of Puerto Rico",
+      "url": "https://aperture.org/editorial/a-peoples-history-of-puerto-rico/",
+      "excerpt": "Ricardo Alcaraz has spent five decades documenting the island's movements for labor rights, land, and independence.",
+      "publishedAt": "2026-07-23T17:43:45.000Z",
+      "category": "tech",
+      "source": "Aperture 光圈"
+    },
+    {
+      "sourceId": "aperture",
+      "title": "Searching for Truth on the Set of “The X-Files”",
+      "url": "https://aperture.org/editorial/searching-for-truth-on-the-set-of-the-x-files/",
+      "excerpt": "In the early 2000s, John Divola photographed the soundstages of the classic sci-fi show, revealing a world suspended between illusion and apparatus.",
+      "publishedAt": "2026-07-17T16:22:37.000Z",
+      "category": "tech",
+      "source": "Aperture 光圈"
+    },
+    {
+      "sourceId": "aperture",
+      "title": "A New Space for Photography Explores Who Gets to Be an American",
+      "url": "https://aperture.org/editorial/a-new-space-for-photography-explores-who-gets-to-be-an-american/",
+      "excerpt": "With its first permanent exhibition center, Cincinnati’s FotoFocus cements its standing at the forefront of lens-based art.",
+      "publishedAt": "2026-07-14T20:18:38.000Z",
+      "category": "tech",
+      "source": "Aperture 光圈"
+    },
+    {
+      "sourceId": "aperture",
+      "title": "The Summer Belongs to Joel Meyerowitz",
+      "url": "https://aperture.org/editorial/the-summer-belongs-to-joel-meyerowitz/",
+      "excerpt": "With his newly reissued Cape Light, Meyerowitz helped establish color photography as fine art, imbuing small-town life with luminous beauty.",
+      "publishedAt": "2026-07-08T18:57:50.000Z",
+      "category": "tech",
+      "source": "Aperture 光圈"
+    },
+    {
+      "sourceId": "aperture",
+      "title": "25 Photobooks That Define America",
+      "url": "https://aperture.org/editorial/25-photobooks-that-define-america/",
+      "excerpt": "From classics to contemporary standouts, these volumes illuminate the paradoxes and possibilities of life in the United States.",
+      "publishedAt": "2026-07-01T14:06:46.000Z",
+      "category": "tech",
+      "source": "Aperture 光圈"
+    },
+    {
+      "sourceId": "aperture",
+      "title": "How Schiaparelli Reimagined the Fashion Photograph",
+      "url": "https://aperture.org/editorial/how-schiaparelli-reimagined-the-fashion-photograph/",
+      "excerpt": "Beyond her innovations in Surrealist dress, Elsa Schiaparelli was perhaps the first designer to fully grasp how the camera could extend and refine the visual language of couture.",
+      "publishedAt": "2026-06-25T20:15:48.000Z",
+      "category": "tech",
+      "source": "Aperture 光圈"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "文章频道 - 2026世界清洁日视觉共创计划，主题海报征集启动",
+      "url": "https://www.digitaling.com/articles/1564471.html",
+      "excerpt": "以视觉创作为载体，让户外垃圾问题被更多人看见。 随着徒步、露营、旅行等户外活动日益成为更多人的生活方式，户外垃圾问题也逐渐受到关注。山野步道旁遗落的包装袋、河岸边被丢弃的饮料瓶，这些看似不起眼的垃圾，不仅影响自然环境，也与每个人的日常选择息息相关。 世界清洁日（World Cleanup Day）是一项由全球公众共同参与的环保行动，倡导“用一天的时间清理我们的地球”。 但环境问题需要先被看见，才能引发关注与改变。除了清洁行动，也需要更多有感染力的表达方式，让公众关注户外垃圾问题并参与其中。 为此，世界清洁日中国区发起： “2026世界清洁日视觉共创计划”主题海报征集活动 围绕“5%行动，100",
+      "publishedAt": "2026-08-20T08:32:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "项目频道 - 百事把三种可乐口味，做成了能开罐的戒指",
+      "url": "https://www.digitaling.com/projects/375633.html",
+      "excerpt": "La Manso，西班牙巴塞罗那设计师Adriana Manso创立的珠宝品牌。 夸张的大体积、荧光色、透明塑料、复古感、玩具感、90年代审美，以及一点故意“俗艳”的感觉，是其鲜明的产品特色。品牌自己甚至直接用 “Plastic is fantastic（塑料也很时髦）” 来概括这种态度。 近期，百事可乐就与La Manso展开合作，以百事零度可乐的三种最具代表性的口味为灵感，打造了一系列限量版戒指，将设计感、功能性和流行美学融合。 该系列以百事零度樱桃味、青柠味和热带芒果味三种口味为灵感，打造了三枚限量版银戒指。 每枚戒指都对应一种口味，并以其标志性的色彩与视觉元素进行设计。售价249美元，",
+      "publishedAt": "2026-08-20T07:35:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "文章频道 - 十年换标！Instagram试了数百个方案，最终还是回到手写体",
+      "url": "https://www.digitaling.com/articles/1562756.html",
+      "excerpt": "你更喜欢旧字标，还是新字标？ 作者：品牌小美，来源：品牌美 著名网络社交平台Instagram于2010年上线。 早期图标以复古即时成像相机为原型，镜头、皮革与彩虹条充满拟物质感。 2016年，图标被简化为白色相机线条与粉橙紫渐变，连手写体“Instagram”也成为品牌最重要的识别之一。 十年后，这一行字，终于换了个模样。 这一次，Instagram将旧的手写字体标志换了个模板，取而代之是更容易识别的接近无衬线的新字体。 值得注意的是，新版字体并非彻底放弃手写，而是将字形扶正、加粗并收紧回环；大部分的笔画，在造型上更接近几何无衬线体，只在“s”“g”和折角明显的“r”等位置留下手写转折。 全",
+      "publishedAt": "2026-08-20T04:05:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "项目频道 - Tiffany：爱的石头剪刀布",
+      "url": "https://www.digitaling.com/projects/374905.html",
+      "excerpt": "《爱的石头剪刀布》 爱，是一场没有输赢的交手。一来一回中，打磨出动人的切面。 爱，始于一次主动伸出的手。 爱，始于日复一日的来来回回。 Tiffany七夕短片以大众熟知的游戏“石头剪刀布”作为叙事线索，展现在亲密关系中，人们抛出“剪刀”的锋芒，展露“石头”的坚定，和选择“布”一样的包容。每一次的伸手与回应，都是真实的互动回合，构成了生命里独一无二的切面。 短片中，可以看到： 春晓与彭坦，接纳彼此的锋利； 邱必昌与陆小燕，半世纪的包容互补； 何博与顾嘉悦，乐此不疲地切磋成长； 田川与徐海东，不谋而合的默契同频； 丁薇与柯蓝，三十年互为支点； 柴紫一家四口，不同而和，拼出完整的家。 爱的石头剪刀布",
+      "publishedAt": "2026-08-20T03:15:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "文章频道 - 《2026 AI营销产品与平台生态图（中国市场版）》，三方联合发布",
+      "url": "https://www.digitaling.com/articles/1563813.html",
+      "excerpt": "收录371项海内外AI营销产品与平台，按16类营销任务为企业提供决策视图。 *AI Marketing Brief、赤道象限 EquatorQ 与赞意联合发布《2026 AI营销产品与平台生态图（中国市场版）》 新版收录371项海内外产品与平台，按16类营销任务组织，为CEO、CMO/CGO与CTO提供从工具选型到持续增长系统的共同决策视图 2026年8月17日，AI Marketing Brief、赤道象限 EquatorQ 与赞意联合发布《2026 AI营销产品与平台生态图（中国市场版）》。 新版面向中国市场，收录371项海内外AI营销产品与平台，按照16类主要营销任务组织，包括109个核",
+      "publishedAt": "2026-08-20T02:51:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "项目频道 - 太会玩！浦东文明七夕，让大橘猫当起了鹊桥",
+      "url": "https://www.digitaling.com/projects/375521.html",
+      "excerpt": "《让爱在此登陆》 浦东文明又整新活，这次是鹊桥没修好。 七夕节，本该相会的牛郎织女因缺了一段的鹊桥被迫困在原地。 为了弥补这个缺口，橘猫开始了三次尝试： 首先是用上海特色点心蝴蝶酥试图撑住缺口，但蝴蝶酥扑扇着翅膀飞走了； 接着是花瓶上阵，依然无法支撑； 随后，一段60秒语音也转眼碎成了星光。 就在所有道具都无能为力时，短片迎来了高潮与反转：浦东大橘猫经过思考，扶正安全帽，轻轻卧进缺口，用自己的身体化作桥梁，让相望的两人牵手成功。 这一举动不仅呼应了“让爱在此登陆”的主题，更将这只作为文明践行者的橘猫形象进行了升华：它不仅是城市文明的守护者，更是连接爱与美好的桥梁，既温暖又富有创意。 其实我们的",
+      "publishedAt": "2026-08-20T02:22:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "文章频道 - “红星前进”创始人的四次品牌进化",
+      "url": "https://www.digitaling.com/articles/1561447.html",
+      "excerpt": "逐步累积认知和能力，到拥有相对完整的品牌操盘实战。 2026年2月的一个晚上，济南世茂广场东一层，北京烘焙品牌“红星前进面包牛奶公司”（下面简称“红星前进”）的山东首店门前，临近关门仍排着十余人。 排队，似乎成了这个品牌每开一家新店的“标配”。 不到4年，18家门店，40%以上的月复购率，营收破1.1亿。 这个数字很亮眼，烘焙行业有个“三年生死线”的说法，而红星前进不仅活过了三年，还活得相当不错。 红星前进成立于2022年，一出道就很特别：复古招牌，进店先看到一整面墙，写着“当天制作，当天售卖”。左边是面包柜台，招牌面包上印着当天的日期；右边是一排金属龙头，顾客自己拿玻璃瓶接鲜牛奶——像回到了",
+      "publishedAt": "2026-08-20T02:07:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "项目频道 - 乐购：把优惠券堆成了一座山",
+      "url": "https://www.digitaling.com/projects/375052.html",
+      "excerpt": "Tesco 携手 BBH 伦敦推出的最新营销活动，鼓励顾客把每周的超市大采购当作开启美好假期的传送门——无论是去度假、外出就餐，还是全家出游。 这次活动的主题名为“Know what you’re sitting on”（清楚自己手里握着多少好东西）。它旨在揭开乐购会员卡鲜为人知的秘密，也就是顾客们其实已经可以享受丰厚的折扣。 01 02 03 Tesco 发现，有高达50万名会员，手里至少攒着价值100英镑的代金券，可以用来兑换合作商户的优惠。于是，他们决定用一种非常具象的方式，在电视和户外广告上展现这些折扣的规模。 三支广告片分别聚焦不同类型的奖励： 用堆积如山的充气玩具和遮阳伞，代表旅行",
+      "publishedAt": "2026-08-20T01:46:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "文章频道 - 七夕海报合集，脑补出一部恋爱剧",
+      "url": "https://www.digitaling.com/articles/1564772.html",
+      "excerpt": "甜甜蜜蜜，浪漫七夕。 祝你幸福在七夕，愿你被爱在朝夕。 在七夕的浪漫节点，品牌们纷纷送上祝福~ oppo用牵手、女望左男望右暗合浪漫情节；杜蕾斯紧跟《牛来》送上“杜来”的安全提醒；肯德基把产品融入工笔画，穿越到牛郎织女相会的现场；麦当劳以汉堡为“囍”底，为天下有情人装饰喜庆氛围。 看海报时候已经脑补了一部恋爱剧。 更多七夕海报， 可移步节日海报库查看~ 更多精彩海报， 可移步节日海报库查看~ 投稿方式： Mob/WeChat: 135 6403 0080 更多精彩内容请访问 数英网 - 文章频道 - 项目频道 - 招聘频道",
+      "publishedAt": "2026-08-19T11:10:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "项目频道 - 喜茶七夕：在潮州秋溪村，找到了织女",
+      "url": "https://www.digitaling.com/projects/375570.html",
+      "excerpt": "视频 七夕到了！在更早的时候，它还有一个名字：乞巧。 人们在七月初七向织女祈求智慧与技艺，希望自己也能拥有一双巧手。在这里，织女不只是一个爱情故事里的女主角，更是用双手编织所有美好事物的人们。 于是今年七夕，喜茶将目光从爱情转向“织”字：来到了潮州秋溪村，寻找一群在今天依然与手钩相伴的人，也就是来自「小黄香蕉手钩」工作室的这些阿姨们。 她们从小就会通花（钩织），能把毛线变成杯垫、衣服，还有贴补家用的生活费。后来主理人香蕉带她们尝试织更时髦的新花样，从不理解到大胆想花样和配色，阿姨们慢慢织出了很多“爆款”。 从“柠檬叶可以钩成它的头发”，到“做成手机包吧，年轻人都能用得上”， 阿姨们一个个来自日",
+      "publishedAt": "2026-08-19T09:12:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "文章频道 - 《牛来》导演信雨萌专访：五年，一对母子，一场被全网嘲笑的梦",
+      "url": "https://www.digitaling.com/articles/1563750.html",
+      "excerpt": "产业在焦虑，技术在狂奔，观众在寻找一个可以合法不体面的出口。 文：啊呜，来源：wuhu动画人空间 《牛来》票房还在涨！！！ 猫眼已经把它调到了1.35亿。 一部上映前十天票房只有7169元的片子，现在预测要冲1.35亿。暑期档国产片票房第五。制作成本按最高的算也就16万，如果1.35亿成真，成本回报比是843倍。《哪吒2》154亿票房，成本7亿，回报比22倍。843比22。一部公认的烂片，在回报率这件事上，把中国影史票房冠军打败了。 这不是电影。这是魔幻现实主义。 《牛来》的导演信雨萌今年34岁。2021年他开始做这部电影的时候30岁。 30岁，一个普通男人开始思考“我这辈子到底要干什么”的年",
+      "publishedAt": "2026-08-19T07:34:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "招聘频道 - 品牌策略经理",
+      "url": "https://www.digitaling.com/jobs/275638.html",
+      "excerpt": "招聘企业: iFLYTEK 科大讯飞 工作区域: 安徽合肥 发布时间: 2026-08-19 Job ID: 275638 职位描述 Job Description 工作职责： 1、负责科大讯飞企业品牌或重点业务的品牌策略与创意输出 2、公司级品牌规划与营销战役的策略研究、品牌规划、实施闭环 3、公司级品牌项目的策略报告输出、文案输出、AI视频输出 4、对品牌创意、各类物料的项目进度和输出质量进行把控 任职资格： 1、本科及以上学历，广告学、传播学、市场营销学、汉语言文学、影视创作等相关专业 2、1-5年企业品牌部门/广告公司/咨询公司/自媒体经历 3、深谙品牌建设与策略创意方法论，熟悉品牌研",
+      "publishedAt": "2026-08-19T06:07:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "项目频道 - 淘宝七夕：不讲爱情，讲她的巧手",
+      "url": "https://www.digitaling.com/projects/375528.html",
+      "excerpt": "当大部分的七夕营销都聚焦于爱情，这一次，我们和淘宝把目光放回七夕的起源：乞巧节。 女性的创造力从古至今从未缺失过。从前，她们祈求一双穿针引线的巧手；如今，她们用巧手创造了更多的可能。 先来看成片～ 每到七夕，满屏都是告白、礼物和恋爱话题。 但是追溯起源，七夕本就不是情人节啊！乞巧节承载的，是女子们对创造的渴望，对我以我手“造”我心的期待。 顺着这个思路，如何去呈现这样的创造、用什么样的介质和内容去展示创造的万能？ 做了很多功课之后，我们发现市面上不乏早就被看到的光芒万丈的创造、也有精妙绝伦的作品，那要聚焦它们吗？回到品牌本身，淘宝给了答案—— 在淘宝上，每件宝贝背后都是“宝贝的人”在创造。比如",
+      "publishedAt": "2026-08-19T05:20:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "项目频道 - 奥克斯「乘风计划」：借势非遗，学习千年驭风之道",
+      "url": "https://www.digitaling.com/projects/373974.html",
+      "excerpt": "原标题：KAI CASE | 借势非遗热点把“多面风”上新变成一场春日的驭风旅程 一、挑战： 价值战升维，如何让“多面风”从技术概念变用户共识？ 当前空调市场已进入“价值竞争”深水区，AI智能化与舒适风感成为核心赛道。 今年，奥克斯正式推进“奥克斯空调→奥克斯智能空调”的品牌升级战略，推出26年空气管家系列。 在25年底至今年年初，我们有幸与奥克斯一起，将空气管家系列首款产品——极梦成功推向市场，并在3个月内取得销售8万套的好成绩。 在首战告捷的势能之下，空气管家系列另一全新力作——E5套系接棒登场。 此次新品E5的内核是一套“多面风”产品哲学： 挂机搭载独立双控技术，可实现左右独立风向、15",
+      "publishedAt": "2026-08-19T03:42:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "项目频道 - 8月淘宝生日会，送你生日大排面",
+      "url": "https://www.digitaling.com/projects/375430.html",
+      "excerpt": "一年365天，生日这天，要理所当然被世界偏爱。 要惊喜感，要大场面，要所有人都知道——今天是我的好日子。 这独一份的主角光环，淘宝生日会为你来点亮。 今年8月，淘宝生日会攒了个大招，霸气派发10万份好礼，这次送出的不仅仅是礼物，更是让寿星尊享顶配待遇的生日大排面。 这份排面，是意想不到礼物大集合，给足新奇仪式感； 也是二十余家国民级品牌在线投喂，衣食住行全包圆； 还有一碗热腾腾的真·大排面，稳稳拿捏中式生日仪式感； 更有五大稀缺“人生体验卡”，把凡尔赛级仪式感拉到顶配。 今年生日 一键解锁大排面好礼 送礼，讲究的是意外之喜。 但淘宝这次想给的，远不止几份惊喜礼物，而是那种“全世界都在给我过生日",
+      "publishedAt": "2026-08-19T03:14:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "项目频道 - 茉莉奶白，七夕短剧上演假戏真爱",
+      "url": "https://www.digitaling.com/projects/375444.html",
+      "excerpt": "前有Gucci发布七夕全新广告《爱情有戏》， 现有茉莉奶白推出七夕限定短剧《苹然心动，假戏真爱》。 茉莉奶白将原料青、红苹果人格化，让它们成为男女主，参加七夕风味CP招募晚宴。 两人为了得到七夕配方，重振苹果家族荣耀，不得已假装情侣。 在经历考验后，从假情侣变成真夫妻，也成功获得了配方，调制出今年茉莉奶白的七夕风味。 苹水相逢遇见你 两人逢场作戏来到宴会，假装情侣登台，被质疑情侣关系的真实性后，男主决定演到所有人都相信为止。 于是迎来第二集的风味特调考验。 果然天生是一对 两人以红、青两种苹果为原料，做出代表爱情的七夕特调，证明情侣关系。 随后房间断电，女主失踪，迎来第三集。 在第三集，男主要",
+      "publishedAt": "2026-08-19T03:10:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "文章频道 - 上海书展手写推荐语，一句顶一万句",
+      "url": "https://www.digitaling.com/articles/1563512.html",
+      "excerpt": "写出推荐语的编辑太懂营销了。 只要AI还在，手搓就会被偏爱。 《牛来》之外，这届上海书展凭借手写推荐语，小小出圈了一次，再次见证文案的力量。 编辑把读完一本书后最想说的话写在便利贴上，再贴回书封。方寸之间的几行字，让不少读者停下来翻书，一些原本有阅读门槛的历史著作也在现场售罄。 比如这句“探险家斯坦因盗猎中国文物的罪证！！”，让冷门书都卖完了 没有介绍作者生平，也没有概括章节内容，几个带有情绪和冲突的词，已经给出了打开这本书的理由。 这正是推荐语的作用。 一句顶一万句，仔细回看这些推荐语，能看到编辑真心之余，还有不少巧思。 一、一句话，说清一本书 男人在巴黎创造传奇，女人在巴黎创造自己。 ——",
+      "publishedAt": "2026-08-19T03:05:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "文章频道 - 中国品牌，正在走一条西方从未走过的路",
+      "url": "https://www.digitaling.com/articles/1562609.html",
+      "excerpt": "这条路有自己的逻辑、节奏和机遇。 作者：Elva F5业务总监，来源公众号：F5上海 今天我们来聊一个根本的问题：中国品牌的发展之路，会和西方成熟品牌走一样的路吗？ 很多人默认答案是“会”，西方品牌走过的路，就是中国品牌的未来。我们学定位、学品牌资产、学整合营销，都是在抄西方的作业。 但我越来越觉得，中国品牌正在走一条西方从未走过的路。当今中国的品牌人，大多数都是从国际大品牌的培养体系中走出来的，学习的是国外的经典营销理论。 反观中国品牌成长史，大多数专业人士都忍不住要骂中国品牌不懂营销，不会做品牌，过于急功急利，审美水平堪忧。 今天，就让我们换一个角度，停止对中国品牌的评判，来理解中国品牌的",
+      "publishedAt": "2026-08-19T02:32:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "项目频道 - 盒马：爱发现新鲜的人，总在给生活提鲜",
+      "url": "https://www.digitaling.com/projects/374758.html",
+      "excerpt": "原标题：盒马×中好：爱发现新鲜的人，总在给生活提鲜！ 这么新鲜？盒马居然拍品牌片了？ 话不多说，「鲜」上成片！ 《来盒马，给生活提鲜》 I.这个创意从生活里「提」出来 Brief很明确：借盒马818周年庆，夯实「发现新鲜」品牌心智。 让我们一下找到创意抓手的，是一个特别妙的词——「提鲜」。 背后有两层巧思： 对盒马来说，提起装满新鲜好物的盒马袋，可以成为鲜明的品牌锤； 对消费者来说，提一袋盒马鲜货，就像给平淡日常“撒一把葱花”“一撮芝麻”，让寻常日子，多点新鲜滋味。 对商超品牌来说，做Branding的难点，是不能只顾着“报品名”，也不能一上价值就离货架太远。 而「提鲜」刚好找到了这个平衡点：",
+      "publishedAt": "2026-08-19T02:03:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "文章频道 - 《牛来》的抽象狂欢背后",
+      "url": "https://www.digitaling.com/articles/1563036.html",
+      "excerpt": "这已经不是看电影了，这是一场全网参与的大型抽象行为艺术。 首发：刘佳佳谈品牌 《牛来》很火，已经火到了我的朋友圈。 朋友晒出奥莱影城《牛来》的影院座位图，选座界面赫然拼出了\"牛来\"两个大字，配文一脸懵：\"我一直以为是开玩笑来着，结果奥莱影城这么抽象吗？\" 看着那个简陋的3D角色和满场的选座图，确实足够\"抽象\"。一部上映前10天票房仅7000多元、观影人数不到300人的国产动画，一夜之间冲上热搜，单日票房狂揽近80万，排片从21场猛增至1568场。 更魔幻的是，有影院临时加场，居然很快售罄； 观众不仅在影院里笑成一团，还在选座时自发用空位拼出一个\"牛\"字。 这已经不是看电影了，这是一场全网参与的",
+      "publishedAt": "2026-08-19T01:43:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "文章频道 - 开饭店的，真得给小菜园磕个头",
+      "url": "https://www.digitaling.com/articles/1562000.html",
+      "excerpt": "某种程度上通过赔了一大笔，解决了顾客非得带宠物进店的问题。 看到标题你会迷惑，这啥跟啥啊。 别急，先看这个新闻。 因为有顾客在小菜园新徽菜用餐盘喂狗， 小菜园给在场所有顾客致歉，退款，外加10倍金额赔偿。 (新闻来自光明网&新浪财经) 事情很简单，赔偿金额也很有诚意。 而现在，整个餐饮行业所有的店都应该给小菜园磕头。 感谢小菜园做了这样的事情，赔了那么一大笔钱，成了这么一个案例，成了之后他们做决策和面对网络舆论时候的关键抓手。 不开玩笑，小菜园用自己一个品牌换了整个行业的生路，某种程度上通过赔了一大笔解决了顾客非得带宠物进店的问题。 开饭店到底让不让顾客带宠物进去，其实过去一直是很难处理的模糊",
+      "publishedAt": "2026-08-18T08:16:00.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "招聘频道 - 公关媒介经理",
+      "url": "https://www.digitaling.com/jobs/275631.html",
+      "excerpt": "招聘企业: UNIQUEAD 优力互动 工作区域: 北京朝阳区 发布时间: 2026-08-18 Job ID: 275631 职位描述 Job Description 岗位职责: 1. 作为企业与媒体、公众之间的核心联络人，全面负责公关媒介策略的规划与执行； 2. 根据品牌定位与传播目标，制定并实施年度公关传播计划，提升品牌知名度与美誉度； 3. 统筹管理各类公关活动，包括发布会、媒体沟通会、行业论坛等，确保活动高质量落地； 4. 建立并维护主流媒体、意见领袖及传播渠道的长期合作关系，优化信息传播效果； 5. 监测舆情动态，及时应对公共关系危机，维护品牌形象与舆论环境稳定。 任职要求： 1.",
+      "publishedAt": "2026-08-18T07:55:12.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "招聘频道 - 策略经理",
+      "url": "https://www.digitaling.com/jobs/275624.html",
+      "excerpt": "招聘企业: UNIQUEAD 优力互动 工作区域: 北京朝阳区 发布时间: 2026-08-18 Job ID: 275624 职位描述 Job Description 岗位职责： 1.独立完成中、小型项目或阶段性项目的策略撰写，为客户提供精准的策略方案或策略建议； 2.对市场及调研数据进行整理和图表化分析，完成客户的市场调研、行业分析、竞品分析、市场信息收集等工作； 3.参与公司各类项目策略的撰写，参与公司的竞标工作，完成各项工作分工； 4.与各部门配合，参与项目执行，根据项目执行进程需求修订策略方案，有效指导和支持策略的具体实施，监控项目执行质量，与项目成员共同推进并完成项目； 5.整合公",
+      "publishedAt": "2026-08-18T07:54:13.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "招聘频道 - 策略总监",
+      "url": "https://www.digitaling.com/jobs/275617.html",
+      "excerpt": "招聘企业: UNIQUEAD 优力互动 工作区域: 北京朝阳区 发布时间: 2026-08-18 Job ID: 275617 职位描述 Job Description 岗位职责: 1、擅长汽车行业的策略策划领域； 独立完成针对汽车品牌前端策略、整合营销案、市场策略及传播策略案撰写。 2、提案讲标对应； 2、对汽车市场有洞察，有自己的观点，储备丰富的汽车品牌知识； 3、负责领导团队进行策略方案的讨论，负责方案的规划、撰写和提案； 4、洞察和判断客户需求，正确把握品牌的策略方向，制定符合需求的品牌营销推广计划和策略； 5、建立和发展与汽车客户的互信关系，挖掘与其深度合作的商业机会； 6、客户会员",
+      "publishedAt": "2026-08-18T07:52:39.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "招聘频道 - Account实习生",
+      "url": "https://www.digitaling.com/jobs/275610.html",
+      "excerpt": "招聘企业: UNIQUEAD 优力互动 工作区域: 北京朝阳区 发布时间: 2026-08-18 Job ID: 275610 职位描述 Job Description 岗位要求： 1.参与项目会议和项目头脑风暴，为项目传播贡献创意策划，沟通分析客户需求，记录并整理会议纪录； 2.协助上级完成社交平台互动传播内容规划，完成社会化媒体视频/图文创意内容策划、制作、拍摄执行； 3.协助上级完成竞品，行业案例等相关资料收集、整理、分析，各类文案、总结报告撰写； 4.沟通、协调公司内外部，筹备上线物料以及媒介对接，促成项目工作按计划执行； 5.负责各项工作流程和财务流程的处理，跟进流程进度； 6.完成",
+      "publishedAt": "2026-08-18T07:50:07.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "招聘频道 - 高级客户经理",
+      "url": "https://www.digitaling.com/jobs/275603.html",
+      "excerpt": "招聘企业: UNIQUEAD 优力互动 工作区域: 北京朝阳区 发布时间: 2026-08-18 Job ID: 275603 职位描述 Job Description 岗位职责： 1.与客户保持密切沟通，维护良好的客户关系，不断深挖客户需求，协助公司不断开拓客户业务； 2.根据客户需求，规划并撰写客户年度及阶段性产品传播的digital和social策略；完成社交平台互动传播规划与内容规划，完成社会化媒体视频/图文创意内容策划、制作、拍摄执行，实现客户的传播目标； 3.准确理解客户需求，拆解任务，撰写并下达brief，高效推进执行并跟进项目，把控项目执行进度，按计划和预期要求完成项目，完成项",
+      "publishedAt": "2026-08-18T07:48:52.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "招聘频道 - 客户经理AM",
+      "url": "https://www.digitaling.com/jobs/275596.html",
+      "excerpt": "招聘企业: UNIQUEAD 优力互动 工作区域: 北京朝阳区 发布时间: 2026-08-18 Job ID: 275596 职位描述 Job Description 职位描述 1、与客户保持密切沟通，维护良好的客户关系，准确理解客户意图，根据客户需求撰写brief,并将客户需求准确传达给合作部门或第三方团队； 2、根据客户需求，规划并撰写客户阶段性产品传播策略；完成社交平台互动传播规划与内容规划，完成社会化媒体视频/图文创意内容策划、制作和拍摄，实现客户的传播目标； 3、准确理解客户需求，拆解任务，撰写并下达brief，高效推进项目执行，把控项目执行进度，按计划和预期要求完成项目，执行期间",
+      "publishedAt": "2026-08-18T07:47:18.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "招聘频道 - 高级公关经理",
+      "url": "https://www.digitaling.com/jobs/275589.html",
+      "excerpt": "招聘企业: UNIQUEAD 优力互动 工作区域: 河北保定 发布时间: 2026-08-18 Job ID: 275589 职位描述 Job Description 岗位职责: 1. 负责品牌公关战略的规划与执行，提升企业公众形象和品牌影响力； 2. 统筹媒体关系维护与传播内容策划，主导重大公关事件的沟通与应对； 3. 协调内外部资源，推动品牌传播项目的落地与优化； 4. 监测舆情动态，制定危机公关预案并有效响应； 5. 支持高层对外发声，撰写重要传播稿件及演讲材料。 6.需要驻场在客户办公室 任职要求： 1. 具备出色的沟通协调能力与公共事务处理经验； 2. 拥有较强的策略思维和全局观，能",
+      "publishedAt": "2026-08-18T07:45:31.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "招聘频道 - 资深文案",
+      "url": "https://www.digitaling.com/jobs/275582.html",
+      "excerpt": "招聘企业: UNIQUEAD 优力互动 工作区域: 重庆江北区 发布时间: 2026-08-18 Job ID: 275582 职位描述 Job Description 职责描述： 1、在创意总监带领下，和美术配合或独立完成campaign或个案的创意发想； 2、负责梳理创意整体思路并形成方案，能够高效完成各种创意长短文案的撰写； 3、指导资浅人员的作业能力提升； 4、完成公司及上级委派的其他项目。 任职要求： 1、本科或以上学历，3年以上工作经验，广告／新闻／中文专业毕业优先； 2、具有扎实的文字功底，多变的行文风格，具备观点洞察及提炼能力； 3、熟悉互联网及 social 语言，对创意趋势",
+      "publishedAt": "2026-08-18T07:42:48.000Z",
+      "category": "tech",
+      "source": "数英网"
+    },
+    {
+      "sourceId": "digitaling",
+      "title": "招聘频道 - 高级客户经理SAM/客户经理AM",
+      "url": "https://www.digitaling.com/jobs/275575.html",
+      "excerpt": "招聘企业: UNIQUEAD 优力互动 工作区域: 重庆两江新区 发布时间: 2026-08-18 Job ID: 275575 职位描述 Job Description 职位描述： 1、负责项目的具体执行工作，撰写文案内容，协助上级撰写传播方案，独立完成简单传播方案的撰写； 2、根据客户需求，完成社交平台互动传播规划与内容规划，并按规划推进并执行项目； 3、完成社会化媒体视频/图文创意内容策划、制作和拍摄工作，实现客户的传播目标； 4、对接客户需求，与客户保持良好的沟通，维护与客户之间良好的合作关系，准确理解客户需求，撰写brief,向协作团队准确传达客户需求； 5、配合项目传播节奏，筹备上",
+      "publishedAt": "2026-08-18T07:39:49.000Z",
+      "category": "tech",
+      "source": "数英网"
     }
   ]
 }

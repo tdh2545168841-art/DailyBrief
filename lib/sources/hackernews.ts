@@ -20,13 +20,17 @@ export async function fetchHackerNews(
   sourceId: string,
   limit = 30,
 ): Promise<RawArticle[]> {
-  const ids = (await fetch(`${HN_BASE}/topstories.json`).then((r) =>
+  const ids = (await fetch(`${HN_BASE}/topstories.json`, {
+    signal: AbortSignal.timeout(15_000),
+  }).then((r) =>
     r.json(),
   )) as number[];
   const slice = ids.slice(0, limit);
   const items = await Promise.all(
     slice.map((id) =>
-      fetch(`${HN_BASE}/item/${id}.json`)
+      fetch(`${HN_BASE}/item/${id}.json`, {
+        signal: AbortSignal.timeout(15_000),
+      })
         .then((r) => r.json() as Promise<HnItem>)
         .catch(() => null),
     ),

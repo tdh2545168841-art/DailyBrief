@@ -304,6 +304,8 @@ async function main() {
   }
 
   console.log(`[daily] done.`);
+  // 防止 undici keep-alive 连接池导致进程在所有工作完成后不自动退出
+  process.exit(0);
 }
 
 main().catch((e) => {

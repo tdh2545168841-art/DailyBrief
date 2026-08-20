@@ -32,6 +32,7 @@ const TEXTS_ZH = {
   catCommunity: "社区讨论",
   catArt: "艺术",
   subArt: "艺术",
+  subArtGallery: "今日艺术",
   subAiNews: "AI 媒体",
   subTrendingPapers: "热门论文",
   subXViral: "X 推文",
@@ -83,6 +84,7 @@ const TEXTS_EN: typeof TEXTS_ZH = {
   catCommunity: "Community",
   catArt: "Art",
   subArt: "Art",
+  subArtGallery: "Art of the Day",
   subAiNews: "AI Media",
   subTrendingPapers: "Trending Papers",
   subXViral: "X Viral",
@@ -175,14 +177,14 @@ const SUBCATEGORY_ORDER: Partial<Record<Category, string[]>> = {
   // Locale filtering at registry level decides which actually appears:
   // zh mode keeps cn-community (V2EX / LinuxDo); en mode keeps
   // overseas-community (Hacker News / r/stocks).
-  tech: ["github-trending", "trending-papers", "x-viral", "ai-news", "cn-community", "overseas-community", "art"],
+  tech: ["github-trending", "trending-papers", "x-viral", "ai-news", "cn-community", "overseas-community", "art-gallery", "art"],
   finance: ["news"],
   politics: ["world"],
 };
 
 const TECH_MAIN_SUBS = new Set(["github-trending", "trending-papers", "x-viral", "ai-news"]);
 const TECH_COMMUNITY_SUBS = new Set(["cn-community", "overseas-community"]);
-const TECH_ART_SUBS = new Set(["art"]);
+const TECH_ART_SUBS = new Set(["art", "art-gallery"]);
 
 const SUBCATEGORY_LABELS: Record<string, string> = {
   "github-trending": "GitHub Trending",
@@ -191,6 +193,7 @@ const SUBCATEGORY_LABELS: Record<string, string> = {
   "overseas-community": STR.subOverseasCommunity,
   "ai-news": STR.subAiNews,
   "art": STR.subArt,
+  "art-gallery": STR.subArtGallery,
   "x-viral": STR.subXViral,
   "blog-weekly": STR.subBlogWeekly,
   news: STR.subFinanceNews,
@@ -248,7 +251,8 @@ export const MERGED_SUBGROUP_LIMITS: Record<string, number> = {
   "tech:ai-news": 15,
   "finance:news": 12,
   "politics:world": 15,
-  "tech:art": 12,
+  "tech:art": 25,
+  "tech:art-gallery": 6,
 };
 
 /**
@@ -463,12 +467,18 @@ function renderArticleHtml(a: ArticleInput, showSource = false): string {
   // News-style summary label for finance/politics, project-intro style for GH/tech.
   const newsy = a.category === "finance" || a.category === "politics";
   const summaryLabel = newsy ? STR.summaryLabelNews : STR.summaryLabelIntro;
-  return `<article class="article">
+  const img = a.image
+    ? `<a class="artwork-thumb" href="${url}" target="_blank" rel="noopener noreferrer"><img src="${escapeHtml(a.image)}" alt="${title}" loading="lazy"></a>`
+    : "";
+  return `<article class="article${a.image ? " gallery" : ""}">
+  ${img}
+  <div class="artwork-body">
   <h3 class="article-title"><a href="${url}" target="_blank" rel="noopener noreferrer">${title}</a></h3>
   ${meta ? `<p class="article-stats">${meta}</p>` : ""}
   ${metaLine ? `<p class="article-meta">${metaLine}</p>` : ""}
   ${excerpt ? `<p class="article-excerpt">${excerpt}</p>` : ""}
   ${summary ? `<p class="article-summary"><span class="summary-label">${summaryLabel}</span> ${summary}</p>` : ""}
+  </div>
 </article>`;
 }
 
@@ -938,6 +948,33 @@ export function renderHtml(
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.08em;
+  }
+
+  /* artwork-of-the-day gallery cards (museum API sources) */
+  .article.gallery { display: flex; gap: 1rem; align-items: flex-start; }
+  .article.gallery .artwork-thumb {
+    flex-shrink: 0;
+    width: 168px;
+    max-width: 34%;
+    display: block;
+    border-radius: 0.4rem;
+    overflow: hidden;
+    border: 1px solid var(--rule);
+    background: var(--card);
+  }
+  .article.gallery .artwork-thumb img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 180px;
+    object-fit: cover;
+    aspect-ratio: 4 / 3;
+  }
+  .article.gallery .artwork-body { flex: 1; min-width: 0; }
+  @media (max-width: 480px) {
+    .article.gallery { flex-direction: column; }
+    .article.gallery .artwork-thumb { width: 100%; max-width: none; }
+    .article.gallery .artwork-thumb img { max-height: 220px; }
   }
 
   .empty {

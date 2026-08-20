@@ -11,6 +11,7 @@ import {
 } from "../lib/ai/pipeline";
 import { getModelTag, validateBackendCredentials } from "../lib/ai/llm";
 import {
+  enrichArtSummaries,
   enrichFinanceNewsSummaries,
   enrichGithubTrendingSummaries,
   enrichTrendingPapersSummaries,
@@ -82,6 +83,10 @@ async function enrichPolitics(articles: ArticleInput[]): Promise<void> {
 
 async function enrichAiNews(articles: ArticleInput[]): Promise<void> {
   await enrichMergedSubgroup(articles, "tech", "ai-news");
+}
+
+async function enrichArt(articles: ArticleInput[]): Promise<void> {
+  await enrichMergedSubgroup(articles, "tech", "art", enrichArtSummaries);
 }
 
 /**
@@ -159,6 +164,7 @@ async function enrichMergedSubgroup(
   articles: ArticleInput[],
   category: "tech" | "finance" | "politics",
   subcategory: string,
+  enrichFn: (items: ArticleInput[]) => Promise<Map<string, string>> = enrichFinanceNewsSummaries,
 ): Promise<void> {
   const subSources = sources.filter(
     (s) =>
@@ -188,7 +194,7 @@ async function enrichMergedSubgroup(
     `[daily] enriching ${toEnrich.length}/${top.length} ${category}:${subcategory} items with ${REPORT_LOCALE} summaries…`,
   );
   const t0 = Date.now();
-  const summaries = await enrichFinanceNewsSummaries(toEnrich);
+  const summaries = await enrichFn(toEnrich);
   for (const a of toEnrich) {
     const s = summaries.get(a.url);
     if (s) a.summary = s;
@@ -257,6 +263,7 @@ async function main() {
   await enrichFinanceNews(articles);
   await enrichPolitics(articles);
   await enrichAiNews(articles);
+  await enrichArt(articles);
   await enrichXViral(articles);
 
   // Trading signals: Yahoo fetch + indicators + commentary. Non-fatal —

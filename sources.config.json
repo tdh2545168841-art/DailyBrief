@@ -849,5 +849,123 @@
     "locales": [
       "zh"
     ]
+  },
+  {
+    "id": "hyperallergic",
+    "name": "Hyperallergic",
+    "type": "rss",
+    "url": "https://hyperallergic.com/feed/",
+    "category": "tech",
+    "subcategory": "art",
+    "lang": "en",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "magnum",
+    "name": "Magnum Photos",
+    "type": "rss",
+    "url": "https://www.magnumphotos.com/feed/",
+    "category": "tech",
+    "subcategory": "art",
+    "lang": "en",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "lithub",
+    "name": "LitHub",
+    "type": "rss",
+    "url": "https://lithub.com/feed/",
+    "category": "tech",
+    "subcategory": "art",
+    "lang": "en",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "designboom",
+    "name": "Designboom",
+    "type": "rss",
+    "url": "https://www.designboom.com/feed/",
+    "category": "tech",
+    "subcategory": "art",
+    "lang": "en",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "artnet",
+    "name": "Artnet News",
+    "type": "rss",
+    "url": "https://news.artnet.com/feed",
+    "category": "tech",
+    "subcategory": "art",
+    "lang": "en",
+    "useCurl": true,
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "Art market / auction news — cross-validated accessible + real art content 2026-08."
+  },
+  {
+    "id": "newyorker-culture",
+    "name": "The New Yorker Culture",
+    "type": "rss",
+    "url": "https://www.newyorker.com/feed/culture",
+    "category": "tech",
+    "subcategory": "art",
+    "lang": "en",
+    "useCurl": true,
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "Art, film, books, theatre culture — cross-validated accessible + real art content 2026-08."
+  },
+  {
+    "id": "artic-museum",
+    "name": "Art Institute of Chicago",
+    "type": "api",
+    "url": "https://api.artic.edu/api/v1/artworks",
+    "category": "tech",
+    "subcategory": "art-gallery",
+    "lang": "en",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "public-apis free keyless museum API — featured artworks strip, not news."
+  },
+  {
+    "id": "met-museum",
+    "name": "Metropolitan Museum of Art",
+    "type": "api",
+    "url": "https://collectionapi.metmuseum.org/public/collection/v1",
+    "category": "tech",
+    "subcategory": "art-gallery",
+    "lang": "en",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "public-apis free keyless museum API — featured artworks strip, not news."
   }
 ]

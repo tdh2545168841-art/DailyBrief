@@ -66,4 +66,9 @@ export interface RawArticle {
    * used by GitHub Trending for "Language · ★stars · forks · stars today".
    */
   meta?: string;
+  /**
+   * Optional image URL. Rendered as a thumbnail card when present (used by
+   * the "art-gallery" featured artworks strip).
+   */
+  image?: string;
 }

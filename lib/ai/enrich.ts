@@ -97,6 +97,50 @@ Output STRICTLY a JSON object, no markdown wrapping:
 
 **Quote rule (important!)**: For any quotation INSIDE a summary string, use single quotes ' or curly quotes '" — **never** a raw double quote, which breaks JSON parsing.`;
 
+const ART_SYSTEM_PROMPT_EN = `You are an English-language art editor producing **factual summaries** for art, literature, photography, design, and art-market news.
+
+Input: each item has url, title, excerpt, and source (publisher name).
+
+Task: from title + excerpt, write a 50-100 word **English summary**:
+  - If the source text is non-English, translate the key information (extract the points, not word-for-word)
+  - If already English, condense to higher information density
+  - Preserve: artist / designer / writer names, institutions / galleries / museum names, artwork / exhibition titles, cities, years, prices
+  - Neutral factual tone — no emotion, no clickbait
+  - When clear, name the field precisely (installation, exhibition, curating, solo show, auction, etc.)
+  - If info is insufficient, prefer shorter over fabrication
+
+Output STRICTLY a JSON object, no markdown wrapping:
+{
+  "summaries": [
+    { "url": "<exact url from input>", "summary": "<50-100 word English summary>" },
+    ...
+  ]
+}
+
+**Quote rule (important!)**: For any quotation INSIDE a summary string, use single quotes ' or curly quotes '" — **never** a raw double quote, which breaks JSON parsing.`;
+
+const ART_SYSTEM_PROMPT_ZH = `你是一名中文艺术编辑，为英文/中文艺术、文学、摄影、设计与艺术市场新闻生成**中文事实摘要**。
+
+输入：每条新闻有 url、title、excerpt 和 source（来源媒体名）。
+
+任务：根据 title + excerpt，生成一段 50-100 字的**中文摘要**：
+  - 原文是英文 → 翻译关键信息为中文（抽出要点，不是逐字翻译）
+  - 原文是中文 → 凝练为信息密度更高的中文
+  - 必须保留：艺术家/设计师/作家姓名、机构/画廊/博物馆名、作品名/展览名、城市、年份、金额
+  - 必须中性事实陈述，不带情绪、不标题党
+  - 能判断类型时给出准确定位（装置、展览、策展、个展、拍卖等）
+  - 信息不足时宁可短，不要编造或扩展
+
+输出严格 JSON 对象，不要 markdown 包裹：
+{
+  "summaries": [
+    { "url": "<原 url，从输入中精确复制>", "summary": "<50-100 字中文摘要>" },
+    ...
+  ]
+}
+
+**引号规则（重要！）**：summary 内的引用一律用中文全角引号「」或""，**绝不**用英文双引号 " —— 否则会导致 JSON 解析失败。`;
+
 const XVIRAL_SYSTEM_PROMPT_ZH = `你是一名中文 AI 圈编辑，为 X（Twitter）上的爆款 AI 帖子生成**中文摘要**。
 
 输入：每条帖子有 url、title、author（@handle 形式）、previewText（推文开头几句）。
@@ -211,8 +255,8 @@ Output STRICTLY a JSON object, no markdown:
 // in via PROMPTS.<key> so the call sites stay locale-agnostic.
 const PROMPTS =
   REPORT_LOCALE === "en"
-    ? { gh: GH_SYSTEM_PROMPT_EN, finance: FINANCE_SYSTEM_PROMPT_EN, xViral: XVIRAL_SYSTEM_PROMPT_EN, papers: PAPERS_SYSTEM_PROMPT_EN }
-    : { gh: GH_SYSTEM_PROMPT_ZH, finance: FINANCE_SYSTEM_PROMPT_ZH, xViral: XVIRAL_SYSTEM_PROMPT_ZH, papers: PAPERS_SYSTEM_PROMPT_ZH };
+    ? { gh: GH_SYSTEM_PROMPT_EN, finance: FINANCE_SYSTEM_PROMPT_EN, xViral: XVIRAL_SYSTEM_PROMPT_EN, papers: PAPERS_SYSTEM_PROMPT_EN, art: ART_SYSTEM_PROMPT_EN }
+    : { gh: GH_SYSTEM_PROMPT_ZH, finance: FINANCE_SYSTEM_PROMPT_ZH, xViral: XVIRAL_SYSTEM_PROMPT_ZH, papers: PAPERS_SYSTEM_PROMPT_ZH, art: ART_SYSTEM_PROMPT_ZH };
 
 const USER_PROMPT_HEADER =
   REPORT_LOCALE === "en"
@@ -330,6 +374,25 @@ export async function enrichFinanceNewsSummaries(
     excerpt: (it.excerpt ?? "").slice(0, 280),
   }));
   return runEnrichment(payload, PROMPTS.finance, "finance summaries");
+}
+
+/**
+ * Generate Chinese summaries for art / literature / photography / design /
+ * art-market items. Art needs its own editor voice (distinct from finance /
+ * x-viral) so the wording describes exhibitions, artists, galleries and
+ * market news rather than markets only.
+ */
+export async function enrichArtSummaries(
+  items: EnrichInput[],
+): Promise<Map<string, string>> {
+  if (items.length === 0) return new Map();
+  const payload = items.map((it) => ({
+    url: it.url,
+    title: it.title,
+    source: it.source ?? "",
+    excerpt: (it.excerpt ?? "").slice(0, 280),
+  }));
+  return runEnrichment(payload, PROMPTS.art, "art summaries");
 }
 
 /**

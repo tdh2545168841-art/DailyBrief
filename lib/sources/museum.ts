@@ -1,7 +1,7 @@
 import type { RawArticle, SourceDef } from "./types";
 
 /**
- * "今日艺术" — daily featured artworks pulled from free, keyless museum
+ * "今日馆藏" — daily featured artworks pulled from free, keyless museum
  * APIs (listed in public-apis/public-apis). These are static art objects,
  * not news, so they render in a dedicated gallery strip (subcategory
  * `art-gallery`) rather than the merged art-news stream.

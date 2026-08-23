@@ -6,180 +6,180 @@
       "title": "openai/codex",
       "url": "https://github.com/openai/codex",
       "excerpt": "Lightweight coding agent that runs in your terminal",
-      "meta": "Rust · ★ 115,114 · 🍴 17,554 · 📈 2,729 stars today",
+      "meta": "Rust · ★ 115,126 · 🍴 17,556 · 📈 2,729 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "OpenAI 推出的轻量级编码代理，直接在终端中运行。它能够协助开发者完成代码编写、修复和重构等任务，通过命令行交互实现高效的开发辅助，适合追求快速迭代和终端工作流的程序员使用。"
+      "summary": "OpenAI 推出的轻量级编码代理，直接运行在终端中。开发者可通过命令行与 AI 协作完成代码编写、调试等任务，无需切换界面，提升开发效率。适合习惯终端工作流的程序员。"
     },
     {
       "sourceId": "github-trending",
       "title": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "excerpt": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "meta": "JavaScript · ★ 12,671 · 🍴 1,426 · 📈 440 stars today",
+      "meta": "JavaScript · ★ 12,679 · 🍴 1,427 · 📈 440 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "GPT-Image2 工业级提示词引擎与模板库，收录 470+ 案例逆向工程和 20+ 套工业级模板，提炼出可复用的 Skills。旨在将提示词视为代码，提升 AI 图像生成的效率和质量，适用于设计师、开发者等需要批量生成图片的场景。"
+      "summary": "GPT-Image2 工业级提示词引擎与模板库，收录 470+ 个案例逆向工程成果，提炼 20+ 套模板和 Skills。采用\"Prompt as Code\"理念，帮助用户系统化掌握图像生成提示词技巧，持续更新。适合 AI 绘画创作者和提示词工程师。"
     },
     {
       "sourceId": "github-trending",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "excerpt": "Skills for Real Engineers. Straight from my .agents directory.",
-      "meta": "Shell · ★ 233,801 · 🍴 19,941 · 📈 2,448 stars today",
+      "meta": "Shell · ★ 233,808 · 🍴 19,942 · 📈 2,448 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "面向真实工程师的技能集合，直接来自作者维护的 .agents 目录。提供了一系列实用的技能定义，可与 Claude Code 等代理工具配合使用，帮助开发者增强代理的工作能力，提升开发自动化水平。"
+      "summary": "面向真实工程师的 Claude Code 技能集合，直接来自作者本人的 .agents 目录。提供可直接使用的技能配置，帮助开发者快速上手 Claude Code，优化日常编码工作流。适合希望提升 AI 编码效率的程序员。"
     },
     {
       "sourceId": "github-trending",
       "title": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "excerpt": "Beautiful, Modern & Opinionated Linux",
-      "meta": "Shell · ★ 29,089 · 🍴 2,958 · 📈 814 stars today",
+      "meta": "Shell · ★ 29,099 · 🍴 2,959 · 📈 814 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一款美观、现代且有主见的 Linux 发行版，由 Basecamp 打造。它注重用户体验和设计感，提供预配置的桌面环境，适合追求高效和简洁的开发者或日常用户快速上手。"
+      "summary": "Basecamp 推出的现代化、美观且自带理念的 Linux 发行版。注重用户体验和设计感，提供开箱即用的定制环境。适合追求简洁美观操作系统的开发者与日常用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "AprilNEA/OpenLogi",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "excerpt": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "meta": "Rust · ★ 14,892 · 🍴 398 · 📈 1,008 stars today",
+      "meta": "Rust · ★ 14,898 · 🍴 398 · 📈 1,008 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "用 Rust 编写的罗技 Options+ 的原生本地替代品。通过 HID++ 协议，支持重映射按键、调整 DPI 和 SmartShift，无需账户、无遥测，注重隐私。适合希望深度定制罗技外设且厌恶云服务的用户。"
+      "summary": "用 Rust 编写的罗技 Options+ 原生本地替代品。支持通过 HID++ 协议重映射鼠标按键、调整 DPI 和 SmartShift，无需账号或遥测，数据完全本地。适合注重隐私、需要自定义罗技外设的 Linux 和跨平台用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "block/buzz",
       "url": "https://github.com/block/buzz",
       "excerpt": "A hive mind communication platform",
-      "meta": "Rust · ★ 30,083 · 🍴 3,823 · 📈 349 stars today",
+      "meta": "Rust · ★ 30,089 · 🍴 3,824 · 📈 349 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Block 推出的蜂群思维通信平台，旨在实现去中心化的群组通信。它可能基于点对点技术，支持分布式协作和消息同步，适用于需要高可用和隐私保护的团队通信场景。"
+      "summary": "Block 推出的群体智能通信平台，旨在实现多智能体或多人之间的高效协作与信息共享。提供类似蜂群思维的交流机制，适合团队协作和分布式系统场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "apache/maka",
       "url": "https://github.com/apache/maka",
       "excerpt": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "meta": "TypeScript · ★ 2,332 · 🍴 268 · 📈 49 stars today",
+      "meta": "TypeScript · ★ 2,336 · 🍴 269 · 📈 49 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Apache 孵化器项目，一个本地优先的 AI 代理工作区。它记录模型消息、工具调用、权限决策和终止事件为追加式日志，提供可审计和可追溯的代理运行环境，适合需要严谨工作流和监管合规的 AI 应用开发。"
+      "summary": "Apache 孵化项目，本地优先的 AI 智能体工作区。将模型消息、工具调用、结果、权限决策和终止事件记录为追加式日志，便于审计与回放。适合需要可追溯、可复现 AI 工作流的开发者和企业。"
     },
     {
       "sourceId": "github-trending",
       "title": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "excerpt": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "meta": "Python · ★ 47,930 · 🍴 7,886 · 📈 1,040 stars today",
+      "meta": "Python · ★ 47,934 · 🍴 7,887 · 📈 1,040 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "允许免费使用 Claude Code、Codex、Pi 和 OpenCode 等 AI 编程工具，提供 13 亿+ 免费 token。支持在终端、应用、IDE 或手机（如 OpenClaw）中使用，支持语音，且符合服务条款。适合预算有限但需要强大 AI 辅助的开发者。"
+      "summary": "提供免费使用 Claude Code、Codex、Pi 和 OpenCode 的方案，合计超过 13 亿免费 token。支持终端、应用、IDE 或手机访问，兼容 OpenClaw 且支持语音，符合服务条款。适合想低成本体验多种 AI 编码工具的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "excerpt": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "meta": "Rust · ★ 36,721 · 🍴 3,668 · 📈 106 stars today",
+      "meta": "Rust · ★ 36,726 · 🍴 3,669 · 📈 106 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "个人 AI 超级智能，构建本地优先的生活记忆作为大脑，同时编排代理群和工作流，并具备深度研究能力。它旨在成为用户的个性化 AI 助手，管理日常信息和任务，适合希望打造个人 AI 管家的用户。"
+      "summary": "个人 AI 超级智能系统：构建本地优先的生活记忆库，编排智能体集群与工作流，并具备深度研究能力。适合想打造个人 AI 助理、自动化日常任务和知识管理的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 242,537 · 🍴 36,718 · 📈 427 stars today",
+      "meta": "JavaScript · ★ 242,544 · 🍴 36,718 · 📈 427 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "代理工具链性能优化系统，提供技能、本能、记忆、安全和研究优先的开发方式，兼容 Claude Code、Codex、Opencode、Cursor 等。它旨在提升代理的执行效率和质量，适合重度使用 AI 代理的工程师。"
+      "summary": "面向 Claude Code、Codex、Opencode、Cursor 等工具的智能体性能优化系统。整合技能、直觉、记忆、安全与研究优先的开发流程，提升智能体的运行效率和可靠性。适合深度使用 AI 编码助手的进阶开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "excerpt": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "meta": "TypeScript · ★ 69,059 · 🍴 8,273 · 📈 134 stars today",
+      "meta": "TypeScript · ★ 69,060 · 🍴 8,273 · 📈 134 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "代理元框架，用于部署智能多玩家群组、协调自主工作流和构建对话式 AI 系统。具备自适应记忆和自学习智能，适合需要复杂多代理协作和持续进化的 AI 应用，如游戏、仿真和客服系统。"
+      "summary": "原始智能体元编排框架（meta-harness），支持部署多智能体群、协调自主工作流、构建对话式 AI。具备自适应记忆与自学习能力，适合需要构建复杂 AI 协作系统的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "VoltAgent/awesome-agent-skills",
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "excerpt": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "meta": "★ 31,268 · 🍴 3,361 · 📈 223 stars today",
+      "meta": "★ 31,272 · 🍴 3,363 · 📈 223 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "精选的 1000+ 代理技能集合，来自官方开发团队和社区，兼容 Claude Code、Codex、Gemini CLI、Cursor 等。它为开发者提供丰富的技能库，可快速增强代理功能，是构建强大 AI 工作流的宝贵资源。"
+      "summary": "精心整理的 1000+ 智能体技能集合，来源涵盖官方团队与社区，兼容 Claude Code、Codex、Gemini CLI、Cursor 等主流工具。是 AI 编码智能体技能的一站式资源库。"
     },
     {
       "sourceId": "github-trending",
       "title": "virgiliojr94/book-to-skill",
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "excerpt": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "meta": "Python · ★ 24,625 · 🍴 2,577 · 📈 423 stars today",
+      "meta": "Python · ★ 24,632 · 🍴 2,577 · 📈 423 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "将任意技术书籍 PDF 转换为 Claude Code 技能，便于学习、查阅和在工作中使用。它简化了从书籍到可交互技能的过程，适合希望将知识转变为编码辅助工具的开发者。"
+      "summary": "将任意技术书籍 PDF 转化为 Claude Code 技能，方便学习、参考和工作中直接使用。开发者可快速将书籍知识转化为可调用的 AI 技能，提升学习与编码效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "dani-garcia/vaultwarden",
       "url": "https://github.com/dani-garcia/vaultwarden",
       "excerpt": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "meta": "Rust · ★ 65,952 · 🍴 3,125 · 📈 95 stars today",
+      "meta": "Rust · ★ 65,952 · 🍴 3,126 · 📈 95 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "非官方的 Bitwarden 兼容服务器，使用 Rust 编写，原名 bitwarden_rs。它作为自托管的密码管理器后端，支持大多数 Bitwarden 功能，注重性能和安全，适合希望完全掌控密码数据、并自部署的用户。"
+      "summary": "非官方的 Bitwarden 兼容服务器，使用 Rust 编写，前身为 bitwarden_rs。轻量高效，可自托管部署，与官方客户端兼容。适合希望完全掌控密码数据的个人或团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
       "excerpt": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "meta": "Python · ★ 918 · 🍴 125 · 📈 257 stars today",
+      "meta": "Python · ★ 922 · 🍴 126 · 📈 257 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Cowork 和 Claude Code 的社区插件市场镜像，提供插件提交入口。它收集社区开发的插件，方便用户发现和安装，从而扩展 Claude 工具的功能，适合想要定制化 Claude 体验的用户。"
+      "summary": "Anthropic 官方维护的 Claude Cowork 与 Claude Code 社区插件市场（只读镜像）。收录社区开发的各类插件，用户可在 clau.de/plugin-directory-submission 提交自己的插件。"
     },
     {
       "sourceId": "github-trending",
       "title": "ripienaar/free-for-dev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "excerpt": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "meta": "HTML · ★ 134,398 · 🍴 14,062 · 📈 593 stars today",
+      "meta": "HTML · ★ 134,405 · 🍴 14,062 · 📈 593 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一份面向 DevOps 和基础设施开发者的 SaaS、PaaS、IaaS 免费套餐列表。它汇集了各种云服务和工具的免费层级，帮助开发者节省成本，适合寻找免费资源以支持开发和测试项目的人群。"
+      "summary": "收录面向 DevOps 和基础设施开发者的 SaaS、PaaS、IaaS 免费套餐清单。涵盖各类云服务、工具和平台，帮助开发者低成本获取开发资源。是寻找免费技术服务的实用参考手册。"
     },
     {
       "sourceId": "github-trending",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "excerpt": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "meta": "Python · ★ 129,359 · 🍴 15,254 · 📈 179 stars today",
+      "meta": "Python · ★ 129,365 · 🍴 15,254 · 📈 179 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "功能强大且模块化的扩散模型 GUI、API 和后端，采用图/节点式界面。它允许用户以工作流方式灵活构建图像生成管线，支持自定义节点，适合研究者和高级用户进行稳定扩散等模型的创作与实验。"
+      "summary": "功能最强大、模块化的扩散模型 GUI、API 和后端，采用图形化节点界面。用户可直观构建 AI 图像生成工作流，支持灵活组合模块。适合 AI 绘画创作者、研究者及工作流开发工程师。"
     },
     {
       "sourceId": "github-trending",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "excerpt": "The agent that grows with you",
-      "meta": "Python · ★ 234,956 · 🍴 47,332 · 📈 519 stars today",
+      "meta": "Python · ★ 234,963 · 🍴 47,334 · 📈 519 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "一个与用户共同成长的智能代理。它可能通过持续学习和记忆来适应个人习惯和偏好，逐步提升帮助的精准度，适合需要个性化长期 AI 助手的用户，如研究人员或日常任务管理。"
+      "summary": "NousResearch 推出的个性化智能体，能够随用户成长而不断演进。注重长期学习和适应，适合需要持续陪伴、逐步加深对用户理解的 AI 助手场景。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -408,6 +408,15 @@
     },
     {
       "sourceId": "qbitai",
+      "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
+      "url": "https://www.qbitai.com/2026/08/478358.html",
+      "excerpt": "Tim和胡彦斌亲自颁奖",
+      "publishedAt": "2026-08-23T23:19:06.000Z",
+      "category": "tech",
+      "source": "量子位"
+    },
+    {
+      "sourceId": "qbitai",
       "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
       "url": "https://www.qbitai.com/2026/08/478319.html",
       "excerpt": "玩的就是真实",
@@ -475,15 +484,6 @@
       "url": "https://www.qbitai.com/2026/08/478007.html",
       "excerpt": "",
       "publishedAt": "2026-08-23T07:12:22.000Z",
-      "category": "tech",
-      "source": "量子位"
-    },
-    {
-      "sourceId": "qbitai",
-      "title": "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-      "url": "https://www.qbitai.com/2026/08/477253.html",
-      "excerpt": "端侧部署解决了具身大脑能否装进身体的问题。那么，同一个「大脑」，如何快速适配工业、商用和家庭三类机器人呢？",
-      "publishedAt": "2026-08-22T14:46:43.000Z",
       "category": "tech",
       "source": "量子位"
     },
@@ -1306,7 +1306,7 @@
       "meta": "👍 254",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出EnvHarness，唤醒静态环境供智能体学习。针对手工环境对智能体弱点无感知、进步后即过时的问题，通过自动化环境生成与适应，让环境随智能体能力动态演进，提升学习效率与泛化能力。"
+      "summary": "针对静态环境无法适应智能体弱点、阻碍学习的问题，EnvHarness 提出从环境内部唤醒静态世界，根据智能体弱点动态生成环境，无需特定领域管线，提升学习效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1317,7 +1317,7 @@
       "meta": "👍 142",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Zetta ζ闭环具身训练框架，解决现有智能体在执行阶段开环、仅事后反思的问题。通过在线反馈与策略自进化，在物理执行中实现闭环学习，提升具身智能体长期任务的自主适应能力。"
+      "summary": "实体智能体在执行中缺乏闭环学习，Zetta ζ 构建闭环具身框架，在物理执行中基于反馈实时调整策略，实现自我进化，提升物理交互能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1328,7 +1328,7 @@
       "meta": "👍 115",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出SemaPLC，面向PLC代码生成的工程级、验证门控智能体框架。针对已有代码能否集成进现有项目并正确运行缺乏验证的问题，引入验证门控机制，确保生成的POUs与项目一致，提升工业代码生成的可靠性。"
+      "summary": "针对 PLC 代码生成缺乏项目级验证，SemaPLC 提出基于项目、验证门控的智能体框架，确保生成的程序组织单元能集成到现有项目中并正确运行。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1339,7 +1339,7 @@
       "meta": "👍 114",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出FACET，用于终端任务合成，解决任务生成中指令、环境、参考答案与验证器假设不一致的问题。通过保留源意图与可执行状态，生成高质量训练数据，提升终端智能体的监督与执行能力。"
+      "summary": "终端智能体训练需高质量合成任务，FACET 保证指令、环境、参考解和验证器之间一致性，保留源意图与可执行状态，提升任务合成质量。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1350,7 +1350,7 @@
       "meta": "👍 92",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Co-RL，多智能体强化学习中的多样队列方法，无需ground-truth奖励即可涌现推理能力。通过智能体间协作与多样性驱动，自发形成复杂推理策略，减少对昂贵标注的依赖，拓展RL在语言与视觉语言模型中的应用。"
+      "summary": "无监督推理能力难以涌现，Co-RL 利用多智能体强化学习中多样化的同类群体，使推理能力在无外部奖励下自然涌现，减少对真值监督的依赖。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1361,7 +1361,7 @@
       "meta": "👍 88",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出OmniScientist，全模态、全学科AI科学家。针对现有AI工作流缺乏对完整科学证据访问的问题，集成多模态数据处理与跨学科推理，自动化从假设到代码到论文的全流程，提升科学发现效率。"
+      "summary": "现有 AI 科学家仅覆盖工作流，但缺乏全模态证据，OmniScientist 通过全模态多学科框架，整合假设生成、代码执行等环节，推动科学发现自动化。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1372,7 +1372,7 @@
       "meta": "👍 61",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出SWE-bench Science，评估编码智能体在科学工程任务中的表现。针对现有评估忽视科学代码错误影响证据的问题，构建科学领域基准，衡量智能体处理真实科学编码问题的能力，揭示聚合成功率的局限性。"
+      "summary": "科学代码故障可损害实验证据，SWE-bench Science 评估编码智能体在科学工程任务中的表现，揭示其在真实科学代码问题上的成功率与局限。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1383,7 +1383,7 @@
       "meta": "👍 48",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出SPADE，自适应合成可执行环境中的自博弈方法。针对现有训练环境池目标分布固定、不随学习者扩展的问题，通过动态生成多样化目标，让语言智能体持续自我改进，提升长期学习能力。"
+      "summary": "语言智能体需不断自我改进，SPADE 通过自适应合成可执行环境中的自博弈，动态生成多样化目标，突破固定目标分布，实现持续学习。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1394,7 +1394,7 @@
       "meta": "👍 32",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Top-K prompting，用于单步逆合成预测。针对传统单答案评估无法体现一对一多本质的问题，通过训练与推理时生成多个候选，结合化学合理性感知，提升模型预测多样性与实用性。"
+      "summary": "单步逆合成具有一对多特性，Top-K 提示范式用于训练化学合理性感知的 LLM，提升对多种可行反应路径的识别能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1405,7 +1405,7 @@
       "meta": "👍 31",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出MemTrapBench，评估LLM记忆使用中的认知陷阱。针对现有记忆基准只关注提取和检索、忽略检索后信息误用的问题，设计陷阱测试，衡量模型在长期交互中对记忆的可靠应用，揭示潜在风险。"
+      "summary": "现有记忆基准忽略认知陷阱，MemTrapBench 评估 LLM 使用记忆时的误导性信息影响，揭示记忆检索后决策的潜在风险与缺陷。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1416,7 +1416,7 @@
       "meta": "👍 30",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出SkillEvo，从多轮交互反馈中自更新技能。针对技能缺乏闭环改进、单轮反馈不足的问题，利用多轮交互中的失败信号作为演化梯度，让技能持续自我进化，提升智能体在复杂任务中的表现。"
+      "summary": "Agent 技能难以从失败中改进，SkillEvo 利用多轮交互反馈形成自我更新进化梯度，实现技能闭环优化，提升实际任务表现。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1427,7 +1427,7 @@
       "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Repo0，面向从零到全代码生成的设计驱动方法。针对现有代理假设预定义仓库架构的问题，直接从自然语言需求构建整个软件项目，通过设计先行策略，提升大规模代码生成的质量与一致性。"
+      "summary": "零到全代码生成假设存储库架构，Repo0 采用设计驱动方法，直接从自然语言构建完整项目，自动化架构设计，提高生成代码的可用性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1438,7 +1438,7 @@
       "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出AdaPop，基于流行度自适应的LLM遗忘方法。针对热知识更难遗忘、现有方法统一梯度压力的问题，结合本地词置信度与数据频率，动态调整遗忘力度，提升热知识遗忘效率，同时保护稀有知识。"
+      "summary": "流行事实更难遗忘，AdaPop 自适应根据训练频率调整梯度压力，结合局部 token 置信度，提升 LLM 遗忘效率，处理高频信息更有效。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1449,7 +1449,7 @@
       "meta": "👍 16",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出FlashPrefill V2，块稀疏预填充注意力，用于长上下文LLM服务。在前作基础上，通过块稀疏模式与瞬时模式发现，显著降低预填充阶段计算复杂度，同时保持精度，提升长上下文推理吞吐与效率。"
+      "summary": "长上下文预填充阶段注意力计算巨大，FlashPrefill V2 利用块稀疏预填充注意力，通过瞬时模式发现降低复杂度，加速推理过程。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1460,7 +1460,7 @@
       "meta": "👍 16",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究循环语言模型在组合工具调用中的潜力。通过循环架构维持中间状态与调用顺序，模型能更好地协调多个API调用，提升复杂工具组合任务的成功率与推理一致性。"
+      "summary": "循环语言模型在推理上表现佳，Looped LM 探索其在工具调用中的应用，通过迭代循环协调多个 API 调用，保持中间状态，提升复合工具使用能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1470,8 +1470,7 @@
       "publishedAt": "2026-08-19T00:00:00.000Z",
       "meta": "👍 16",
       "category": "tech",
-      "source": "HuggingFace Trending Papers",
-      "summary": "提出FM-Bench，用于评估长期管理场景中语言模型智能体的决策能力。模拟足球管理环境，动作有累积后果且环境动态响应，衡量智能体在长时程、竞争性条件下是否可持续有效决策，填补长期任务评估空白。"
+      "source": "HuggingFace Trending Papers"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1482,7 +1481,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究潜在世界模型中的决策-度量对齐。针对目标潜在向量距离作为MPC代价可能不反映真实任务进度的问题，提出诊断方法与动作条件目标，改善MPC规划中的动作排序，提升下游任务性能。"
+      "summary": "潜在世界模型中欧氏距离可能误导 MPC 规划，本文提出决策度量对齐诊断与动作条件目标，确保行动排序反映真实任务进展，提升决策质量。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1493,7 +1492,7 @@
       "meta": "👍 14",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出属性引导的体裁扩展框架，用于扩展创意写作数据。针对训练数据以故事为核心、缺失多样创意格式的问题，通过属性控制生成跨体裁数据，提升LLM遵循不同创意结构与功能的能力。"
+      "summary": "创意写作数据集中于故事，限制模型多样性，提出属性引导文体扩展框架，生成结构化多样创意格式数据，提升 LLM 在非故事文体上的写作能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1504,7 +1503,7 @@
       "meta": "👍 13",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究低资源语言推理中SFT与RL的作用差异。在三个前沿MoE模型上用低资源语言微调，发现准确率几乎不变且受随机种子噪声影响，但RL能改善推理过程，揭示准确率无法捕捉的模型内在变化。"
+      "summary": "低资源语言推理微调在准确率上无明显变化，但 SFT 构建知识、RL 修复行为，且基准噪声大，需更细粒度评估理解模型能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1515,7 +1514,7 @@
       "meta": "👍 11",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "对比十种LLM与26种嵌入模型在37个任务上的成本与性能。通过受控、成本感知实验，分析LLM替代传统嵌入管线的代价与收益，提供决策指导，揭示性能提升与计算开销间的权衡。"
+      "summary": "大模型嵌入更准但成本高，通过 10 个 LLM 与 26 个嵌入模型在 37 个任务上的对比，权衡性能与成本，指导文本嵌入方案选择。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -2075,7 +2074,7 @@
       "publishedAt": "2026-08-22T07:36:00.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "文章探讨模拟技术为何以“质量稍逊、成本低100倍、速度快10000倍”的优势取代传统方法，并质疑模型训练后是否止步于RSI（递归自我改进）。"
+      "summary": "文章指出，AI训练领域正出现一种趋势：模型性能仅下降10%，但成本降低100倍、速度提升10000倍，使得模拟（simulation）逐渐取代传统训练方式。文章质疑这是否意味着强化学习（RSI）止步于模型训练阶段，并探讨计算效率与性能权衡的新方向。"
     },
     {
       "sourceId": "latent-space",
@@ -2085,7 +2084,7 @@
       "publishedAt": "2026-08-22T07:30:52.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "文章讨论代理框架的演变，指出模型将框架不断吸收进自身权重，未来框架或将转向人类注意力而非模型本身。"
+      "summary": "文章探讨智能体（Agent）工具链的演进，认为模型正不断将外部工具整合进自身权重，未来这种整合可能转向人类注意力本身，即从模型工具转变为人类注意力的接口，预示人机交互方式的根本变化。"
     },
     {
       "sourceId": "latent-space",
@@ -2348,47 +2347,16 @@
       "category": "tech",
       "meta": "@AndrewYNg · 1.8M 粉丝 · 62.4K 阅 · 1.2K 赞 · 189 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "吴恩达回顾其「AI 工程技能地图」，最顶层技能包括构建部署 AI 应用、软件工程基础及代码使用。这篇是对该框架的进一步阐述，为 AI 从业者提供技能进阶路线参考。"
+      "summary": "吴恩达回顾其「AI 工程技能图谱」，强调最高层级技能包括构建与部署 AI 应用、软件工程基础及使用编码（工具），为学习者提供技能进阶路径参考。"
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "Shein Seeks Up to $1.8 Billion in Long-Awaited Hong Kong IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/shein-seeks-up-to-1-8-billion-in-long-awaited-hong-kong-ipo",
-      "excerpt": "Shein Global Holdings Ltd. is seeking to raise as much as HK$13.9 billion ($1.8 billion) in its Hong Kong initial public offering, as it enters the final stretch of an arduous journey to go public.",
-      "publishedAt": "2026-08-23T22:17:43.000Z",
+      "title": "Oil Dips, Alibaba Funding Plan Keeps AI in Focus: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+      "excerpt": "Oil edged lower in at the start of a key week for markets, with traders focused on the US plan to economically isolate Iran and the Federal Reserve’s annual gathering.",
+      "publishedAt": "2026-08-23T22:10:35.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "希音全球控股寻求在香港首次公开募股中筹集至多139亿港元（约18亿美元），标志其艰难的上市之路进入最后阶段。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Burnham Enters World Stage With Debut Foreign Trip to Ukraine",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/burnham-enters-world-stage-with-debut-foreign-trip-to-ukraine",
-      "excerpt": "Andy Burnham is traveling to Ukraine on Monday for his first international trip as British prime minister, in an attempt to show he’ll maintain diplomatic and military support for Kyiv as Russia’s war enters a decisive phase.",
-      "publishedAt": "2026-08-23T23:01:00.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "英国首相伯纳姆于周一首次出访乌克兰，作为其上任后首次国际行程，旨在展示在俄乌战争进入关键阶段时对基辅的外交与军事支持。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Hong Kong Homebuyers Left Cold by Prices in Far-Flung Tech Hub",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-homebuyers-left-cold-by-prices-in-far-flung-tech-hub",
-      "excerpt": "Hong Kong’s ambitious plan to create a technology hub near the mainland Chinese border faces an early test after the first residential sales in its Northern Metropolis got off to a middling start, highlighting the hurdles to turning the area into a new economic engine.",
-      "publishedAt": "2026-08-23T23:00:00.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "香港北部都会区首批住宅销售开局平淡，显示将靠近内地边境地区打造为科技枢纽的雄心面临考验，凸显将该区转变为新经济引擎的障碍。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Taiwan Dollar’s August Rebound Is Looking Fragile, Analysts Say",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/taiwan-dollar-s-august-rebound-is-looking-fragile-analysts-say",
-      "excerpt": "The Taiwan dollar’s strongest monthly rise in over a year is running into a wall of headwinds, sowing doubts among analysts on the sustainability of its rebound.",
-      "publishedAt": "2026-08-23T23:00:00.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "新台币8月创下一年多来最大月涨幅，但面临多重逆风，分析师对其反弹的可持续性存疑。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2397,8 +2365,43 @@
       "excerpt": "Regal Partners said Phil King will start a transition to retirement, marking the exit of one of Australia’s most high-profile hedge fund managers.",
       "publishedAt": "2026-08-23T22:55:46.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "澳大利亚对冲基金公司Regal Partners宣布，知名基金经理菲尔·金将开始过渡至退休，标志着澳大利亚最知名的对冲基金经理之一将退出。"
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Shein Seeks Up to $1.8 Billion in Long-Awaited Hong Kong IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/shein-seeks-up-to-1-8-billion-in-long-awaited-hong-kong-ipo",
+      "excerpt": "Shein Global Holdings Ltd. is seeking to raise as much as HK$13.9 billion ($1.8 billion) in its Hong Kong initial public offering, as it enters the final stretch of an arduous journey to go public.",
+      "publishedAt": "2026-08-23T22:17:43.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Burnham Enters World Stage With Debut Foreign Trip to Ukraine",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/burnham-enters-world-stage-with-debut-foreign-trip-to-ukraine",
+      "excerpt": "Andy Burnham is traveling to Ukraine on Monday for his first international trip as British prime minister, in an attempt to show he’ll maintain diplomatic and military support for Kyiv as Russia’s war enters a decisive phase.",
+      "publishedAt": "2026-08-23T23:01:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Hong Kong Homebuyers Left Cold by Prices in Far-Flung Tech Hub",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-homebuyers-left-cold-by-prices-in-far-flung-tech-hub",
+      "excerpt": "Hong Kong’s ambitious plan to create a technology hub near the mainland Chinese border faces an early test after the first residential sales in its Northern Metropolis got off to a middling start, highlighting the hurdles to turning the area into a new economic engine.",
+      "publishedAt": "2026-08-23T23:00:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Taiwan Dollar’s August Rebound Is Looking Fragile, Analysts Say",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/taiwan-dollar-s-august-rebound-is-looking-fragile-analysts-say",
+      "excerpt": "The Taiwan dollar’s strongest monthly rise in over a year is running into a wall of headwinds, sowing doubts among analysts on the sustainability of its rebound.",
+      "publishedAt": "2026-08-23T23:00:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2408,16 +2411,6 @@
       "publishedAt": "2026-08-23T13:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "US Futures Edge Lower With AI Spending in Focus: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
-      "excerpt": "US equity futures dipped with the rising cost of the artificial-intelligence boom in focus, as Nvidia Corp. hiked prices and Alibaba Group Holding Ltd. launched a $10 billion share sale. The Canadian dollar slipped as US trade tensions intensified.",
-      "publishedAt": "2026-08-23T22:10:35.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "美国股指期货小幅下跌，市场聚焦人工智能支出上升成本；英伟达提高价格，阿里巴巴启动100亿美元股票发售，加元因美国贸易紧张加剧而走弱。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2723,8 +2716,7 @@
       "excerpt": "Fifth consecutive full-year loss exposes tension in mandate of lender set up by SNP-led government",
       "publishedAt": "2026-08-23T23:01:01.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "苏格兰国有银行因投资失败录得1.38亿英镑亏损，连续第五年全年亏损，暴露了苏格兰民族党政府设立的该行在使命上的矛盾。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -3124,6 +3116,33 @@
     },
     {
       "sourceId": "bbc-business",
+      "title": "Review launched into how pub and hotel business rates calculated",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
+      "publishedAt": "2026-08-23T23:26:15.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "Why students are being paid £2,000 to play computer games",
+      "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
+      "publishedAt": "2026-08-23T23:23:55.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
+      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
+      "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
+      "publishedAt": "2026-08-23T23:25:44.000Z",
+      "category": "finance",
+      "source": "BBC Business"
+    },
+    {
+      "sourceId": "bbc-business",
       "title": "Struggling households need more help with bills, energy industry says",
       "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
       "excerpt": "Industry body Energy UK says the current support for households most in need does not go far enough.",
@@ -3335,33 +3354,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
       "excerpt": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
       "publishedAt": "2026-08-20T13:24:57.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "Reform UK proposes tax rebates for firms to boost apprenticeships",
-      "url": "https://www.bbc.co.uk/news/articles/c86nz8n960go?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Suella Braverman also advised student's \"not to get ripped off by the great university scam\".",
-      "publishedAt": "2026-08-20T16:31:44.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "excerpt": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-      "publishedAt": "2026-08-20T22:18:56.000Z",
-      "category": "finance",
-      "source": "BBC Business"
-    },
-    {
-      "sourceId": "bbc-business",
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "publishedAt": "2026-08-20T06:08:02.000Z",
       "category": "finance",
       "source": "BBC Business"
     },
@@ -3664,6 +3656,15 @@
     },
     {
       "sourceId": "wallstreetcn",
+      "title": "人民日报钟才文：我国宏观政策工具箱充足，逆周期调节空间依然较大，有条件根据形势变化出台务实管用的增量政策",
+      "url": "https://wallstreetcn.com/articles/3780104",
+      "excerpt": "",
+      "publishedAt": "2026-08-23T23:47:00.000Z",
+      "category": "finance",
+      "source": "华尔街见闻"
+    },
+    {
+      "sourceId": "wallstreetcn",
       "title": "华尔街见闻早餐FM-Radio | 2026年8月24日",
       "url": "https://wallstreetcn.com/articles/3780045",
       "excerpt": "",
@@ -3834,15 +3835,6 @@
       "source": "华尔街见闻"
     },
     {
-      "sourceId": "wallstreetcn",
-      "title": "莱茵河“断航”阴影重现，VA会重演116%的涨价行情吗？",
-      "url": "https://wallstreetcn.com/member/articles/3779974",
-      "excerpt": "",
-      "publishedAt": "2026-08-23T08:46:48.000Z",
-      "category": "finance",
-      "source": "华尔街见闻"
-    },
-    {
       "sourceId": "bbc-world",
       "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
       "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
@@ -3904,7 +3896,7 @@
       "publishedAt": "2026-08-23T20:19:36.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "美国总统特朗普挥动绿旗，为在华盛顿特区街道举行的IndyCar赛车比赛发令。比赛是为庆祝美国建国250周年而举办的系列活动的高潮。"
+      "summary": "美国总统特朗普挥动绿旗，启动穿越华盛顿街道的印地赛车比赛。他先绕赛道一圈，该赛事是纪念美国建国250周年夏季活动的高潮。"
     },
     {
       "sourceId": "bbc-world",
@@ -4120,8 +4112,7 @@
       "excerpt": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and",
       "publishedAt": "2026-08-23T22:16:53.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "几内亚首都科纳克里一处大型垃圾堆因连夜暴雨发生滑坡，造成30人死亡。此前部长刚承诺搬迁该垃圾场，滑坡掩埋了附近的房屋。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -4253,11 +4244,11 @@
       "sourceId": "guardian-world",
       "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
-      "excerpt": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live Get our breaking news email, free app or daily news podcast Victoria police race to identify man found with critical injuries The race is on to identify a young man found unconscious on a busy ",
-      "publishedAt": "2026-08-23T23:05:43.000Z",
+      "excerpt": "Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live Get our breaking news email, free app or daily news podcast Joyce steps in on One Nation’s migration target Barnaby Joyce defended a fellow One Nation MP over comments suggesting the minor part",
+      "publishedAt": "2026-08-23T23:25:29.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚悉尼库吉海滩大白鲨袭击受害者莉亚·斯图尔特在“极其艰难”的康复后感谢捐赠者。另据报道，第二只海狗疑似死于禽流感。维多利亚州警方正在争分夺秒确认一名受重伤男子的身份。"
+      "summary": "在悉尼库吉海滩遭遇大白鲨袭击的莉亚·斯图尔特感谢捐赠者，称康复过程“极其艰难”。另有一只海狗疑似因禽流感死亡。巴纳比·乔伊斯为一国党议员关于移民目标的言论辩护。"
     },
     {
       "sourceId": "guardian-world",
@@ -4303,7 +4294,7 @@
       "publishedAt": "2026-08-23T23:01:45.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "英国首相安迪·伯纳姆将于周一访问基辅，出席乌克兰独立日纪念活动，并宣布共享关于“风暴阴影”导弹部件的机密信息，以增强乌克兰自主制造远程导弹的能力。"
+      "summary": "英国首相安迪·伯纳姆将于周一访问基辅，纪念乌克兰独立日，并宣布分享关于“风暴之影”导弹组件的机密信息，以增强乌克兰自主制造远程导弹的能力。"
     },
     {
       "sourceId": "guardian-world",
@@ -4520,7 +4511,7 @@
       "publishedAt": "2026-08-23T20:26:29.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "战争、气候冲击和贸易争端正重创全球“粮仓”，将全球粮食体系推入危险境地，面包价格承压。文章探讨全球粮食安全面临的严峻挑战。"
+      "summary": "战争、气候冲击和贸易争端正冲击全球粮食主产区，将全球粮食体系推向危险境地，面包价格承压。"
     },
     {
       "sourceId": "nyt-world",
@@ -4665,7 +4656,7 @@
       "publishedAt": "2026-08-23T21:21:23.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "马克·伦纳德在《外交事务》发文称美国在世界秩序中的领导角色正在衰退。他与NPR的丹妮尔·库尔茨莱本讨论如何适应“后美国世界”。"
+      "summary": "马克·伦纳德在《外交事务》文章中认为美国在世界秩序中的主导角色正在减弱。他与NPR的丹妮尔·库尔特兹伦讨论了这一观点，探讨如何适应“后美国世界”。"
     },
     {
       "sourceId": "npr-world",
@@ -5026,7 +5017,7 @@
       "publishedAt": "2026-08-23T21:45:05.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "巴塞罗那在西甲联赛揭幕战中以5-0大胜埃尔切，拉菲尼亚和洛佩斯均梅开二度。巴萨由此开启卫冕征程，力争连续第三个赛季夺冠。"
+      "summary": "巴塞罗那在西甲联赛中以5-0大胜埃尔切，拉菲尼亚和洛佩斯各入两球，开启卫冕征程，冲击三连冠。"
     },
     {
       "sourceId": "aljazeera",
@@ -5036,7 +5027,7 @@
       "publishedAt": "2026-08-23T21:34:53.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国总统唐纳德·特朗普表示将对伊朗实施“毁灭性措施”的新制裁。本视频讨论这些新制裁能否奏效及其可能的影响。"
+      "summary": "美国总统特朗普表示将对伊朗实施“严厉措施”的新制裁，但专家质疑其效果。节目探讨制裁能否奏效。"
     },
     {
       "sourceId": "aljazeera",
@@ -5046,7 +5037,7 @@
       "publishedAt": "2026-08-23T21:27:57.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "塞尔维亚因野火肆虐而请求欧盟和俄罗斯提供国际援助，以帮助控制火势。目前塞尔维亚正面临严峻的火灾形势。"
+      "summary": "塞尔维亚因野火肆虐，请求欧盟和俄罗斯提供国际援助，以帮助控制火势。"
     },
     {
       "sourceId": "aljazeera",
@@ -5056,7 +5047,7 @@
       "publishedAt": "2026-08-23T21:23:05.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国驻土耳其大使汤姆·巴拉克收回此前关于叙利亚戈兰高地“被占领”的言论，称美国承认以色列对该地区主权声索的政策“不变”。"
+      "summary": "美国驻土耳其大使汤姆·巴拉克收回此前称叙利亚戈兰高地是“被占领”的言论，称美国承认以色列对戈兰高地主张主权的政策“未变”。"
     },
     {
       "sourceId": "aljazeera",
@@ -5066,7 +5057,7 @@
       "publishedAt": "2026-08-23T21:08:17.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "几内亚首都科纳克里一处垃圾填埋场因连夜暴雨导致垃圾堆坍塌，掩埋周边房屋，造成30人死亡。"
+      "summary": "几内亚首都科纳克里一座垃圾填埋场因夜间暴雨发生坍塌，掩埋附近房屋，造成30人死亡。"
     },
     {
       "sourceId": "aljazeera",
@@ -5076,7 +5067,7 @@
       "publishedAt": "2026-08-23T20:23:01.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "以色列正推进“E1”计划，该计划可能将约旦河西岸一分为二。本视频解释E1计划是什么，以及它为何可能威胁巴勒斯坦国的未来。"
+      "summary": "以色列正推进“E1”计划，可能将约旦河西岸一分为二，威胁巴勒斯坦国的未来前景。"
     },
     {
       "sourceId": "aljazeera",
@@ -5086,7 +5077,7 @@
       "publishedAt": "2026-08-23T20:00:22.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "意大利艾米利亚-罗马涅大区弗利市遭遇时速约120公里的强风，导致四架轻型飞机在机场停机坪上被掀翻。"
+      "summary": "意大利艾米利亚-罗马涅大区弗利市遭遇时速约120公里的大风，将四架轻型飞机吹翻在机场停机坪上。"
     },
     {
       "sourceId": "aljazeera",
@@ -5096,7 +5087,7 @@
       "publishedAt": "2026-08-23T19:52:12.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "印地赛车在华盛顿特区市中心飞驰而过地标建筑，参加特朗普创立的“自由250”大奖赛。图片展示了赛车驶过华盛顿地标的场景。"
+      "summary": "印地赛车在华盛顿特区中心地标旁飞驰，参加特朗普创立的“自由250”大奖赛，该赛事首秀举行。"
     },
     {
       "sourceId": "aljazeera",
@@ -5106,7 +5097,7 @@
       "publishedAt": "2026-08-23T19:40:11.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "加沙地带医院面临氧气短缺，早产儿和危重病人的生命受到威胁，医疗体系濒临崩溃边缘。"
+      "summary": "加沙医院面临氧气短缺，危及早产儿和危重病人的生命，医疗系统濒临崩溃。"
     },
     {
       "sourceId": "aljazeera",
@@ -5524,6 +5515,176 @@
     },
     {
       "sourceId": "sina-finance",
+      "title": "沃尔核材遭蒋锦志减持91.7万股 每股作价约10.05港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkmae3026886.shtml",
+      "excerpt": "香港联交所最新数据显示，8月19日，蒋锦志减持沃尔核材（09981）91.70万股，每股作价10.0481港元，总金额约为921.41万港元。减持后最新持股数目为929万股...",
+      "publishedAt": "2026-08-23T23:49:09.000Z",
+      "category": "finance",
+      "meta": "来源：新浪港股",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "Anthropic旗舰AI模型遇冷，低成本竞品大行其道",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkmae3026615.shtml",
+      "excerpt": "Anthropic的美国客户正转向价格更低的替代产品，放弃该公司性能最强的AI工具。在市场预期这家企业将迎来史上规模最大的首次公开募股（IPO）前夕...",
+      "publishedAt": "2026-08-23T23:48:26.000Z",
+      "category": "finance",
+      "meta": "来源：环球市场播报",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "金力集团遭高健行减持49.2万股 每股作价0.645港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkmae3026473.shtml",
+      "excerpt": "香港联交所最新数据显示，8月18日，高健行减持金力集团（03919）49.2万股，每股作价0.645港元，总金额约为31.73万港元。减持后最新持股数目为600万股，最新持股比例为13...",
+      "publishedAt": "2026-08-23T23:48:04.000Z",
+      "category": "finance",
+      "meta": "来源：新浪港股",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "广合科技获大摩增持约4.6万股 每股作价约139.92港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkkzx0081566.shtml",
+      "excerpt": "香港联交所最新数据显示，8月18日，Morgan Stanley增持广合科技（01989）4.6041万股，每股作价139.9221港元，总金额约为644.22万港元。",
+      "publishedAt": "2026-08-23T23:46:59.000Z",
+      "category": "finance",
+      "meta": "来源：新浪港股",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "凯莱英获南方基金管理股份有限公司增持23.32万股 每股作价约130.13港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkmae3025670.shtml",
+      "excerpt": "香港联交所最新数据显示，8月19日，China Southern Asset Management Co．， Ltd．（南方基金管理股份有限公司）增持凯莱英（06821）23.32万股，每股作价130.1340港元...",
+      "publishedAt": "2026-08-23T23:46:01.000Z",
+      "category": "finance",
+      "meta": "来源：新浪港股",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "汉港控股集团获董事会主席汪林冰增持1010万股 每股作价约0.049港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkkzx0080283.shtml",
+      "excerpt": "香港联交所最新数据显示，8月20日，董事会主席汪林冰增持汉港控股集团（01663）1010万股，每股作价0.049港元，总金额为49.49万港元。",
+      "publishedAt": "2026-08-23T23:44:43.000Z",
+      "category": "finance",
+      "meta": "来源：新浪港股",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "经济承压迹象不断显现，美联储主席沃什力求安抚投资者情绪",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkmae3024562.shtml",
+      "excerpt": "随着经济承压迹象不断增多，美联储主席凯文・沃什将于下周着力安抚投资者情绪。与此同时，政策制定者即将齐聚杰克逊霍尔年度经济政策研讨会...",
+      "publishedAt": "2026-08-23T23:43:34.000Z",
+      "category": "finance",
+      "meta": "来源：环球市场播报",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "嘀嗒出行获eLong, Inc.增持约1593.64万股 每股作价约1.39港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkmaa6252019.shtml",
+      "excerpt": "香港联交所最新数据显示，8月19日，eLong， Inc．增持嘀嗒出行（02559）1593.6356万股，每股作价1.3875港元，总金额约为2211.17万港元。",
+      "publishedAt": "2026-08-23T23:43:33.000Z",
+      "category": "finance",
+      "meta": "来源：新浪港股",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "君百延集团获主席兼行政总裁黄碧君增持20万股 每股作价0.135港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkmae3024272.shtml",
+      "excerpt": "香港联交所最新数据显示，8月20日，主席兼行政总裁黄碧君增持君百延集团控股（08372）20万股，每股作价0.135港元，总金额为2.7万港元。",
+      "publishedAt": "2026-08-23T23:42:35.000Z",
+      "category": "finance",
+      "meta": "来源：新浪港股",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "星悦康旅获宋浩东增持80万股 每股作价约0.345港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkkzy2028636.shtml",
+      "excerpt": "香港联交所最新数据显示，8月20日，宋浩东增持星悦康旅（03662）80万股，每股作价0.345港元，总金额为27.6万港元。增持后最新持股数目为8717.6万股，最新持股比例为12...",
+      "publishedAt": "2026-08-23T23:41:01.000Z",
+      "category": "finance",
+      "meta": "来源：新浪港股",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "美联储Kashkari称美国国债市场仍在“正常”运作",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkkzx0077569.shtml",
+      "excerpt": " 明尼阿波利斯联邦储备银行行长Neel Kashkari淡化对美国国债收益率上升的担忧，称市场运行良好，最近飙升不太可能影响货币政策的考量。",
+      "publishedAt": "2026-08-23T23:40:24.000Z",
+      "category": "finance",
+      "meta": "来源：环球市场播报",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "美亚娱乐资讯获主席兼执行董事李国兴增持40万股 每股作价0.233港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkmaa6250874.shtml",
+      "excerpt": "香港联交所最新数据显示，8月20日，主席兼执行董事李国兴增持美亚娱乐资讯（00391）40万股，每股作价0.233港元，总金额为9.32万港元。",
+      "publishedAt": "2026-08-23T23:39:56.000Z",
+      "category": "finance",
+      "meta": "来源：新浪港股",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "太平洋酒吧获陈威增持46万股 每股作价0.045港元",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-24/doc-inipkmae3023098.shtml",
+      "excerpt": "香港联交所最新数据显示，8月18日，陈威增持太平洋酒吧（08432）46万股，每股作价0.045港元，总金额为2.07万港元。增持后最新持股数目约为4.66亿股，最新持股比例为53...",
+      "publishedAt": "2026-08-23T23:39:07.000Z",
+      "category": "finance",
+      "meta": "来源：新浪港股",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "沃什若未提供明确指引 美国长债恐遭进一步抛售",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkmae3021905.shtml",
+      "excerpt": " 债券投资者将重点关注凯文·沃什本周在杰克逊霍尔发表的讲话，市场将从中研判美联储主席将如何应对持续通胀和财政问题，长期美债或将进一步遭到抛售。",
+      "publishedAt": "2026-08-23T23:35:53.000Z",
+      "category": "finance",
+      "meta": "来源：环球市场播报",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "美国财政部长将宣布对伊朗实施制裁，德黑兰方面驳斥这场经济战威胁",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkkzx0072533.shtml",
+      "excerpt": " 美国财政部长将于周一举行新闻发布会，宣布针对伊朗的制裁措施。他在接受采访时称，这是 “人类历史上规模最大的协同经济孤立行动”。",
+      "publishedAt": "2026-08-23T23:31:24.000Z",
+      "category": "finance",
+      "meta": "来源：环球市场播报",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "最新！事关霍尔木兹海峡石油出口，伊朗警告！俄12小时击落269架无人机！美国4万多人紧急撤离！",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-08-24/doc-inipkkzy2029758.shtml",
+      "excerpt": "来源：期货日报 早上好！新的交易周来了，先来看重要资讯。 伊朗官员：若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口 据央视消息，当地时间23日...",
+      "publishedAt": "2026-08-23T23:30:07.000Z",
+      "category": "finance",
+      "meta": "来源：市场资讯",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
+      "title": "公募产品打新成绩单，来了",
+      "url": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipkkzy2029121.shtml",
+      "excerpt": "来源：中国基金报 【导读】年内近5000只公募产品打新 首日浮盈超547亿元 中国基金报记者 方丽 今年以来，新股赚钱效应全面爆发，多只“硬科技”超级“肉签”接连登场。",
+      "publishedAt": "2026-08-23T23:30:00.000Z",
+      "category": "finance",
+      "meta": "来源：滚动播报",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
       "title": "股海导航_2026年8月24日_沪深股市公告与交易提示",
       "url": "https://finance.sina.com.cn/stock/s/2026-08-24/doc-inipkkzy2019287.shtml",
       "excerpt": "【停牌】 000016 *ST康佳A 301117 佳缘科技 【复牌】 002445 中南文化 002084 海鸥住工 002906 华阳集团 300862 蓝盾光电 【品大事】 慧谷新材：拟使用超募资金投资建设珠...",
@@ -5534,190 +5695,20 @@
     },
     {
       "sourceId": "sina-finance",
+      "title": "反弹超20%！这些“神基”上涨推手是谁？",
+      "url": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipkeue6365829.shtml",
+      "excerpt": "近期，各大主流宽基指数波动加剧，微盘股却走出了一波独立行情。 自7月22日见底以来，万得微盘股指数在近一个月已经反弹近20%，微盘策略基金也大幅回血...",
+      "publishedAt": "2026-08-23T22:50:44.000Z",
+      "category": "finance",
+      "meta": "来源：21世纪经济报道",
+      "source": "新浪财经"
+    },
+    {
+      "sourceId": "sina-finance",
       "title": "8月24日周末要闻：美对伊欲打空前经济战 原油下挫 黄金走高 阿里新股配售 英伟达AI芯片涨价",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkeuh3135441.shtml",
       "excerpt": "上周国际市场回顾 8月22日收盘：道指飙升500点 长端美债收益率持续走高 三大指数周线均录得下跌 8月22日热门中概股多数上涨，网易涨6.98%，阿里巴巴跌8...",
       "publishedAt": "2026-08-23T22:45:18.000Z",
-      "category": "finance",
-      "meta": "来源：环球市场播报",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "原油周报：地缘难题仍未解，油价维持宽幅震荡",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-08-24/doc-inipkmae3018434.shtml",
-      "excerpt": "",
-      "publishedAt": "2026-08-23T22:36:00.000Z",
-      "category": "finance",
-      "meta": "来源：市场资讯",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "视频丨美欲打空前经济战 伊朗亮出“石油出口反制牌”",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipketz0176815.shtml",
-      "excerpt": " 美国总统特朗普宣布将对伊朗实施“史无前例”的经济战后，美财政部长贝森特证实，将于24日正式对外公布对伊“前所未有的经济孤立”措施的具体行动内容。",
-      "publishedAt": "2026-08-23T22:21:11.000Z",
-      "category": "finance",
-      "meta": "来源：央视",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "美军称在中东地区海域开展舰艇补给作业",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkeuh3127772.shtml",
-      "excerpt": " 当地时间8月23日，美国中央司令部称，美国海军一架MH-60S“海鹰”直升机在中东地区海域为“拳师”号两栖攻击舰执行垂直补给任务，物资由“北极”号快速战斗支援舰提供。",
-      "publishedAt": "2026-08-23T22:10:33.000Z",
-      "category": "finance",
-      "meta": "来源：央视",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "标普500期货与原油下挫，黄金走高",
-      "url": "https://finance.sina.com.cn/7x24/2026-08-24/doc-inipkeua2115014.shtml",
-      "excerpt": "周一盘初，美国股指期货与原油价格走弱，投资者静待美国针对伊朗出台经济措施的更多细节。一则有关英伟达上调部分AI芯片价格的报道...",
-      "publishedAt": "2026-08-23T22:09:01.000Z",
-      "category": "finance",
-      "meta": "来源：环球市场播报",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "美国内华达州里诺市4万多居民因野火紧急撤离",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkeuh3110647.shtml",
-      "excerpt": "一场大型野火23日快速逼近地处美国内华达州、与加利福尼亚州邻近的里诺市。当地消防部门证实凶猛火势已造成6人受伤，迫使约4.2万名当地居民紧急撤离，另有4...",
-      "publishedAt": "2026-08-23T20:56:59.000Z",
-      "category": "finance",
-      "meta": "来源：央视",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiync0233967.shtml",
-      "excerpt": "当地时间23日，伊朗最高国家安全委员会秘书雷扎伊表示，如果美国对伊朗继续发动经济战，则没有石油会通过霍尔木兹海峡乃至波斯湾地区。",
-      "publishedAt": "2026-08-23T19:28:59.000Z",
-      "category": "finance",
-      "meta": "来源：央视",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "加拿大驻美大使：加美贸易谈判破裂原因涉及多项议题",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiynh6448072.shtml",
-      "excerpt": "央视记者当地时间8月23日获悉，加拿大驻美国大使马克·怀斯曼表示，加美贸易谈判22日晚间破裂，原因涉及多项议题，其中潜在协议的书面文本与加拿大方面认为双方此前已达成的...",
-      "publishedAt": "2026-08-23T19:19:02.000Z",
-      "category": "finance",
-      "meta": "来源：央视",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "英伟达远期市盈率跌至多年低位，财报将检验AI行情持续性",
-      "url": "https://finance.sina.com.cn/7x24/2026-08-24/doc-inipiynh6436745.shtml",
-      "excerpt": " 尽管英伟达毛利率接近75%，但其远期市盈率已经跌至五年多来、相对于自身十年历史区间的低位；市场对客户集中度风险以及AI循环融资模式的担忧不断升温。",
-      "publishedAt": "2026-08-23T18:48:33.000Z",
-      "category": "finance",
-      "meta": "来源：环球市场播报",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "金饰克价月内涨超百元 金条投资热度升温",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiuek6555471.shtml",
-      "excerpt": "证券时报记者 吴家明 近期，国际金价持续冲高，现货黄金一举突破4600美元/盎司关口，仅8月以来涨幅便已超过13%，直接带动线下黄金消费市场人气高涨。",
-      "publishedAt": "2026-08-23T18:05:55.000Z",
-      "category": "finance",
-      "meta": "来源：证券时报",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "美众议院议长：伊朗冲突或将很快进入新阶段，期待盟国协助收尾",
-      "url": "https://finance.sina.com.cn/7x24/2026-08-24/doc-inipiueh2263785.shtml",
-      "excerpt": "美国众议院议长迈克·约翰逊表示，他预计伊朗冲突很快将进入新阶段，并相信盟国将协助美国结束这场冲突。约翰逊在接受采访时称：“我认为局势很快就会进入一个全新阶段。",
-      "publishedAt": "2026-08-23T17:51:32.000Z",
-      "category": "finance",
-      "meta": "来源：环球市场播报",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "俄国防部：击落269架乌克兰无人机",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiynh6444308.shtml",
-      "excerpt": "俄罗斯国防部23日晚发布通报说，莫斯科时间当天8时至20时，俄防空部队在阿尔汉格尔斯克州、别尔哥罗德州、布良斯克州以及莫斯科地区等俄多地拦截并击落269架乌克兰无人机。...",
-      "publishedAt": "2026-08-23T17:37:09.000Z",
-      "category": "finance",
-      "meta": "来源：央视",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "美内华达州山火迅速蔓延 近1.4万户居民被要求撤离",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiuef0305156.shtml",
-      "excerpt": "央视记者当地时间8月23日获悉，美国内华达州北部里诺市郊的“霍克”山火当日清晨从内华达山脉山麓向里诺市中心方向迅速蔓延，过火面积已超过1.05万英亩，近1...",
-      "publishedAt": "2026-08-23T17:25:00.000Z",
-      "category": "finance",
-      "meta": "来源：央视",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "美军称对伊朗海上封锁以来已拦截75艘商船",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiuek6536104.shtml",
-      "excerpt": "据美国中央司令部当地时间8月23日的消息，美国“约翰·芬恩”号导弹驱逐舰正在阿拉伯海航行，并执行美国对伊朗的海上封锁任务。截至8月23日，美军已要求70艘商船改变航向...",
-      "publishedAt": "2026-08-23T17:02:00.000Z",
-      "category": "finance",
-      "meta": "来源：央视",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "以总理警告哈马斯停止从加沙向以色列“放风筝”",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkeua2104621.shtml",
-      "excerpt": "当地时间23日晚，以色列总理内塔尼亚胡与国防部长卡茨警告巴勒斯坦伊斯兰抵抗运动（哈马斯），如果不立即停止从加沙地带向以色列“放风筝”...",
-      "publishedAt": "2026-08-23T17:01:14.000Z",
-      "category": "finance",
-      "meta": "来源：央视",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "美军伊朗战争伤亡升至774人",
-      "url": "https://finance.sina.com.cn/7x24/2026-08-24/doc-inipiuek6525456.shtml",
-      "excerpt": "据美国媒体援引美国国防部伤亡统计系统的数据，美军在伊朗战争中的伤亡已升至774人，其中18人死亡，756人受伤。 即便在没有大规模作战的阶段...",
-      "publishedAt": "2026-08-23T16:35:38.000Z",
-      "category": "finance",
-      "meta": "来源：环球市场播报",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "阿里新股配售定价完成，获长线投资者超额认购",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-24/doc-inipipwq3424696.shtml",
-      "excerpt": "8月24日，阿里巴巴宣布完成800亿港元（约102亿美元）新股配售定价，发行价为每股普通股112.70港元，共配售7.1亿股。配售所得款项净额将100%用于投资全栈AI能力...",
-      "publishedAt": "2026-08-23T16:22:53.000Z",
-      "category": "finance",
-      "meta": "来源：新浪科技",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "泽连斯基：乌克兰未参与北溪管道爆炸事件",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-23/doc-inipipwi0368043.shtml",
-      "excerpt": " 德国通缉的第二名乌克兰籍嫌疑人在克罗地亚被捕之后，乌克兰总统泽连斯基表示，乌克兰没有参与俄罗斯通往欧洲的北溪天然气管道遭破坏一事。",
-      "publishedAt": "2026-08-23T15:35:55.000Z",
-      "category": "finance",
-      "meta": "来源：环球市场播报",
-      "source": "新浪财经"
-    },
-    {
-      "sourceId": "sina-finance",
-      "title": "泽连斯基称乌克兰未参与北溪管道爆炸事件",
-      "url": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipipwi0367598.shtml",
-      "excerpt": "乌克兰总统泽连斯基表示，乌克兰并未参与北溪天然气管道的破坏行动。应德国方面要求，克罗地亚逮捕一名名为弗拉基米尔·Z的乌克兰籍嫌疑人...",
-      "publishedAt": "2026-08-23T15:34:29.000Z",
       "category": "finance",
       "meta": "来源：环球市场播报",
       "source": "新浪财经"
@@ -5994,6 +5985,24 @@
     },
     {
       "sourceId": "producthunt",
+      "title": "FetchSandbox MCP",
+      "url": "https://www.producthunt.com/products/fetchsandbox",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-08-14T21:18:26.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
+      "title": "Aximote",
+      "url": "https://www.producthunt.com/products/aximote",
+      "excerpt": "Discussion | Link",
+      "publishedAt": "2026-08-08T07:06:40.000Z",
+      "category": "tech",
+      "source": "Product Hunt"
+    },
+    {
+      "sourceId": "producthunt",
       "title": "Claude Academy",
       "url": "https://www.producthunt.com/products/claude-academy",
       "excerpt": "Discussion | Link",
@@ -6030,28 +6039,10 @@
     },
     {
       "sourceId": "producthunt",
-      "title": "Aximote",
-      "url": "https://www.producthunt.com/products/aximote",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-08T07:06:40.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
       "title": "KanaSensei",
       "url": "https://www.producthunt.com/products/kanasensei",
       "excerpt": "Discussion | Link",
       "publishedAt": "2026-08-20T19:24:28.000Z",
-      "category": "tech",
-      "source": "Product Hunt"
-    },
-    {
-      "sourceId": "producthunt",
-      "title": "FetchSandbox MCP",
-      "url": "https://www.producthunt.com/products/fetchsandbox",
-      "excerpt": "Discussion | Link",
-      "publishedAt": "2026-08-14T21:18:26.000Z",
       "category": "tech",
       "source": "Product Hunt"
     },
@@ -6540,7 +6531,7 @@
       "publishedAt": "2026-08-21T20:47:48.000Z",
       "category": "tech",
       "source": "ARTnews",
-      "summary": "法国政府审计报告指控欧洲与地中海文明博物馆（Mucem）被停职馆长皮埃尔-奥利维耶·科斯塔对员工实施性骚扰和道德骚扰，并在招聘和签约中偏袒特定人选，引发更广泛的刑事调查。"
+      "summary": "ARTnews报道，政府审计指控马赛欧洲及地中海文明博物馆（Mucem）被停职馆长皮埃尔-奥利维耶·科斯塔对员工进行性骚扰和道德骚扰，并在招聘中偏袒，引发刑事调查。"
     },
     {
       "sourceId": "art-news",
@@ -6550,7 +6541,7 @@
       "publishedAt": "2026-08-21T20:39:53.000Z",
       "category": "tech",
       "source": "ARTnews",
-      "summary": "ARTnews 报道，一个鲜为人知的加拿大机构在定罪诺瓦尔·莫里索赝品制造者中发挥了关键作用，调查发现这些假画自1996年起便持续产出，该机构的作用终于获得应有的认可。"
+      "summary": "ARTnews报道，一个不起眼的加拿大机构协助定罪了诺瓦尔·莫里索的伪造者，调查发现仿冒品自1996年起便持续出现，该机构的作用终于得到认可。"
     },
     {
       "sourceId": "art-news",
@@ -6632,7 +6623,7 @@
       "publishedAt": "2026-08-21T23:17:46.000Z",
       "category": "tech",
       "source": "ARTFORUM",
-      "summary": "研究人员、作家兼策展人玛丽亚姆·埃尔诺扎希被任命为2027年第二届乌兰巴托双年展首席策展人，该活动将作为蒙古文化艺术界与全球艺术家和观众对接的重要平台。"
+      "summary": "研究员、作家及策展人玛丽亚姆·埃尔诺扎希被任命为2027年第二届乌兰巴托双年展首席策展人，该活动旨在连接蒙古艺术界与全球艺术家。"
     },
     {
       "sourceId": "artforum",
@@ -6642,7 +6633,7 @@
       "publishedAt": "2026-08-21T22:37:16.000Z",
       "category": "tech",
       "source": "ARTFORUM",
-      "summary": "MoMA PS1将于今年10月初迎来新餐厅Symone，由主厨德冯·弗朗西斯主理，灵感源自法非融合料理。该餐厅入驻皇后区长岛市的MoMA PS1餐饮空间，为博物馆增添新的味觉体验。"
+      "summary": "MoMA PS1将于今年10月初迎来新餐厅Symone，由厨师德冯·弗朗西斯主理，灵感源自法非融合美食，位于皇后区长岛市的博物馆空间内。"
     },
     {
       "sourceId": "artforum",
@@ -6652,7 +6643,7 @@
       "publishedAt": "2026-08-21T20:51:45.000Z",
       "category": "tech",
       "source": "ARTFORUM",
-      "summary": "ARTFORUM 专栏以明信片形式呈现“土豆博物馆”的问候，提及“你可以买土豆味口香糖”等趣闻，以轻松笔调将博物馆参观体验转化为别致书写。"
+      "summary": "ARTFORUM专栏“来自马铃薯博物馆的问候”以明信片形式呈现，其中提到“你可以买马铃薯味口香糖”。"
     },
     {
       "sourceId": "artforum",
@@ -6743,7 +6734,7 @@
       "publishedAt": "2026-08-22T18:28:28.000Z",
       "category": "tech",
       "source": "Colossal",
-      "summary": "艺术家埃斯特法尼亚·阿希普通过色彩鲜明的雕塑性绘画，审视家庭因分离而破碎的裂痕，以折叠的记忆串联跨国离散家庭的共同经验，作品兼具个人叙事与普世情感。"
+      "summary": "艺术家埃斯特法尼亚·阿吉西普通过生动的雕塑绘画，展现家庭分离带来的裂痕，作品融合记忆与情感，探讨移民家庭中的离散之痛。"
     },
     {
       "sourceId": "colossal",
@@ -7284,7 +7275,7 @@
       "publishedAt": "2026-08-22T10:00:01.000Z",
       "category": "tech",
       "source": "Hyperallergic",
-      "summary": "Hyperallergic 本期推荐威尼斯双年展上的国家馆亮点，包括雪莉·谢与达纳·伯曼·达夫的“呼吸之月”装置，以及迪恩·米利恩用铝箔打造的动物世界，涵盖克里斯·克劳斯与丽娜·班纳吉的相关作品。"
+      "summary": "Hyperallergic报道威尼斯双年展上最受欢迎的国家馆，包括Shirley Tse与Dana Berman Duff的“呼吸月球”装置，以及Dean Millien的铝箔动物世界。"
     },
     {
       "sourceId": "hyperallergic",
@@ -7294,7 +7285,7 @@
       "publishedAt": "2026-08-21T21:28:18.000Z",
       "category": "tech",
       "source": "Hyperallergic",
-      "summary": "Hyperallergic 专栏“艺术难题”回应艺术家年复一年申请古根海姆奖学金的挫败，帕迪·约翰逊提供实用建议与指导，帮助申请者突破困境，理解评审机制。"
+      "summary": "Hyperallergic专栏“艺术问题”讨论如何获得古根海姆奖学金，作者帕迪·约翰逊为屡遭拒绝的申请者提供建议，鼓励他们不要绝望。"
     },
     {
       "sourceId": "hyperallergic",
@@ -7421,7 +7412,7 @@
       "publishedAt": "2026-08-22T10:30:15.000Z",
       "category": "tech",
       "source": "LitHub",
-      "summary": "Lit Hub周报汇集多篇评论，从《吸血鬼猎人巴菲》与《天使》探讨悲伤、文学与成长，到杰森·阿代的悲剧反映当代黑人学者面临的制度困境，另有环境主义等议题的深度文章。"
+      "summary": "Lit Hub每周文摘（2026年8月17-21日）涵盖《吸血鬼猎人巴菲》与《天使》中的哀伤与成长，以及黑人学者杰森·阿代悲剧背后学术界的制度不公等主题。"
     },
     {
       "sourceId": "lithub",
@@ -7512,7 +7503,7 @@
       "publishedAt": "2026-08-23T20:43:31.000Z",
       "category": "tech",
       "source": "Designboom",
-      "summary": "Designboom 报道一件抛光不锈钢椅子设计，表面刻意追求不适感，将日常坐姿转化为具有社会评论意味的行为。作品以镜面质感与对倚靠的拒绝，赋予坐具更复杂的文化内涵，引发对舒适与功能边界的思考。"
+      "summary": "设计网站Designboom报道，一款抛光反光的不锈钢座椅刻意设计得令人不适，将简单的坐姿转化为具有社会评论意味的行为，探讨舒适与公共空间中的权力关系。"
     },
     {
       "sourceId": "designboom",
@@ -7522,7 +7513,7 @@
       "publishedAt": "2026-08-23T10:50:09.000Z",
       "category": "tech",
       "source": "Designboom",
-      "summary": "Designboom 指出汽车品牌正在将住宅视为新设计领域，在迈阿密出现让汽车上楼、车库融入住宅的超级跑车塔楼项目，将汽车的逻辑延伸至建筑之中，重塑居住与停车的空间关系。"
+      "summary": "设计网站Designboom指出，汽车品牌正将汽车逻辑延伸至建筑领域，在迈阿密等地打造超级跑车塔楼，使车库成为住宅的一部分，开辟了居住设计的新领域。"
     },
     {
       "sourceId": "designboom",
@@ -7532,7 +7523,7 @@
       "publishedAt": "2026-08-23T06:14:46.000Z",
       "category": "tech",
       "source": "Designboom",
-      "summary": "DKA建筑事务所在罗马的公寓翻新项目中，保留历史天花，通过蓝色门洞、定制家具及少量战略性开口，为室内引入色彩与通透感，在尊重原有砖拱结构的同时实现空间重塑。"
+      "summary": "设计网站Designboom报道，DKA建筑事务所在罗马的公寓改造中，保留历史天花，通过蓝色门洞、定制家具和巧妙开口，为室内空间注入活力。"
     },
     {
       "sourceId": "designboom",
@@ -7542,7 +7533,7 @@
       "publishedAt": "2026-08-22T20:35:47.000Z",
       "category": "tech",
       "source": "Designboom",
-      "summary": "导演比安卡·格利辛格在纪录片《27层》中审视维也纳阿尔特拉社会住宅项目，探讨这些公寓如何实现“为最大多数人谋最大幸福”的乌托邦承诺，重新反思集体居住的理想与现实。"
+      "summary": "导演比安卡·格利辛格在纪录片《27层》中，探讨维也纳阿尔特拉社会住宅项目，该乌托邦式集体居住计划曾旨在为最多人带来最大幸福。"
     },
     {
       "sourceId": "designboom",
@@ -7552,7 +7543,7 @@
       "publishedAt": "2026-08-22T10:50:00.000Z",
       "category": "tech",
       "source": "Designboom",
-      "summary": "OMA管理合伙人戴维·吉安诺滕接受Designboom采访，指出未来城市生活的塑造更多依赖本地语境、公共基础设施与社区能动性，而非普遍适用的规划模型，强调因地制宜的城市发展路径。"
+      "summary": "OMA管理合伙人戴维·贾诺滕接受Designboom采访，他认为未来城市发展不应依赖通用规划模式，而应重视当地文脉、公共基础设施和社区能动性。"
     },
     {
       "sourceId": "designboom",
@@ -7562,7 +7553,7 @@
       "publishedAt": "2026-08-22T07:13:11.000Z",
       "category": "tech",
       "source": "Designboom",
-      "summary": "Coco Brun与Sten Studio将升级再造的洞石、大理石和缟玛瑙转化为限量版容器，造型受金字塔与玛雅装饰启发，将古代形式语言融入当代可持续设计实践。"
+      "summary": "Coco Brun和Sten Studio将回收的洞石、大理石和缟玛瑙转化为限量版器皿，造型灵感源自金字塔与玛雅纹饰，融合古代文明与现代设计。"
     },
     {
       "sourceId": "designboom",
@@ -7572,7 +7563,7 @@
       "publishedAt": "2026-08-21T20:35:52.000Z",
       "category": "tech",
       "source": "Designboom",
-      "summary": "Minqa Atelier在厄瓜多尔乔科森林的陡坡上建造了一座炭化木材庇护所，阶梯式柚木平台沿坡地延伸，下方为填充河石的格宾挡土墙，将建筑与热带森林地形有机融合。"
+      "summary": "minqa atelier在厄瓜多尔乔科森林的陡坡上设计了一座炭化木材避难所，阶梯式柚木平台沿坡而下，下方为装满河石的格宾墙。"
     },
     {
       "sourceId": "designboom",
@@ -7699,7 +7690,7 @@
       "publishedAt": "2026-08-23T10:00:00.000Z",
       "category": "tech",
       "source": "The New Yorker Culture",
-      "summary": "《纽约客》专访演员兼喜剧人梅格·斯塔尔特，她谈及红毯造型噱头、在话剧《哦，玛丽！》中的亮眼表现，以及她相信上帝爱同性恋者的个人信念，展现其表演与公众形象背后的思考。"
+      "summary": "《纽约客》采访演员兼喜剧人梅格·斯塔尔特，她谈及在红毯上的造型噱头、在舞台剧《哦，玛丽！》中的主演表现，以及她相信上帝爱同性恋者的信念。"
     },
     {
       "sourceId": "newyorker-culture",
@@ -7709,7 +7700,7 @@
       "publishedAt": "2026-08-22T10:00:00.000Z",
       "category": "tech",
       "source": "The New Yorker Culture",
-      "summary": "《纽约客》周末散文《一次通行》讲述作者二十岁时以虚构故事穿越进入英格兰的经历，以个人记忆为线索，探讨身份、边界与迁徙中的叙事张力。"
+      "summary": "《纽约客》周末随笔：作者回忆二十岁时带着一个虚假的故事跨越边境进入英国的经历，反思身份与谎言的边界。"
     },
     {
       "sourceId": "newyorker-culture",
@@ -7719,7 +7710,7 @@
       "publishedAt": "2026-08-22T10:00:00.000Z",
       "category": "tech",
       "source": "The New Yorker Culture",
-      "summary": "《纽约客》评论聚焦特朗普的忠实助手娜塔莉·哈普，她据说随身携带打印机追随总统，其行为似乎并非出于对财富和权力的寻常欲望，文章探讨其动机与角色背后的深层意义。"
+      "summary": "《纽约客》批评家笔记：特朗普的忠实助手娜塔莉·哈普据说随身携带打印机跟随总统，她的行为似乎并非出于对财富和权力的常规渴望。"
     },
     {
       "sourceId": "newyorker-culture",
@@ -7828,7 +7819,7 @@
       "publishedAt": "2026-08-23T10:00:00.000Z",
       "category": "tech",
       "source": "The New Yorker Culture",
-      "summary": "《纽约客》餐厅评论聚焦Zig Zag生蚝吧，作者在品味海鲜塔的同时，展开对人生奥秘的沉思，将美食体验与哲学省思交织，呈现一场风味与思想并重的用餐旅程。"
+      "summary": "《纽约客》餐厅评论：在Zig Zag牡蛎酒吧，评论家一边享用海鲜塔，一边思考人生奥秘，对这家餐厅的菜品与氛围进行了品评。"
     },
     {
       "sourceId": "newyorker-culture",
@@ -7865,7 +7856,7 @@
       "publishedAt": "2026-08-22T10:00:00.000Z",
       "category": "tech",
       "source": "The New Yorker Culture",
-      "summary": "《纽约客》介绍曾为Hole与碎南瓜乐队担任贝斯手的梅丽莎·奥夫·德·毛尔的摄影作品，她以镜头记录九十年代摇滚场景，捕捉一代人的亚文化如何成为下一代主流的关键时刻。"
+      "summary": "《纽约客》摄影专栏：梅丽莎·奥夫·德·毛尔曾为Hole和碎瓜乐队弹贝斯，她用镜头记录了一代人的亚文化成为下一代主流的那个瞬间。"
     },
     {
       "sourceId": "newyorker-culture",
@@ -7947,7 +7938,7 @@
       "publishedAt": "2026-08-23T10:00:00.000Z",
       "category": "tech",
       "source": "The New Yorker Culture",
-      "summary": "《纽约客》乐评指出，德雷克在新专辑《Iceman》中以单曲《Janice STFU》延续其夏日热单制造者身份，继续抒发个人不满，展现出这位艺人将私人情绪转化为季节性流行曲目的能力。"
+      "summary": "《纽约客》乐评：德雷克新专辑《Iceman》延续其夏日热单风格，歌曲《Janice STFU》中，这位“夏日神曲”大师继续宣泄不满情绪。"
     },
     {
       "sourceId": "newyorker-culture",
@@ -7969,68 +7960,68 @@
     },
     {
       "sourceId": "artic-museum",
-      "title": "Guided Tour",
-      "url": "https://www.artic.edu/artworks/252015",
-      "image": "https://www.artic.edu/iiif/2/d1f18c4f-9444-aa9d-a722-5d9c392dae8e/full/843,/0/default.jpg",
-      "meta": "Judy Fiskin · 2010 · Contemporary Art",
-      "excerpt": "Single-channel video, black and white, sound; 11 min. 45 sec.",
+      "title": "Peacock Weather Vane",
+      "url": "https://www.artic.edu/artworks/77688",
+      "image": "https://www.artic.edu/iiif/2/7210206a-5726-7101-c039-1580269d5478/full/843,/0/default.jpg",
+      "meta": "Artist unknown · 1800–60 · Arts of the Americas",
+      "excerpt": "Iron",
       "category": "tech",
-      "publishedAt": "2026-08-23T23:30:11.978Z",
+      "publishedAt": "2026-08-23T23:49:47.353Z",
       "source": "Art Institute of Chicago"
     },
     {
       "sourceId": "artic-museum",
-      "title": "What We Think About When We Think About Ships",
-      "url": "https://www.artic.edu/artworks/252012",
-      "image": "https://www.artic.edu/iiif/2/a246c1b5-77cb-f1f3-7cd0-0a4ee4665788/full/843,/0/default.jpg",
-      "meta": "Judy Fiskin · 2001 · Contemporary Art",
-      "excerpt": "Single-channel video, color, sound; 3 min. 22 sec.",
-      "category": "tech",
-      "publishedAt": "2026-08-23T23:30:11.978Z",
-      "source": "Art Institute of Chicago"
-    },
-    {
-      "sourceId": "artic-museum",
-      "title": "My Getty Center",
-      "url": "https://www.artic.edu/artworks/252011",
-      "image": "https://www.artic.edu/iiif/2/555c441c-8dca-83cc-6a3f-cc449a651e48/full/843,/0/default.jpg",
-      "meta": "Judy Fiskin · 1999 · Contemporary Art",
-      "excerpt": "Single-channel video, color, sound; 16 min. 19 sec.",
-      "category": "tech",
-      "publishedAt": "2026-08-23T23:30:11.978Z",
-      "source": "Art Institute of Chicago"
-    },
-    {
-      "sourceId": "artic-museum",
-      "title": "Cloud Painting #5 \"Portrait of a Cloud\"",
-      "url": "https://www.artic.edu/artworks/282622",
-      "image": "https://www.artic.edu/iiif/2/1655d75f-d983-6c66-5597-d1f5ca622092/full/843,/0/default.jpg",
-      "meta": "Jacqueline Gourevitch · 1965 · Contemporary Art",
+      "title": "Sunlight",
+      "url": "https://www.artic.edu/artworks/71562",
+      "image": "https://www.artic.edu/iiif/2/815fb024-96bb-6f38-e6fc-d398d2103c65/full/843,/0/default.jpg",
+      "meta": "Richard E. Miller · c. 1913 · Arts of the Americas",
       "excerpt": "Oil on canvas",
       "category": "tech",
-      "publishedAt": "2026-08-23T23:30:11.978Z",
+      "publishedAt": "2026-08-23T23:49:47.353Z",
       "source": "Art Institute of Chicago"
     },
     {
       "sourceId": "artic-museum",
-      "title": "Trinity",
-      "url": "https://www.artic.edu/artworks/259192",
-      "image": "https://www.artic.edu/iiif/2/18a86c98-5990-0f35-b513-fc65b18bff87/full/843,/0/default.jpg",
-      "meta": "Isamu Noguchi · 1945, cast 1974 · Modern Art",
-      "excerpt": "Bronze",
+      "title": "Sportsmen's Blues (Furnishing Fabric)",
+      "url": "https://www.artic.edu/artworks/97081",
+      "image": "https://www.artic.edu/iiif/2/1ee2a631-fc8c-be53-950c-7744493ce191/full/843,/0/default.jpg",
+      "meta": "Angelo Testa · Designed 1942; produced c. 1947 · Textiles",
+      "excerpt": "Cotton, plain weave; screen printed",
       "category": "tech",
-      "publishedAt": "2026-08-23T23:30:11.978Z",
+      "publishedAt": "2026-08-23T23:49:47.353Z",
       "source": "Art Institute of Chicago"
     },
     {
       "sourceId": "artic-museum",
-      "title": "Three Funerals and Some Acts of Preservation",
-      "url": "https://www.artic.edu/artworks/252017",
-      "image": "https://www.artic.edu/iiif/2/715ea334-ba62-8ef7-a41b-89d9cba1828f/full/843,/0/default.jpg",
-      "meta": "Judy Fiskin · 2016 · Contemporary Art",
-      "excerpt": "Single-channel video, color, with sound; 15 min. 11 sec.",
+      "title": "Funerary Papyrus of Tayuhenutmut",
+      "url": "https://www.artic.edu/artworks/805",
+      "image": "https://www.artic.edu/iiif/2/6cb56687-a433-ae6b-ab07-af71dd755ec9/full/843,/0/default.jpg",
+      "meta": "Ancient Egyptian · Third Intermediate Period, probably Dynasty 21 (about 1069-945 BCE) · Arts of Africa",
+      "excerpt": "Papyrus and pigment",
       "category": "tech",
-      "publishedAt": "2026-08-23T23:30:11.978Z",
+      "publishedAt": "2026-08-23T23:49:47.353Z",
+      "source": "Art Institute of Chicago"
+    },
+    {
+      "sourceId": "artic-museum",
+      "title": "Elements I",
+      "url": "https://www.artic.edu/artworks/58476",
+      "image": "https://www.artic.edu/iiif/2/1e463835-b2ad-dfe7-65d6-272bfa69df0c/full/843,/0/default.jpg",
+      "meta": "Nancy Hemenway Barton · 1978 · Textiles",
+      "excerpt": "Lamb's wool, plain weave; appliquéd with mohair; plain weave with warp fringe; folded, molded, and tucked; embroidered with lamb's wool, alpaca, mohair, and karabul in buttonhole, chain, feather, running, satin, and stem stitches; laid work and couching",
+      "category": "tech",
+      "publishedAt": "2026-08-23T23:49:47.353Z",
+      "source": "Art Institute of Chicago"
+    },
+    {
+      "sourceId": "artic-museum",
+      "title": "Arbor Day",
+      "url": "https://www.artic.edu/artworks/80487",
+      "image": "https://www.artic.edu/iiif/2/9157e82e-0ef5-329d-85a8-696dfe3b045e/full/843,/0/default.jpg",
+      "meta": "Eugene Francis Savage · 1920 · Arts of the Americas",
+      "excerpt": "Oil on panel",
+      "category": "tech",
+      "publishedAt": "2026-08-23T23:49:47.353Z",
       "source": "Art Institute of Chicago"
     },
     {
@@ -8041,7 +8032,7 @@
       "meta": "Bhawani Das · ca. 1777–82 · Islamic Art",
       "excerpt": "Pencil, ink, and opaque watercolor on paper",
       "category": "tech",
-      "publishedAt": "2026-08-23T23:30:13.161Z",
+      "publishedAt": "2026-08-23T23:49:48.483Z",
       "source": "Metropolitan Museum of Art"
     },
     {
@@ -8052,7 +8043,7 @@
       "meta": "Bi Chang · 18th–19th century · Asian Art",
       "excerpt": "Album with ten leaves (eight paintings and two title leaves); ink and color on paper",
       "category": "tech",
-      "publishedAt": "2026-08-23T23:30:13.161Z",
+      "publishedAt": "2026-08-23T23:49:48.483Z",
       "source": "Metropolitan Museum of Art"
     }
   ]

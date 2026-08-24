@@ -25,8 +25,7 @@ import {
   renderMarkdown,
 } from "../lib/output/render";
 import { analyzeWatchlist } from "../lib/trading/runner";
-import { fetchCryptoFearGreed } from "../lib/trading/fear-greed";
-import { fetchCryptoGlobal } from "../lib/trading/coingecko";
+import { fetchAshareSentiment } from "../lib/trading/ashare-sentiment";
 import { generateTradingCommentary } from "../lib/ai/trading-commentary";
 import type { TradingSection } from "../lib/ai/pipeline";
 import { todayKey } from "../lib/utils";
@@ -205,32 +204,32 @@ async function enrichMergedSubgroup(
 }
 
 /**
- * Pull daily OHLCV from Yahoo for every ticker in the watchlist, compute
+ * Pull daily OHLCV from Tencent for every ticker in the watchlist, compute
  * indicators + signals, then ask Sonnet for a market overview + a
  * picks-to-watch list. Returns null if no ticker came back.
  */
 async function runTrading(): Promise<TradingSection | null> {
-  console.log(`[daily] analyzing watchlist + crypto context (Yahoo / alt.me / CoinGecko)…`);
+  console.log(`[daily] analyzing watchlist + A股 情绪快照（指数/成交）…`);
   const t0 = Date.now();
-  const [tickers, cryptoFearGreed, cryptoGlobal] = await Promise.all([
+  const [tickers, sentiment] = await Promise.all([
     analyzeWatchlist(),
-    fetchCryptoFearGreed(),
-    fetchCryptoGlobal(),
+    fetchAshareSentiment(),
   ]);
+  const totalTurn = sentiment
+    ? sentiment.indices.reduce((s, i) => s + (i.turnoverYuan ?? 0), 0)
+    : 0;
   console.log(
     `[daily] indicators ready in ${((Date.now() - t0) / 1000).toFixed(1)}s — ${tickers.length} tickers` +
-      (cryptoFearGreed ? `, F&G ${cryptoFearGreed.value}` : ", F&G ✗") +
-      (cryptoGlobal
-        ? `, BTC dom ${cryptoGlobal.btcDominance.toFixed(1)}%`
-        : ", CG ✗"),
+      (sentiment
+        ? `, 三大指成交约 ${(totalTurn / 1e11).toFixed(1)} 千亿`
+        : ", sentiment ✗"),
   );
   if (tickers.length === 0) return null;
   console.log(`[daily] generating trading commentary with ${getModelTag()}…`);
   const t1 = Date.now();
   const commentary = await generateTradingCommentary({
     tickers,
-    cryptoFearGreed: cryptoFearGreed ?? undefined,
-    cryptoGlobal: cryptoGlobal ?? undefined,
+    ashareSentiment: sentiment ?? undefined,
   });
   console.log(
     `[daily] trading commentary ready in ${((Date.now() - t1) / 1000).toFixed(1)}s`,
@@ -238,8 +237,7 @@ async function runTrading(): Promise<TradingSection | null> {
   return {
     ...commentary,
     tickers,
-    crypto_fear_greed: cryptoFearGreed ?? undefined,
-    crypto_global: cryptoGlobal ?? undefined,
+    ashare_sentiment: sentiment ?? undefined,
     generated_at: new Date().toISOString(),
   };
 }

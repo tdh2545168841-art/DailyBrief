@@ -29,15 +29,13 @@ export interface DailyReport {
 }
 
 import type { TickerAnalysis } from "../trading/signals";
-import type { CryptoGlobalStats } from "../trading/coingecko";
-import type { FearGreedSnapshot } from "../trading/fear-greed";
+import type { AshareSentimentSnapshot } from "../trading/ashare-sentiment";
 import type { TradingCommentary } from "./trading-commentary";
 
 export interface TradingSection extends TradingCommentary {
   generated_at: string;
   tickers: TickerAnalysis[];
-  crypto_fear_greed?: FearGreedSnapshot;
-  crypto_global?: CryptoGlobalStats;
+  ashare_sentiment?: AshareSentimentSnapshot;
 }
 
 export interface ArticleInput extends RawArticle {

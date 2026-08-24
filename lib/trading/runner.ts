@@ -1,6 +1,6 @@
 import { analyzeTicker, type TickerAnalysis } from "./signals";
 import { WATCHLIST } from "./watchlist";
-import { fetchTickerData } from "./yahoo";
+import { fetchTickerData } from "./tencent";
 
 /**
  * Fetch + analyze the entire watchlist in parallel. Failures are

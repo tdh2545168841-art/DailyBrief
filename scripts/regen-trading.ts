@@ -6,8 +6,7 @@ import path from "node:path";
 import type { DailyReport, TradingSection } from "../lib/ai/pipeline";
 import { generateTradingCommentary } from "../lib/ai/trading-commentary";
 import { validateBackendCredentials } from "../lib/ai/llm";
-import { fetchCryptoFearGreed } from "../lib/trading/fear-greed";
-import { fetchCryptoGlobal } from "../lib/trading/coingecko";
+import { fetchAshareSentiment } from "../lib/trading/ashare-sentiment";
 import { analyzeWatchlist } from "../lib/trading/runner";
 import { todayKey } from "../lib/utils";
 
@@ -38,25 +37,27 @@ async function main() {
   }
   const report = JSON.parse(fs.readFileSync(jsonPath, "utf8")) as DailyReport;
 
-  console.log(`[regen-trading] fetching tickers + crypto context…`);
+  console.log(`[regen-trading] fetching tickers + A股 情绪快照…`);
   const t0 = Date.now();
-  const [tickers, fg, cg] = await Promise.all([
+  const [tickers, sentiment] = await Promise.all([
     analyzeWatchlist(),
-    fetchCryptoFearGreed(),
-    fetchCryptoGlobal(),
+    fetchAshareSentiment(),
   ]);
+  const totalTurn = sentiment
+    ? sentiment.indices.reduce((s, i) => s + (i.turnoverYuan ?? 0), 0)
+    : 0;
   console.log(
     `[regen-trading] data ready in ${((Date.now() - t0) / 1000).toFixed(1)}s — ${tickers.length} tickers` +
-      (fg ? `, F&G ${fg.value}` : ", F&G ✗") +
-      (cg ? `, BTC dom ${cg.btcDominance.toFixed(1)}%` : ", CG ✗"),
+      (sentiment
+        ? `, 三大指成交约 ${(totalTurn / 1e11).toFixed(1)} 千亿`
+        : ", sentiment ✗"),
   );
 
-  console.log(`[regen-trading] calling Sonnet commentary…`);
+  console.log(`[regen-trading] calling commentary…`);
   const t1 = Date.now();
   const commentary = await generateTradingCommentary({
     tickers,
-    cryptoFearGreed: fg ?? undefined,
-    cryptoGlobal: cg ?? undefined,
+    ashareSentiment: sentiment ?? undefined,
   });
   console.log(
     `[regen-trading] commentary ready in ${((Date.now() - t1) / 1000).toFixed(1)}s` +
@@ -66,8 +67,7 @@ async function main() {
   const trading: TradingSection = {
     ...commentary,
     tickers,
-    crypto_fear_greed: fg ?? undefined,
-    crypto_global: cg ?? undefined,
+    ashare_sentiment: sentiment ?? undefined,
     generated_at: new Date().toISOString(),
   };
   report.trading = trading;

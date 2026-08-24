@@ -53,6 +53,7 @@ const TEXTS_ZH = {
   tradingMarketOverview: "市场总览",
   tradingTodayFocus: "今日关注",
   tradingAllAssets: "全部资产",
+  tradingAsof: "注：本文为盘前快照，行情数据截至上一交易日收盘",
   tradingRiskCaveat: "风险提示",
   widgetCryptoFearGreed: "加密恐慌贪婪",
   widgetCryptoCap: "加密总市值",
@@ -106,6 +107,7 @@ const TEXTS_EN: typeof TEXTS_ZH = {
   tradingMarketOverview: "Market Overview",
   tradingTodayFocus: "Today's Focus",
   tradingAllAssets: "All Assets",
+  tradingAsof: "Pre-market snapshot — quotes as of previous close",
   tradingRiskCaveat: "Risk Disclaimer",
   widgetCryptoFearGreed: "Crypto Fear/Greed",
   widgetCryptoCap: "Crypto Market Cap",
@@ -1020,11 +1022,11 @@ export function renderHtml(
     color: var(--muted);
     margin-top: 0.25rem;
   }
-  .widget-sub.positive { color: #16a34a; }
-  .widget-sub.negative { color: #dc2626; }
+  .widget-sub.positive { color: #dc2626; }
+  .widget-sub.negative { color: #16a34a; }
   @media (prefers-color-scheme: dark) {
-    .widget-sub.positive { color: #4ade80; }
-    .widget-sub.negative { color: #fca5a5; }
+    .widget-sub.positive { color: #f87171; }
+    .widget-sub.negative { color: #4ade80; }
   }
   .crypto-widget.fg-fear-extreme { border-left: 4px solid #b91c1c; }
   .crypto-widget.fg-fear-extreme .widget-value { color: #b91c1c; }
@@ -1051,6 +1053,7 @@ export function renderHtml(
   }
   .trading-overview-card .eyebrow { display: block; margin-bottom: 0.4rem; }
   .trading-overview-text { font-size: 0.92rem; line-height: 1.75; color: var(--fg-soft); margin: 0; }
+  .trading-asof { font-size: 0.75rem; color: var(--muted); margin: 0 0 0.6rem; }
 
   .trading-section-title {
     font-size: 0.95rem;
@@ -1078,8 +1081,8 @@ export function renderHtml(
     border-radius: 0.5rem;
     padding: 0.8rem 1rem;
   }
-  .trading-pick.stance-bull { border-left-color: #16a34a; }
-  .trading-pick.stance-bear { border-left-color: #dc2626; }
+  .trading-pick.stance-bull { border-left-color: #dc2626; }
+  .trading-pick.stance-bear { border-left-color: #16a34a; }
   .trading-pick.stance-neutral { border-left-color: var(--muted); }
   .pick-head {
     display: flex;
@@ -1103,8 +1106,8 @@ export function renderHtml(
     border-radius: 999px;
     white-space: nowrap;
   }
-  .pick-stance-bull { background: rgba(22,163,74,0.12); color: #16a34a; }
-  .pick-stance-bear { background: rgba(220,38,38,0.12); color: #dc2626; }
+  .pick-stance-bull { background: rgba(220,38,38,0.12); color: #dc2626; }
+  .pick-stance-bear { background: rgba(22,163,74,0.12); color: #16a34a; }
   .pick-stance-neutral { background: var(--card); color: var(--muted); }
   .pick-rationale { margin: 0; font-size: 0.88rem; line-height: 1.65; color: var(--fg-soft); }
 
@@ -1162,8 +1165,8 @@ export function renderHtml(
   .ticker-price-block { text-align: right; flex-shrink: 0; }
   .ticker-price { display: block; font-size: 1.05rem; font-weight: 600; font-variant-numeric: tabular-nums; }
   .ticker-pct { display: inline-block; font-size: 0.82rem; font-weight: 500; margin-top: 0.15rem; font-variant-numeric: tabular-nums; }
-  .ticker-pct.positive, .positive { color: #16a34a; }
-  .ticker-pct.negative, .negative { color: #dc2626; }
+  .ticker-pct.positive, .positive { color: #dc2626; }
+  .ticker-pct.negative, .negative { color: #16a34a; }
 
   .ticker-indicators {
     display: grid;
@@ -1179,8 +1182,8 @@ export function renderHtml(
   .ticker-indicators > div { display: flex; gap: 0.4rem; align-items: baseline; min-width: 0; }
   .ticker-indicators dt { color: var(--muted); font-size: 0.74rem; margin: 0; white-space: nowrap; }
   .ticker-indicators dd { margin: 0; font-variant-numeric: tabular-nums; font-weight: 500; color: var(--fg); }
-  .trend-bullish { color: #16a34a; }
-  .trend-bearish { color: #dc2626; }
+  .trend-bullish { color: #dc2626; }
+  .trend-bearish { color: #16a34a; }
   .trend-neutral { color: var(--muted); }
   .rsi-overbought { color: #d97706; }
   .rsi-oversold { color: #2563eb; }
@@ -1199,21 +1202,21 @@ export function renderHtml(
     border-radius: 999px;
     font-weight: 500;
   }
-  .signal-pill.tone-bull { background: rgba(22,163,74,0.13); color: #166534; }
-  .signal-pill.tone-bear { background: rgba(220,38,38,0.13); color: #991b1b; }
+  .signal-pill.tone-bull { background: rgba(220,38,38,0.13); color: #991b1b; }
+  .signal-pill.tone-bear { background: rgba(22,163,74,0.13); color: #166534; }
   .signal-pill.tone-caution { background: rgba(217,119,6,0.15); color: #92400e; }
   @media (prefers-color-scheme: dark) {
-    .signal-pill.tone-bull { color: #4ade80; }
-    .signal-pill.tone-bear { color: #fca5a5; }
+    .signal-pill.tone-bull { color: #f87171; }
+    .signal-pill.tone-bear { color: #4ade80; }
     .signal-pill.tone-caution { color: #fcd34d; }
-    .trend-bullish, .positive, .ticker-pct.positive { color: #4ade80; }
-    .trend-bearish, .negative, .ticker-pct.negative { color: #fca5a5; }
+    .trend-bullish, .positive, .ticker-pct.positive { color: #f87171; }
+    .trend-bearish, .negative, .ticker-pct.negative { color: #4ade80; }
     .rsi-overbought { color: #fcd34d; }
     .rsi-oversold { color: #93c5fd; }
-    .trading-pick.stance-bull { border-left-color: #4ade80; }
-    .trading-pick.stance-bear { border-left-color: #fca5a5; }
-    .pick-stance-bull { background: rgba(74,222,128,0.15); color: #4ade80; }
-    .pick-stance-bear { background: rgba(252,165,165,0.15); color: #fca5a5; }
+    .trading-pick.stance-bull { border-left-color: #f87171; }
+    .trading-pick.stance-bear { border-left-color: #4ade80; }
+    .pick-stance-bull { background: rgba(248,113,113,0.15); color: #f87171; }
+    .pick-stance-bear { background: rgba(74,222,128,0.15); color: #4ade80; }
   }
   .signal-age { opacity: 0.7; font-weight: 400; }
 
@@ -1431,64 +1434,11 @@ function renderTickerCard(t: TickerAnalysis): string {
   </article>`;
 }
 
-function fearGreedTone(value: number): "fear-extreme" | "fear" | "neutral" | "greed" | "greed-extreme" {
-  if (value <= 24) return "fear-extreme";
-  if (value <= 44) return "fear";
-  if (value <= 55) return "neutral";
-  if (value <= 74) return "greed";
-  return "greed-extreme";
-}
-
-function fmtBigUsd(n: number): string {
-  if (n >= 1e12) return `$${(n / 1e12).toFixed(2)} T`;
-  if (n >= 1e9) return `$${(n / 1e9).toFixed(1)} B`;
-  if (n >= 1e6) return `$${(n / 1e6).toFixed(1)} M`;
-  return `$${n.toFixed(0)}`;
-}
-
-function renderCryptoWidgets(t: TradingSection): string {
-  const fg = t.crypto_fear_greed;
-  const cg = t.crypto_global;
-  if (!fg && !cg) return "";
-  const items: string[] = [];
-  if (fg) {
-    const tone = fearGreedTone(fg.value);
-    items.push(`<div class="crypto-widget fg-${tone}">
-      <div class="widget-label">${STR.widgetCryptoFearGreed}</div>
-      <div class="widget-value">${fg.value}</div>
-      <div class="widget-sub">${escapeHtml(fg.classificationCn)}</div>
-    </div>`);
-  }
-  if (cg) {
-    const tone = cg.marketCapChangePct24h >= 0 ? "positive" : "negative";
-    items.push(`<div class="crypto-widget">
-      <div class="widget-label">${STR.widgetCryptoCap}</div>
-      <div class="widget-value">${fmtBigUsd(cg.totalMarketCapUsd)}</div>
-      <div class="widget-sub ${tone}">${fmtPct(cg.marketCapChangePct24h)} / 24h</div>
-    </div>`);
-    items.push(`<div class="crypto-widget">
-      <div class="widget-label">${STR.widgetBtcDom}</div>
-      <div class="widget-value">${cg.btcDominance.toFixed(1)}%</div>
-      <div class="widget-sub">ETH ${cg.ethDominance.toFixed(1)}%</div>
-    </div>`);
-    items.push(`<div class="crypto-widget">
-      <div class="widget-label">${STR.widgetVolume24h}</div>
-      <div class="widget-value">${fmtBigUsd(cg.total24hVolumeUsd)}</div>
-      <div class="widget-sub">${STR.widgetActiveCoins} ${cg.activeCryptocurrencies.toLocaleString()}</div>
-    </div>`);
-  }
-  return `<div class="crypto-widgets">${items.join("")}</div>`;
-}
-
 function renderTradingPanel(trading: TradingSection): string {
   const tickers = trading.tickers;
-  const groupCounts: Record<AssetGroup, number> = {
-    "us-equity": 0,
-    crypto: 0,
-    "china-equity": 0,
-    "commodity-fx": 0,
-    macro: 0,
-  };
+  const groupCounts: Record<AssetGroup, number> = Object.fromEntries(
+    ASSET_GROUP_ORDER.map((g) => [g, 0]),
+  ) as Record<AssetGroup, number>;
   for (const t of tickers) groupCounts[t.group as AssetGroup] = (groupCounts[t.group as AssetGroup] ?? 0) + 1;
 
   const groupTabs = ASSET_GROUP_ORDER.map(
@@ -1498,11 +1448,7 @@ function renderTradingPanel(trading: TradingSection): string {
 
   const groupPanels = ASSET_GROUP_ORDER.map((g, i) => {
     const groupTickers = tickers.filter((t) => t.group === g);
-    // Crypto sub-tab carries an extra header widget panel (F&G + global stats)
-    const cryptoWidgets =
-      g === "crypto" ? renderCryptoWidgets(trading) : "";
     return `<div class="trading-group-content${i === 0 ? " active" : ""}" data-group="${g}">
-      ${cryptoWidgets}
       ${groupTickers.length === 0 ? `<p class="empty">${STR.emptyGroup}</p>` : groupTickers.map(renderTickerCard).join("")}
     </div>`;
   }).join("");
@@ -1510,7 +1456,9 @@ function renderTradingPanel(trading: TradingSection): string {
   const overview = escapeHtml(trading.market_overview ?? "");
   const risk = escapeHtml(trading.risk_caveat ?? "");
 
-  return `<section class="trading-overview-card">
+  return `
+  <div class="trading-asof">${escapeHtml(STR.tradingAsof)}</div>
+  <section class="trading-overview-card">
     <span class="eyebrow">${STR.tradingMarketOverview}</span>
     <p class="overview-text trading-overview-text">${overview}</p>
   </section>

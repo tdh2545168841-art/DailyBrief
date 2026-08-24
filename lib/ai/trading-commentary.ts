@@ -2,8 +2,7 @@ import { jsonrepair } from "jsonrepair";
 import { runLlm } from "./llm";
 import { extractJson } from "./json-util";
 import { REPORT_LOCALE } from "../sources/registry";
-import type { CryptoGlobalStats } from "../trading/coingecko";
-import type { FearGreedSnapshot } from "../trading/fear-greed";
+import type { AshareSentimentSnapshot } from "../trading/ashare-sentiment";
 import type { TickerAnalysis } from "../trading/signals";
 
 export interface WatchlistPick {
@@ -36,8 +35,7 @@ export interface TradingCommentary {
 
 export interface TradingCommentaryInput {
   tickers: TickerAnalysis[];
-  cryptoFearGreed?: FearGreedSnapshot;
-  cryptoGlobal?: CryptoGlobalStats;
+  ashareSentiment?: AshareSentimentSnapshot;
 }
 
 const SYSTEM_PROMPT_ZH = `你是一名专业、克制、中性的中文技术指标解读员。你的任务是基于公开行情数据计算出的技术指标，写一份**客观的技术状态描述报告**——你不是投顾，不预测涨跌，只复述指标读数和走势形态。任何使用本报告的读者都已经知道并接受这一定位。
@@ -46,7 +44,7 @@ const SYSTEM_PROMPT_ZH = `你是一名专业、克制、中性的中文技术指
 1. 使用专业术语描述指标读数：金叉/死叉/MACD 红柱/绿柱/超买/超卖/突破/支撑/动量/趋势/背离 等。
 2. 所有结论必须**基于输入的实际数字**（价格、SMA、RSI、MACD、信号、近期 % 变化等），不允许凭空概括。
 3. watchlist 必须**上行倾向 + 下行倾向 + 中性 三种 stance 都覆盖到**，反映输入数据的真实技术面分布，不能全偏一侧。
-4. market_overview 要覆盖 4 类资产（美股 / 加密 / 中概 / 商品外汇）的技术面整体感觉。
+4. market_overview 要覆盖 A 股三大组（指数 / ETF / 个券）的技术面整体感觉。
 5. risk_caveat 必须包含「过去走势不代表未来表现」与「仅供技术指标解读参考」的明确声明。
 
 输入：JSON 数组，每个元素是某 ticker 的技术分析对象，字段包括 symbol、displayName、group、currentPrice、pct1Day、pct5Day、pct52WeekHigh、pct52WeekLow、sma20/sma50/sma200、rsi14、macd/macdSignal/macdHistogram、trend、rsiState、signals。
@@ -78,7 +76,7 @@ const SYSTEM_PROMPT_EN = `You are a professional, restrained, neutral English-la
 1. Use technical terminology to describe readings: golden-cross / death-cross / MACD bullish/bearish histogram / overbought / oversold / breakout / support / momentum / trend / divergence, etc.
 2. Every conclusion MUST be **grounded in actual input numbers** (price, SMA, RSI, MACD, signals, recent % moves) — no generalizing without data.
 3. The watchlist MUST **cover all three stances — Bullish / Bearish / Neutral** — reflecting the real technical distribution; do not bias entirely to one side.
-4. market_overview must cover all 4 asset categories (US equity / crypto / China-HK equity / commodities-FX).
+4. market_overview must cover the overall technical picture across all three A-share groups (indices / ETFs / individual stocks).
 5. risk_caveat MUST explicitly include "past performance does not guarantee future results" and "for technical-indicator interpretation only".
 
 Input: a JSON array of ticker analysis objects with fields symbol, displayName, group, currentPrice, pct1Day, pct5Day, pct52WeekHigh, pct52WeekLow, sma20/sma50/sma200, rsi14, macd/macdSignal/macdHistogram, trend, rsiState, signals.
@@ -110,7 +108,7 @@ const SYSTEM_PROMPT =
 export async function generateTradingCommentary(
   input: TradingCommentaryInput,
 ): Promise<TradingCommentary> {
-  const { tickers, cryptoFearGreed, cryptoGlobal } = input;
+  const { tickers, ashareSentiment } = input;
   // Slim payload — drop fields that don't help the model (no need to send
   // exchangeName/currency etc. — those are display-only)
   const payload = tickers.map((a) => ({
@@ -133,27 +131,23 @@ export async function generateTradingCommentary(
     signals: a.signals.map((s) => s.label),
   }));
 
-  // Compact context sidecars — the model should weave these into the
-  // market_overview when relevant (e.g. "VIX 14 + DXY weakening + crypto
-  // F&G 43 → risk-on lite").
+  // 辅助背景 — 让模型把 A 股大盘情绪织进 market_overview
+  // （沪/深/创业板当日涨跌 + 成交额）。
   const contextLines: string[] = [];
-  if (cryptoFearGreed) {
-    const classification =
-      REPORT_LOCALE === "en"
-        ? cryptoFearGreed.classification
-        : cryptoFearGreed.classificationCn;
-    const label =
-      REPORT_LOCALE === "en"
-        ? `Crypto Fear & Greed Index = ${cryptoFearGreed.value} (${classification})`
-        : `加密恐慌贪婪指数 = ${cryptoFearGreed.value}（${classification}）`;
-    contextLines.push(label);
-  }
-  if (cryptoGlobal) {
-    const label =
-      REPORT_LOCALE === "en"
-        ? `Crypto total market cap = ${(cryptoGlobal.totalMarketCapUsd / 1e12).toFixed(2)}T USD (24h ${round(cryptoGlobal.marketCapChangePct24h, 2)}%) · BTC dominance ${round(cryptoGlobal.btcDominance, 1)}% · ETH ${round(cryptoGlobal.ethDominance, 1)}%`
-        : `加密总市值 = ${(cryptoGlobal.totalMarketCapUsd / 1e12).toFixed(2)}T USD (24h ${round(cryptoGlobal.marketCapChangePct24h, 2)}%) · BTC 主导率 ${round(cryptoGlobal.btcDominance, 1)}% · ETH ${round(cryptoGlobal.ethDominance, 1)}%`;
-    contextLines.push(label);
+  if (ashareSentiment && ashareSentiment.indices.length > 0) {
+    const sign = (n: number) => (n >= 0 ? "+" : "");
+    const fmtTurn = (i: AshareSentimentSnapshot["indices"][number]) =>
+      i.turnoverYuan != null
+        ? REPORT_LOCALE === "en"
+          ? ` · turnover ${(i.turnoverYuan / 1e8).toFixed(0)}B CNY`
+          : ` · 成交 ${(i.turnoverYuan / 1e8).toFixed(0)} 亿`
+        : "";
+    for (const i of ashareSentiment.indices) {
+      const body = `${i.price} (${sign(i.pctChange)}${i.pctChange.toFixed(2)}%)${fmtTurn(i)}`;
+      contextLines.push(
+        REPORT_LOCALE === "en" ? `A-share index ${i.name}: ${body}` : `A股指数 ${i.name}: ${body}`,
+      );
+    }
   }
 
   // user prompt header = highest instruction-recency precedence. The
@@ -166,7 +160,7 @@ export async function generateTradingCommentary(
       ? [
           `**Output language: ENGLISH ONLY.** Every string value in the JSON — market_overview, every pick's display_name and rationale, risk_caveat — MUST be written entirely in English. Do not use any Chinese characters anywhere in the output. Even if some input ticker names appear in Chinese (e.g. "黄金期货"), translate them to English in the display_name field (e.g. "Gold Futures").`,
           "",
-          `**Hard output constraint**: the response MUST be a single valid JSON object (starts with \`{\`, ends with \`}\`, no markdown, no prefix/suffix). **The watchlist field MUST contain exactly 3-5 complete WatchlistPick objects**, each shaped like \`{ "symbol": "...", "display_name": "<English name>", "stance": "Bullish"|"Bearish"|"Neutral", "rationale": "80-150 word English summary citing concrete indicator numbers" }\`. **DO NOT write the watchlist as a string array of ticker symbols** (e.g. \`["^TNX","BTC-USD"]\` is wrong) — this is a technical-indicator interpretation task; every entry must carry a rationale field. Empty arrays and string arrays are both format errors.`,
+          `**Hard output constraint**: the response MUST be a single valid JSON object (starts with \`{\`, ends with \`}\`, no markdown, no prefix/suffix). **The watchlist field MUST contain exactly 3-5 complete WatchlistPick objects**, each shaped like \`{ "symbol": "...", "display_name": "<English name>", "stance": "Bullish"|"Bearish"|"Neutral", "rationale": "80-150 word English summary citing concrete indicator numbers" }\`. **DO NOT write the watchlist as a string array of ticker symbols** (e.g. \`["sh600519","sh510300"]\` is wrong) — this is a technical-indicator interpretation task; every entry must carry a rationale field. Empty arrays and string arrays are both format errors.`,
           "",
           contextLines.length > 0
             ? `Auxiliary context (**you MUST reference at least one of these in market_overview**):\n${contextLines.map((l) => `  - ${l}`).join("\n")}\n`

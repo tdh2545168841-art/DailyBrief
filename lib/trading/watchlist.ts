@@ -1,12 +1,10 @@
 export type AssetGroup =
-  | "us-equity" // 美股蓝筹 + ETF
-  | "crypto" // 加密货币
-  | "china-equity" // 中概股 / 港股
-  | "commodity-fx" // 商品 + 外汇
-  | "macro"; // 宏观信号（恐慌指数 / 利率 / 美元指数）
+  | "index" // 主要指数
+  | "etf" // 宽基ETF
+  | "stock"; // 自选股
 
 export interface TickerDef {
-  symbol: string; // Yahoo Finance symbol
+  symbol: string; // 腾讯行情代码，如 sh000001 / sz399001 / sh510300
   displayName: string; // 中文展示名
   displayNameEn?: string; // English display name (falls back to displayName if absent)
   group: AssetGroup;
@@ -17,19 +15,15 @@ export function getDisplayName(t: TickerDef, locale: "zh" | "en"): string {
 }
 
 const ASSET_GROUP_LABELS_ZH: Record<AssetGroup, string> = {
-  "us-equity": "美股 / ETF",
-  crypto: "加密货币",
-  "china-equity": "中概 / 港股",
-  "commodity-fx": "商品 / 外汇",
-  macro: "宏观信号",
+  index: "指数",
+  etf: "ETF",
+  stock: "自选股",
 };
 
 const ASSET_GROUP_LABELS_EN: Record<AssetGroup, string> = {
-  "us-equity": "US Stocks / ETF",
-  crypto: "Crypto",
-  "china-equity": "China / HK",
-  "commodity-fx": "Commodities / FX",
-  macro: "Macro",
+  index: "Indices",
+  etf: "ETFs",
+  stock: "Watchlist",
 };
 
 export function getAssetGroupLabels(
@@ -38,39 +32,23 @@ export function getAssetGroupLabels(
   return locale === "en" ? ASSET_GROUP_LABELS_EN : ASSET_GROUP_LABELS_ZH;
 }
 
-export const ASSET_GROUP_ORDER: AssetGroup[] = [
-  "macro",
-  "us-equity",
-  "crypto",
-  "china-equity",
-  "commodity-fx",
-];
+export const ASSET_GROUP_ORDER: AssetGroup[] = ["index", "etf", "stock"];
 
 export const WATCHLIST: TickerDef[] = [
-  // === 美股蓝筹 + 大盘 ETF ===
-  { symbol: "SPY", displayName: "S&P 500 ETF", group: "us-equity" },
-  { symbol: "QQQ", displayName: "Nasdaq 100 ETF", group: "us-equity" },
-  { symbol: "AAPL", displayName: "Apple", group: "us-equity" },
-  { symbol: "MSFT", displayName: "Microsoft", group: "us-equity" },
-  { symbol: "NVDA", displayName: "Nvidia", group: "us-equity" },
-  { symbol: "GOOGL", displayName: "Alphabet", group: "us-equity" },
-  { symbol: "TSLA", displayName: "Tesla", group: "us-equity" },
-  { symbol: "META", displayName: "Meta", group: "us-equity" },
-  // === 加密货币 ===
-  { symbol: "BTC-USD", displayName: "Bitcoin", group: "crypto" },
-  { symbol: "ETH-USD", displayName: "Ethereum", group: "crypto" },
-  { symbol: "SOL-USD", displayName: "Solana", group: "crypto" },
-  // === 中概 / 港股 ===
-  { symbol: "BABA", displayName: "阿里巴巴 (BABA)", displayNameEn: "Alibaba (BABA)", group: "china-equity" },
-  { symbol: "PDD", displayName: "拼多多 (PDD)", displayNameEn: "Pinduoduo (PDD)", group: "china-equity" },
-  { symbol: "JD", displayName: "京东 (JD)", displayNameEn: "JD.com (JD)", group: "china-equity" },
-  { symbol: "0700.HK", displayName: "腾讯控股 (0700.HK)", displayNameEn: "Tencent (0700.HK)", group: "china-equity" },
-  // === 商品 + 外汇 ===
-  { symbol: "GC=F", displayName: "黄金期货", displayNameEn: "Gold Futures", group: "commodity-fx" },
-  { symbol: "CL=F", displayName: "WTI 原油期货", displayNameEn: "WTI Crude Futures", group: "commodity-fx" },
-  { symbol: "USDCNY=X", displayName: "美元 / 人民币", displayNameEn: "USD / CNY", group: "commodity-fx" },
-  // === 宏观信号（恐慌指数 / 利率 / 美元）===
-  { symbol: "^VIX", displayName: "VIX 恐慌指数", displayNameEn: "VIX (Volatility)", group: "macro" },
-  { symbol: "^TNX", displayName: "10Y 美债收益率 (%)", displayNameEn: "10Y Treasury Yield (%)", group: "macro" },
-  { symbol: "DX-Y.NYB", displayName: "美元指数 DXY", displayNameEn: "DXY (US Dollar Index)", group: "macro" },
+  // === 主要指数 ===
+  { symbol: "sh000001", displayName: "上证指数", group: "index" },
+  { symbol: "sz399001", displayName: "深证成指", group: "index" },
+  { symbol: "sz399006", displayName: "创业板指", group: "index" },
+  { symbol: "sh000688", displayName: "科创50", group: "index" },
+  { symbol: "sh000300", displayName: "沪深300", group: "index" },
+  // === 宽基 ETF ===
+  { symbol: "sh510300", displayName: "沪深300ETF", group: "etf" },
+  { symbol: "sh510500", displayName: "中证500ETF", group: "etf" },
+  { symbol: "sh588000", displayName: "科创50ETF", group: "etf" },
+  { symbol: "sz159915", displayName: "创业板ETF", group: "etf" },
+  // === 自选股（D5 待填）===
+  // 以下为示例，可替换为你的自选股清单，symbol 用 sh/sz 前缀：
+  // { symbol: "sh600519", displayName: "贵州茅台", group: "stock" }
+  // { symbol: "sz000001", displayName: "平安银行", group: "stock" }
+  { symbol: "sh600519", displayName: "贵州茅台", group: "stock" },
 ];

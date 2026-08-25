@@ -1,144 +1,127 @@
 {
-  "hero_headline": "美加贸易战升级，油价大跌，AI 推动科技变革",
-  "daily_overview": "今日全球要闻聚焦三大领域：科技方面，OpenAI、DeepMind 等巨头发布前沿 AI 研究，具身智能与 Agent 开发成为热点；财经领域，美加贸易战升级引发市场震荡，油价大跌缓解通胀压力，英伟达财报受关注；时政方面，美加互征高额关税，巴西重罚 TikTok，全球多国加强网络犯罪打击。整体来看，AI 技术加速落地，地缘政治与贸易摩擦仍是影响经济的关键变量。",
+  "hero_headline": "美伊缓和油价大跌，AI竞争加剧空头押注",
+  "daily_overview": "今日资讯聚焦三大领域：技术上，GPT-Image2 提示词引擎开源引关注，范式联合优必选发布具身智能新计划，主要前沿模型提供商采用水印技术以满足欧盟法规；财经上，美伊外交缓和致油价大跌5%，美股三大指数齐涨，英伟达终结七连跌，中国AI公司遭创纪录做空；时政上，加拿大宣布对美征收高达50%的报复性关税，贸易战升级，CIA局长突访莫斯科引发关注。整体呈现AI技术加速落地、地缘政治与市场波动交织的态势。",
   "tech_briefs": [
     {
-      "title": "OpenAI 详解智能全栈：芯片、算力、模型与产品协同",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "source": "OpenAI News",
-      "summary": "OpenAI 首席财务官 Sarah Friar 撰文阐述芯片、算力、模型与产品如何协同进步，实现更大规模、更低成本的智能服务，强调全栈创新是 AI 普惠的关键。",
+      "title": "GPT-Image2 提示词引擎开源，530+案例模板共享",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "source": "GitHub Trending",
+      "summary": "开源项目提供 GPT-Image2 工业级提示词模板库，含530+逆向工程案例和20+套模板，并提炼出Skills，持续更新，帮助开发者高效生成图像，降低上手门槛。",
+      "importance": 8
+    },
+    {
+      "title": "范式联合优必选发布 PhanthyMotus 生态共建计划",
+      "url": "https://www.qbitai.com/2026/08/479314.html",
+      "source": "量子位",
+      "summary": "范式宣布 PhanthyMotus 生态社区共建计划，首个通用具身Agent底座从开源转向多方共建，联合十余家具身巨头，推动产业协作。（多家报道）",
       "importance": 9
     },
     {
-      "title": "DeepMind 合作游戏工作室，探索 AI 玩法突破",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "DeepMind Blog",
-      "summary": "Google DeepMind 宣布与多家游戏工作室合作，基于 15 年游戏 AI 研究经验，原型验证 AI 驱动的创新玩法，推动 AI 与游戏产业深度融合。",
-      "importance": 8
-    },
-    {
-      "title": "范式联合优必选等发布 PhanthyMotus 生态共建计划",
-      "url": "https://www.qbitai.com/2026/08/479314.html",
-      "source": "量子位",
-      "summary": "范式举办 PhanthyMotus 生态社区共建计划发布会，宣布首个通用具身 Agent 底座从开源迈向多方共建，联合十余家具身智能企业共同推进技术落地。",
-      "importance": 8
-    },
-    {
-      "title": "AI Agent 评估新指标 Skill Lift 受关注",
-      "url": "https://news.smol.ai/issues/26-08-24-not-much/",
-      "source": "Smol AI News",
-      "summary": "英伟达研究指出传统技能检查难以预测 Agent 实用性，提出新指标「Skill Lift」以更准确评估 Agent 效能，成为 Agent 优化方向的重要参考。",
+      "title": "OpenAI 详解全栈智能，芯片计算模型协同增效",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI News",
+      "summary": "OpenAI CFO 发文阐述芯片、计算、模型和产品的协同如何实现更广泛、更低成本的智能，强调全栈优化对AI规模化的重要性。",
       "importance": 7
     },
     {
-      "title": "上海人形机器人嘉年华：AI 融入日常生活的缩影",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "source": "MIT Tech Review AI",
-      "summary": "MIT 科技评论记者探访上海人形机器人嘉年华，指出这些流行机器是中国将 AI 嵌入物理系统、融入日常生活的国家战略的一部分，展现产业热度。",
-      "importance": 7
+      "title": "AI水印技术普及，满足欧盟监管要求",
+      "url": "https://www.infoq.cn/article/4mIQfr4w5gPLXSIW7YST?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "summary": "主要前沿模型提供商采用水印技术以符合欧盟法规，确保AI生成内容可追溯，增强透明度和信任，影响行业合规实践。",
+      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "美加贸易战升级，加拿大对美征收对等关税",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "category": "politics",
-      "summary": "加拿大宣布对美国商品实施最高 50% 的“对等”报复性关税，涉及钢铁、家具、金枪鱼等，美加贸易战再度升级。",
-      "importance": 10
-    },
-    {
-      "title": "油价大跌 5%，美伊外交缓和带来喘息空间",
-      "url": "https://wallstreetcn.com/articles/3780295",
+      "title": "美伊缓和油价大跌5%，美股齐涨",
+      "url": "https://wallstreetcn.com/articles/3780215",
       "source": "华尔街见闻",
-      "summary": "美伊外交缓和重挫油价，布伦特原油大跌 5%，为美国财政部长贝森特提供债券收益率喘息机会，但市场担忧结构性压力未解。",
+      "summary": "美伊外交缓和重挫油价，美股三大指数上涨，英伟达终结七连跌涨超2%，市场情绪回暖，但结构性压力未解。",
       "importance": 9
     },
     {
-      "title": "纳斯达克将启动 23 小时交易，全球订单流动性竞赛加剧",
-      "url": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipqxha2141325.shtml",
+      "title": "中国AI公司遭创纪录做空，竞争加剧",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/record-short-bets-hit-china-s-ai-model-duo-on-fierce-competition",
+      "source": "Bloomberg Markets",
+      "summary": "Z.AI和MiniMax股价空头押注创纪录，投资者担忧中国AI行业激烈竞争，财报前情绪谨慎，凸显行业洗牌风险。",
+      "importance": 8
+    },
+    {
+      "title": "日本拟研究区块链结算系统，实现24小时交易",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqxfw1138951.shtml",
       "source": "新浪财经",
-      "summary": "纳斯达克确认其「全球交易时段」计划将于 2026 年 12 月 6 日启动，实现每周 5 天 23 小时交易，引发全球交易所围绕订单流动性的竞争。",
-      "importance": 8
-    },
-    {
-      "title": "英伟达员工被控走私先进芯片至中国大陆",
-      "url": "https://www.ftchinese.com/story/001110709",
-      "source": "FT中文网",
-      "summary": "台湾检方指控英伟达一名驻台资深经理为走私案核心人物，涉案 130 台英伟达旗舰级 B300 服务器，凸显先进芯片出口管制的严峻性。",
-      "importance": 8
-    },
-    {
-      "title": "AI 热潮吸引加密货币公司转型，比特币承压",
-      "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "比特币价格 8 月虽涨，但仍远低于去年峰值，多家加密货币矿企正将矿场改造为 AI 数据中心，以抓住 AI 热潮带来的机遇。",
+      "summary": "日本政府和央行将成立研究小组，探讨基于区块链的24小时股票和国债结算系统，可能提升金融市场效率，引发关注。",
       "importance": 7
+    },
+    {
+      "title": "油价下跌缓解债券压力，但结构性问题未解",
+      "url": "https://wallstreetcn.com/articles/3780295",
+      "source": "华尔街见闻",
+      "summary": "油价大跌5%为美债收益率提供喘息空间，但分析师警告结构性压力仍在，包括财政赤字和通胀预期，市场需保持警惕。",
+      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "美加贸易战升级，加拿大宣布对美征收报复性关税",
+      "title": "加拿大宣布对美征收50%报复性关税",
       "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "加拿大宣布对美国商品实施最高 50% 的“对等”报复性关税，涉及钢铁、家具、金枪鱼等，美加贸易战再度升级。",
+      "summary": "加拿大对美实施‘对等’报复性关税，最高达50%，涉及钢铁、家具等商品，贸易战升级，美加关系紧张加剧。（多家报道）",
       "importance": 10
     },
     {
-      "title": "巴西以侵犯儿童数据隐私为由，对 TikTok 罚款 3000 万美元",
-      "url": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "summary": "巴西监管机构对 TikTok 处以 3000 万美元罚款，要求其删除非法获取的儿童数据，显示全球对科技巨头数据隐私的监管趋严。",
-      "importance": 7
-    },
-    {
-      "title": "CIA 局长突访莫斯科，美俄罕见高层接触",
+      "title": "CIA局长突访莫斯科，进行未宣布会谈",
       "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "据美国媒体报道，CIA 局长前往莫斯科进行未宣布的会谈，飞行追踪数据显示美国军机经拉脱维亚抵达俄罗斯，引发外界关注。",
+      "summary": "美国中央情报局局长前往莫斯科进行未公开会谈，美媒报道，飞行追踪显示美军机经拉脱维亚抵达，细节不明，引发关注。",
       "importance": 8
     }
   ],
-  "editor_note": "今日全球新闻聚焦 AI 技术突破与贸易摩擦冲击，科技变革与地缘政治风险并存，市场波动加剧，读者需关注后续发展。",
+  "editor_note": "今日市场波动与地缘政治交织，AI领域动作频频，贸易摩擦升级。简报力图平衡各方信息，助读者快速把握要害。",
   "keywords": [
     "AI",
-    "贸易战",
-    "关税",
     "油价",
+    "关税",
+    "贸易战",
+    "美伊关系",
     "英伟达",
-    "TikTok",
-    "美加",
-    "纳斯达克"
+    "比特币"
   ],
   "trading": {
-    "market_overview": "A股主要指数今日涨跌互现，上证指数微涨 0.19% 报 3889.44 点，深证成指和创业板指分别下跌 0.35% 与 1.00%，呈现权重稳定、成长调整的分化格局。成交方面两市合计约 1.83 万亿元，市场活跃度尚可。技术面上，多数指数近 5 日累计跌幅在 2.5% 至 10.4% 之间，呈现普遍回调态势；上证指数跌破 20 日均线（3898.27）并处于 50 日及 200 日均线下方，形成空头排列。深证成指、创业板指、沪深300、科创50 及相应 ETF 均出现 MACD 死叉信号，RSI 多在 39-47 区间偏弱运行，显示短期动能不足。贵州茅台是少数技术信号相对平稳的个券，RSI 回到 50 附近。整体技术面以震荡偏弱为主，指标显示市场缺乏明确上行趋势，短期或延续整理格局。",
+    "market_overview": "A股三大指数技术面整体偏弱：上证指数（+0.19%）微涨但5日跌2.53%，处于空头排列；深证成指（-0.35%）和创业板指（-1.00%）均5日显著下跌，创业板5日跌8.31%且MACD死叉。指数间分化明显，上证相对抗跌，而成长板块（创业板、科创50）回撤更大。ETF方面，科创50ETF和创业板ETF跟随指数走弱，均触发MACD死叉，RSI接近超卖（39-41）。个券中贵州茅台表现中性，5日微涨0.46%，RSI为50.4，明显强于大盘。整体来看，市场短期动能偏空，但部分标的RSI超卖或存技术修复可能。",
     "watchlist": [
       {
-        "symbol": "sz399001",
-        "display_name": "深证成指",
+        "symbol": "sh000001",
+        "display_name": "上证指数",
         "stance": "偏下行",
-        "rationale": "深证成指现报 13745.87 点，近5日累计下跌 6%，近 52 周高点回撤达 16.05%。RSI14 为 42.1 处于弱势区，MACD 指标值 -134.47 低于信号线 -126.37，形成死叉且绿柱扩大。价格已跌破 20 日均线 14044.06、50 日均线 14680.97 及 200 日均线 14302.43，呈空头排列态势，短期技术面承压明显。"
+        "rationale": "上证指数现报3889.44点，较52周高点回落8.67%，5日下跌2.53%。价格低于SMA20（3898.27）、SMA50（3950.91）及SMA200（4012.15），呈空头排列。RSI14为46.6，位于中性偏弱区域。MACD柱为-4.3351，但已连续收敛，信号线-4.8765仍在上方，绿柱收窄显示下跌动能减弱，短期或延续震荡偏弱格局。"
       },
       {
         "symbol": "sz399006",
         "display_name": "创业板指",
         "stance": "偏下行",
-        "rationale": "创业板指现报 3397.52 点，近 5 日累计下跌 8.31%，为各组指数中跌幅最深，距 52 周高点回撤 22.44%。RSI14 为 41.5 偏弱，MACD 指标值 -49.39 略低于信号线 -49.34，形成死叉。价格位于 20 日均线 3503.16 和 50 日均线 3750.99 之下，但略高于 200 日均线 3493.05，中长期支撑尚存，短期下行势头占优。"
+        "rationale": "创业板指现报3397.52点，5日大跌8.31%，较52周高点回撤22.44%。价格位于SMA20（3503.16）和SMA50（3750.99）下方，亦低于SMA200（3493.05），中期趋势偏空。RSI14为41.5，接近超卖但尚未极端。MACD柱-49.3891，信号线-49.3354，柱体微幅扩张，显示下行压力仍存，短期反弹动能不足。"
       },
       {
         "symbol": "sh000688",
         "display_name": "科创50",
-        "stance": "中性",
-        "rationale": "科创50 现报 1604.59 点，近 5 日跌幅达 10.4%，为指数中短线调整最深品种；RSI14 为 39.1，已进入超卖区边缘。价格明确低于 20 日均线 1679.59 和 50 日均线 1836.42，但仍高于 200 日均线 1554.64，长期趋势未破坏。MACD 值为 -43.62 低于信号线 -38.42 呈死叉，短期动能仍偏弱，但超卖与年线支撑并存，方向暂显中性。"
+        "stance": "偏下行",
+        "rationale": "科创50现报1604.59点，5日重挫10.4%，较52周高点回撤28.85%，为候选资产中跌幅最深。价格低于SMA20（1679.59）和SMA50（1836.42），但高于SMA200（1554.64），长期支撑尚存。RSI14为39.1，接近超卖。MACD柱-43.6157，信号线-38.4202，绿柱扩张，显示趋势偏弱，但超卖或引发技术性修复。"
+      },
+      {
+        "symbol": "sh588000",
+        "display_name": "科创50ETF",
+        "stance": "偏下行",
+        "rationale": "科创50ETF现报1.69元，5日下跌10.33%，较52周高点回撤29.16%。价格低于SMA20（1.77）和SMA50（1.94），但高于SMA200（1.64），长期支撑有效。RSI14为39.2，接近超卖。MACD柱-0.0466，信号线-0.0413，绿柱扩大，显示中期下行趋势延续，短期或有超卖反弹需求。"
       },
       {
         "symbol": "sh600519",
         "display_name": "贵州茅台",
         "stance": "中性",
-        "rationale": "贵州茅台现报 1304 元，近 5 日微涨 0.46%，为候选资产中少数短线收红的标的。RSI14 为 50.4 重回中性区，价格越过 50 日均线 1266.01 但仍在 20 日均线 1322.63 及 200 日均线 1346.57 下方，均线结构略偏多空交织。MACD 值 4.39 低于信号线 11.70，红柱收窄，显示上行动量减弱，整体技术面处于修复观察阶段。"
+        "rationale": "贵州茅台现报1304元，5日微涨0.46%，相对抗跌。价格高于SMA50（1266.01），但低于SMA20（1322.63）和SMA200（1346.57），短期均线压制明显。RSI14为50.4，处于中性水平。MACD柱4.3892为正，但信号线11.6982仍在上方，红柱缩小，显示动量中性，多空平衡。"
       }
     ],
-    "risk_caveat": "请注意，以上所有技术指标解读均基于历史行情数据计算，过去走势不代表未来表现，指标信号存在滞后性且可能受突发消息影响而失效。本报告仅供技术指标解读参考，不构成任何投资建议，投资者应结合自身风险承受能力独立判断，据此操作风险自担。",
+    "risk_caveat": "以上内容基于公开行情数据的技术指标计算与文本摘要，不构成任何投资建议。过去走势不代表未来表现，市场风险自负。",
     "tickers": [
       {
         "symbol": "sh000001",
@@ -439,6 +422,6 @@
         }
       ]
     },
-    "generated_at": "2026-08-25T23:34:27.663Z"
+    "generated_at": "2026-08-25T23:52:27.059Z"
   }
 }

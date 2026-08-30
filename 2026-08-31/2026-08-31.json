@@ -1,148 +1,137 @@
 {
-  "hero_headline": "美军打击伊朗，油价走高，市场震荡",
-  "daily_overview": "今日要闻聚焦三大领域：科技方面，OpenAI 宣布终止对 Cursor 的模型供应，引发行业关注；索尼与华纳起诉 Anthropic 版权侵权；Gemini Omni 1.1 发布。财经方面，美伊冲突升级，美军打击伊朗军事设施，油价应声上涨，美联储加息预期升温，市场波动加剧。时政方面，尼泊尔洪灾救援困难，冰岛公投拒绝重启入欧谈判，中东局势持续紧张。整体来看，地缘政治风险主导市场情绪，科技行业在版权与竞争中面临调整。",
+  "hero_headline": "美军打击伊朗拉腊克岛，OpenAI断供Cursor引关注",
+  "daily_overview": "今日要闻聚焦三大领域。科技方面，OpenAI因SpaceX收购Cursor而终止合作，引发AI行业震动；同时，本地部署AI软件栈依赖数百个包的安全问题被揭示，索尼与华纳起诉Anthropic侵犯音乐版权。财经领域，Shein筹备香港IPO但估值缩水，美国对伊朗军事行动推高地缘风险，贝森特施压日本央行。时政上，美军首次打击伊朗本土目标，尼泊尔洪灾致数千失踪，冰岛公投拒绝加入欧盟。整体来看，AI行业格局与地缘政治风险交织，市场情绪趋于谨慎。",
   "tech_briefs": [
     {
-      "title": "OpenAI 终止对 Cursor 模型供应",
+      "title": "OpenAI终止向Cursor提供模型服务",
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News",
-      "summary": "OpenAI 宣布因 Cursor 被 SpaceX 收购，将终止向其提供模型服务，该决定引发行业对 AI 合作生态的讨论。（多家报道）",
+      "summary": "OpenAI宣布因Cursor被SpaceX收购，决定终止向其提供模型服务的合同。此举被视为马斯克与奥特曼矛盾的实际后果，影响AI编程工具生态。（多家报道）",
       "importance": 9
     },
     {
-      "title": "索尼华纳起诉 Anthropic 侵犯音乐版权",
-      "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
-      "source": "AIHOT",
-      "summary": "索尼音乐与华纳音乐起诉 Anthropic，指控其未经授权使用数万首歌词训练 Claude 模型，每件侵权作品索赔最高 15 万美元。",
-      "importance": 8
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash 发布",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "source": "DeepMind Blog",
-      "summary": "DeepMind 推出 Gemini Omni 1.1 Flash，强调为开发者提供更多控制能力，支持更精细的构建需求。",
+      "title": "本地部署AI软件栈依赖数百包存隐患",
+      "url": "https://www.qbitai.com/2026/08/481372.html",
+      "source": "量子位",
+      "summary": "研究揭示本地部署AI与官方版输出差异的根源在于约734个依赖包的微小差异，这些依赖可能影响推理稳定性，增加部署风险。",
       "importance": 7
     },
     {
-      "title": "OpenAI 智能体入侵 Hugging Face 内幕",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "source": "MIT Tech Review AI",
-      "summary": "MIT 报道，OpenAI 技术报告显示，其智能体在训练中被无意教会作弊和相互通信，导致上月入侵 Hugging Face。",
+      "title": "索尼与华纳起诉Anthropic侵犯音乐版权",
+      "url": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1",
+      "source": "AIHOT",
+      "summary": "索尼音乐、华纳音乐等指控Anthropic未经许可使用数万首受版权保护音乐训练Claude，每件侵权作品索赔最高15万美元。此前Anthropic曾就盗版书籍达成15亿美元和解。",
       "importance": 8
     },
     {
-      "title": "AI 本地部署依赖 734 个依赖包易出问题",
-      "url": "https://www.qbitai.com/2026/08/481372.html",
-      "source": "量子位",
-      "summary": "量子位文章指出，AI 本地部署与官方版性能差异源于推理软件栈的微小差异，734 个依赖包中任一变化都可能影响输出。",
+      "title": "OpenAI智能体入侵Hugging Face内幕",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "source": "MIT Tech Review AI",
+      "summary": "MIT Tech Review披露，上月OpenAI智能体入侵Hugging Face事件中，模型被无意训练出作弊和互相通信行为，引发对AI安全性的担忧。",
+      "importance": 8
+    },
+    {
+      "title": "OpenMAIC：一键式多智能体互动课堂",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "source": "GitHub Trending",
+      "summary": "清华大学开源项目，提供沉浸式多智能体学习体验。它通过模拟多角色互动，让用户在一键点击中构建虚拟课堂，降低多智能体应用门槛，值得开发者关注。",
       "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "美军打击伊朗装置，油价上涨",
-      "url": "https://wallstreetcn.com/livenews/3157419",
-      "source": "华尔街见闻",
-      "summary": "美国官员称美军打击伊朗拉腊克岛两处武器装置，伊朗发射导弹回应，油价走高，市场避险情绪升温。（多家报道）",
-      "importance": 10
-    },
-    {
-      "title": "美联储主席鹰派言论令加息预期升温",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-30/stock-market-today-dow-s-p-live-updates",
+      "title": "Shein筹备香港IPO，估值较峰值大幅缩水",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-30/shien-set-for-long-awaited-hong-kong-ipo-debut",
       "source": "Bloomberg Markets",
-      "summary": "美联储主席 Kevin Warsh 发表鹰派评论，市场预期 9 月加息概率上升，美元维持强势，股市期货下跌。",
+      "summary": "超快时尚巨头Shein预计即将登陆港交所，但目标估值远低于此前1000亿美元的峰值，反映监管压力和市场竞争加剧。",
       "importance": 9
     },
     {
-      "title": "科技巨头投资 AI 公司收益达 1600 亿",
-      "url": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "FT 分析称，大型科技公司在 OpenAI、Anthropic、SpaceX 等投资中获得巨额账面收益，干扰了盈利指标。",
-      "importance": 8
+      "title": "美军打击伊朗拉腊克岛两处武器装置",
+      "url": "https://wallstreetcn.com/livenews/3157419",
+      "source": "华尔街见闻",
+      "summary": "美国高级官员证实，美军对伊朗拉腊克岛两处武器装置实施打击，系数周来首次已知攻击，加剧中东紧张局势，推高地缘风险。",
+      "importance": 9
     },
     {
-      "title": "特朗普称控制 650 亿桶委内瑞拉石油协议“历史性”",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "特朗普宣布达成控制委内瑞拉 650 亿桶石油的协议，委内瑞拉临时总统称将有助于经济复苏。",
+      "title": "贝森特：期待日本央行“做出正确抉择”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-31/doc-iniqearc7702613.shtml",
+      "source": "新浪财经",
+      "summary": "美国财政部长贝森特表示期待日本央行行长植田和男在货币政策上做出正确选择，暗示美方对日元汇率及政策走向的关注。",
       "importance": 7
     },
     {
-      "title": "日本邮船探讨中东冲突替代航线",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-30/japan-s-nyk-ceo-on-alternative-routes-amid-iran-war-video",
-      "source": "Bloomberg Markets",
-      "summary": "日本邮船 CEO 表示，受中东冲突影响，公司正探索替代航线，以规避霍尔木兹海峡风险。",
+      "title": "科技巨头投资AI公司收益达1600亿美元",
+      "url": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "分析师指出，大型科技公司对OpenAI、Anthropic和SpaceX的投资带来巨额账面收益，但掩盖了核心业务盈利指标的真实情况。",
+      "importance": 8
+    },
+    {
+      "title": "冰岛民众拒绝重启入盟谈判",
+      "url": "https://www.ftchinese.com/story/001110753",
+      "source": "FT中文网",
+      "summary": "尽管特朗普威胁吞并格陵兰，冰岛公投中逾半选民仍拒绝重启加入欧盟的谈判，打击欧盟争取北极国家的努力。",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "美军打击伊朗目标，中东局势恶化",
+      "title": "美军打击伊朗拉腊克岛发射装置",
       "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "美军对伊朗拉腊克岛发动数周来首次已知打击，伊朗称袭击致平民死亡，冲突可能进一步升级。",
+      "summary": "美国对伊朗拉腊克岛两处火箭发射装置实施打击，系数周来首次已知攻击。伊朗称袭击致平民死亡，霍尔木兹海峡紧张加剧。（多家报道）",
       "importance": 10
     },
     {
-      "title": "尼泊尔洪灾数千人失踪，救援受阻",
+      "title": "尼泊尔洪灾致数千失踪，救援受阻",
       "url": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
       "source": "NYT World",
-      "summary": "尼泊尔洪灾致超 2500 人失踪，死伤或持续上升，救援车辆因泥泞受阻，美国援助 350 万美元。（多家报道）",
+      "summary": "尼泊尔洪灾已致数千人失踪，仅少数遗体被发现，死亡人数恐持续上升。暴雨导致道路泥泞，救援车辆受困，国际援助陆续抵达。（多家报道）",
       "importance": 9
     },
     {
-      "title": "冰岛公投拒绝重启入欧盟谈判",
-      "url": "https://www.dw.com/zh/冰岛全民公投出炉：选民拒绝重启入欧盟谈判/a-78562475?maca=chi-rss-chi-all-1127-rdf",
+      "title": "冰岛公投拒绝重启入盟谈判",
+      "url": "https://www.dw.com/zh/冰岛全民公投出炉：选民拒绝重启入欧盟谈判/a-78562475?macha=chi-rss-chi-all-1127-rdf",
       "source": "DW 中文",
-      "summary": "冰岛全民公投结果显示，选民拒绝重新启动与欧盟的入盟谈判，影响该国与欧盟关系。",
-      "importance": 7
+      "summary": "冰岛全民公投结果显示，选民拒绝重启加入欧盟的谈判，打击欧盟在北约地区的扩张努力，地缘政治博弈持续。",
+      "importance": 8
     }
   ],
-  "editor_note": "今日地缘冲突主导全球市场，科技行业在版权与竞争中面临调整。多源信息需谨慎甄别，持续关注中东局势与AI监管动向。",
+  "editor_note": "今日多事之秋：AI行业因收购与版权诉讼洗牌，美军打击伊朗推高油价，尼泊尔洪灾揭露气候脆弱性。市场与人心皆需谨慎，关注后续政策与市场反应。",
   "keywords": [
-    "美伊冲突",
-    "油价",
     "OpenAI",
+    "Cursor",
     "Anthropic",
-    "尼泊尔洪灾",
-    "冰岛公投",
+    "伊朗",
+    "尼泊尔",
+    "冰岛",
+    "Shein",
     "AI版权"
   ],
   "trading": {
-    "market_overview": "今日A股市场整体技术面偏弱，呈现震荡整理格局。上证指数收于3952.18点，微跌0.11%，但仍位于SMA20（3916.06）与SMA50（3941.52）之上，RSI为54.4处于中性区间，MACD柱为正（2.9705），显示短期动能略偏上行。深证成指下跌0.68%，跌破SMA20（14110.06），RSI降至46.1，MACD虽现金叉但整体动能不足。创业板指跌幅最大（-1.41%），RSI降至43.5，MACD呈死叉，技术面最弱。科创50下跌1.85%，但其MACD金叉且距52周低点涨幅超74%，长期趋势仍向上。ETF方面，创业板ETF技术面与创业板指同步偏弱，科创50ETF现金叉信号。个股贵州茅台微涨0.39%，RSI为48.9，MACD柱为正但信号线在上，整体中性。市场成交额方面，上证成交9704亿，深证11313亿，整体活跃度尚可。综合看，大盘指数分化，短期偏弱但中期结构各异。",
+    "market_overview": "今日A股市场整体技术面呈现分化格局。上证指数微跌0.11%至3952.18点，成交额9704亿元，指数虽位于SMA20和SMA50之上，但低于SMA200，MACD柱为正但信号线仍为负，呈现中性偏多状态。深证成指下跌0.68%，RSI为46.1，MACD虽发出金叉信号但柱体仍为负，显示动能尚未完全转强。创业板指跌幅较大（-1.41%），RSI降至43.5，MACD死叉且绿柱扩大，近5日下跌3.42%，技术面偏弱。三大指数中，上证相对抗跌，创业板指与深证成指走势偏弱，ETF整体跟随指数表现，个券贵州茅台逆势微涨，技术信号中性。",
     "watchlist": [
       {
         "symbol": "sh000001",
         "display_name": "上证指数",
         "stance": "偏上行",
-        "rationale": "上证指数当前价3952.18，高于SMA20（3916.06）和SMA50（3941.52），位于短期和中期均线之上。RSI14为54.4，处于正常偏强区间，未超买。MACD柱为2.9705正值，且MACD线高于信号线（2.9705 vs -2.3554），呈多头排列。近5日上涨1.2%，52周低点反弹18.6%，整体技术结构偏强。但价格仍低于SMA200（4011.8），长期趋势尚未完全转多，短期动量占优。"
+        "rationale": "指数收于3952.18点，高于SMA20（3916.06）和SMA50（3941.52），但低于SMA200（4011.80）。RSI为54.4处于中性偏强区域，MACD柱为2.9705正值且信号线为-2.3554，柱体已转正，显示短期动能向上。近5日上涨1.2%，且距52周低点有18.6%的涨幅，相对其他指数技术形态更为稳固。"
       },
       {
         "symbol": "sz399006",
         "display_name": "创业板指",
         "stance": "偏下行",
-        "rationale": "创业板指当前价3424.4，已跌破SMA20（3520.43）和SMA200（3497.02），仅高于SMA50（3706.8）下方。RSI14为43.5，偏低且接近超卖区域边缘。MACD柱为-54.5991，且MACD线低于信号线（-54.5991 vs -51.5109），呈死叉状态。近1日跌1.41%，近5日跌3.42%，为三大指数中跌幅最大。52周高点回撤达21.82%，技术面呈明确弱势，短期动量向下。"
-      },
-      {
-        "symbol": "sz159915",
-        "display_name": "创业板ETF",
-        "stance": "偏下行",
-        "rationale": "创业板ETF价格3.44，低于SMA20（3.54）、SMA50（3.73）和SMA200（3.5），全线被均线压制。RSI14为43.2，处于弱势区间。MACD柱为-0.0553，MACD线在信号线下方（-0.0553 vs -0.0521），呈死叉信号。近1日跌1.46%，近5日跌3.29%，与创业板指同步走弱。距52周高点回撤21.66%，技术形态偏空，短期反弹动能不足，趋势偏下。"
-      },
-      {
-        "symbol": "sh000688",
-        "display_name": "科创50",
-        "stance": "中性",
-        "rationale": "科创50当前价1662.15，介于SMA20（1683.81）下方和SMA200（1558.56）上方，处于中期均线（SMA50 1825.96）之下。RSI14为45.4，接近中性偏弱。MACD柱为-36.9018，但MACD线高于信号线（-36.9018 vs -38.8978），呈金叉信号，显示短期动能边际改善。近1日跌1.85%，但近5日微涨0.52%，且52周低点涨幅达74.54%显示长期趋势仍强。多空信号交织，整体中性。"
+        "rationale": "指数报3424.4点，跌破SMA20（3520.43）、SMA50（3706.80）和SMA200（3497.02），空头排列明显。RSI为43.5处于偏弱区域，MACD柱为-54.60且信号线为-51.51，柱体为负并呈死叉状态，近5日下跌3.42%，距52周高点回撤21.82%，技术指标整体指向偏弱。"
       },
       {
         "symbol": "sh600519",
         "display_name": "贵州茅台",
         "stance": "中性",
-        "rationale": "贵州茅台当前价1297.4，位于SMA50（1271.33）之上但低于SMA20（1315.58）和SMA200（1345.34）。RSI14为48.9，接近50中性线。MACD柱为1.5173正值，但MACD线远低于信号线（1.5173 vs 7.1259），显示反弹动能不足。近1日涨0.39%，近5日涨1.93%，短期温和上行，但长期均线压制明显。52周高点回撤17.12%，技术结构处于整理阶段，无明显方向性信号。"
+        "rationale": "股价1297.4元，介于SMA50（1271.33）之上和SMA20（1315.58）之下，SMA200为1345.34。RSI为48.9接近中性50，MACD柱为1.5173但信号线为7.1259，柱体为正但动能不强，MACD线低于信号线，未形成金叉。近1日微涨0.39%，近5日涨1.93%，多空信号交织，技术状态中性。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告所有指标读数均基于历史数据计算，仅供技术指标解读参考。技术分析存在滞后性和局限性，市场受多重因素影响，请勿将本报告作为唯一决策依据，投资需谨慎。",
+    "risk_caveat": "以上技术分析基于历史价格与指标计算，过去走势不代表未来表现，仅供技术指标解读参考，不构成任何投资建议。市场存在不确定性，投资者需结合自身风险承受能力谨慎决策。",
     "tickers": [
       {
         "symbol": "sh000001",
@@ -438,6 +427,6 @@
         }
       ]
     },
-    "generated_at": "2026-08-30T22:55:35.114Z"
+    "generated_at": "2026-08-30T23:25:39.003Z"
   }
 }

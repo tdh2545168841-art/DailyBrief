@@ -1,41 +1,41 @@
 {
-  "hero_headline": "美伊冲突升级油价飙升，全球市场承压",
-  "daily_overview": "今日全球市场聚焦美伊冲突升级，美国军方完成对伊朗军事目标的打击，油价连续三日大涨，引发通胀担忧，美股债市双杀，黄金跌破4350美元，亚洲股市亦承压。科技领域，AI模型竞争加剧，OpenAI断供Cursor引发编程工具洗牌，MiniMax推出实时AI视频生成，Claude Fable 5.1登顶智能指数。时政方面，G20峰会中美欧展现竞争态势，德国指控俄罗斯发动无人机袭击，美伊紧张关系成为焦点。整体来看，地缘政治风险主导市场情绪，科技行业则加速迭代。",
+  "hero_headline": "美伊冲突升级油价飙升，全球市场动荡",
+  "daily_overview": "今日全球市场受美伊冲突升级影响，油价大涨5%，美股债双杀，黄金重挫，避险情绪浓厚。科技领域，AI视频实时生成商业化加速，谷歌推出Gemini智体视频理解，Claude Fable 5.1登顶智能指数，开源项目出现软件工厂模式。时政方面，德国指认俄罗斯为莱比锡机场无人机袭击幕后黑手，G20峰会中美欧角力，英国首相收回要求归还帕特农神庙大理石的表态。整体看，地缘政治风险主导市场情绪，技术革新与安全挑战并存。",
   "tech_briefs": [
     {
-      "title": "OpenAI断供Cursor，编程AI工具市场洗牌",
-      "url": "https://wallstreetcn.com/articles/3780855",
-      "source": "华尔街见闻",
-      "summary": "OpenAI停止向Cursor提供模型服务，导致编程AI领域竞争格局生变，Anthropic等竞争对手加码算力抢占市场份额，行业洗牌加速。",
-      "importance": 9
-    },
-    {
-      "title": "MiniMax实时AI视频生成，3秒出片开启商业化",
+      "title": "MiniMax推出实时AI视频生成，3秒出片开启商业化",
       "url": "https://www.qbitai.com/2026/09/482512.html",
       "source": "量子位",
-      "summary": "MiniMax实现3秒内生成AI视频，速度超过播放时间，展示了实时视频生成的商业化潜力，为AI视频领域带来新突破。",
+      "summary": "MiniMax实现AI视频实时生成，3秒出片比播放还快，打开AI视频商业化新路径，展示实时生成技术在创作领域的应用潜力。",
       "importance": 8
     },
     {
-      "title": "Claude Fable 5.1登顶智能指数，成本增20%",
+      "title": "谷歌推出Gemini智体视频理解新功能",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "DeepMind Blog",
+      "summary": "谷歌DeepMind发布Gemini智体视频理解能力，可对视频内容进行自主分析和交互，拓展多模态AI在视频领域的应用边界。",
+      "importance": 8
+    },
+    {
+      "title": "Claude Fable 5.1登顶智能指数，单任务成本增20%",
       "url": "https://aihot.virxact.com/items/cmtj484a00592roh9jjdf5xkd",
       "source": "AIHOT",
-      "summary": "Artificial Analysis评测显示，Claude Fable 5.1在max effort模式下得分66，登顶智能指数，但每任务成本比前代高20%，性能与成本权衡引关注。",
+      "summary": "Anthropic发布Claude Fable 5.1，在Artificial Analysis智能指数中得分66登顶，但每任务成本比前代高20%，引发性价比讨论。",
       "importance": 7
     },
     {
-      "title": "Meta Muse Code退出测试，发布SDK与订阅",
+      "title": "顶级AI开源项目用软件工厂管理海量贡献者",
+      "url": "https://www.latent.space/p/pr-not-welcome",
+      "source": "Latent Space",
+      "summary": "Vercel AI SDK、Astro等顶级开源项目不再欢迎随机PR，转而采用软件工厂模式，由代理团队批量处理修复与功能，提高效率但改变社区参与方式。",
+      "importance": 7
+    },
+    {
+      "title": "Meta发布Muse Code正式版，DeepSeek开放V4 Flash视觉权重",
       "url": "https://news.smol.ai/issues/26-08-31-not-much/",
       "source": "Smol AI News",
-      "summary": "Meta的Muse Code结束测试，推出SDK和订阅计划，支持嵌入自定义代理和工具集成；同时DeepSeek V4 Flash Vision权重开源，增加视觉能力。",
+      "summary": "Meta的Muse Code退出测试版，提供SDK和订阅计划，支持嵌入自定义代理与工具集成。DeepSeek V4 Flash Vision权重开放，加入视觉能力（多家报道）。",
       "importance": 7
-    },
-    {
-      "title": "AI原生公司如何将工作流转化为运营能力",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "source": "OpenAI News",
-      "summary": "OpenAI发布报告，探讨Basis、Clay等AI原生公司利用AI代理改进入职、账户管理和开发者集成，为企业领导者提供可借鉴的运营模式。",
-      "importance": 6
     }
   ],
   "finance_briefs": [
@@ -43,100 +43,100 @@
       "title": "美伊冲突升级油价飙升5%，美股债双杀",
       "url": "https://wallstreetcn.com/articles/3780783",
       "source": "华尔街见闻",
-      "summary": "美国对伊朗发动军事打击，油价飙升5%，引发通胀担忧，美股与美债遭抛售，黄金失守4350美元，市场避险情绪浓厚。",
-      "importance": 10
+      "summary": "美伊冲突升级导致油价飙升5%，美股和债市双双下跌，芯片股指数回落，黄金重挫，市场恐慌情绪蔓延。",
+      "importance": 9
     },
     {
-      "title": "亚洲股市或下跌，油价上涨推高债券收益率",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-01/stock-market-today-dow-s-p-live-updates",
+      "title": "金价下跌，因加息预期升温",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-01/gold-holds-drop-as-higher-oil-bond-selloff-raise-rate-hike-bets",
       "source": "Bloomberg Markets",
-      "summary": "亚洲股市预计周三下跌，因油价飙升推高债券收益率，引发通胀重燃担忧，可能迫使央行收紧货币政策。",
+      "summary": "中东袭击和全球债券抛售推高美联储加息预期，黄金延续跌势。投资者担忧通胀压力迫使央行收紧政策。",
       "importance": 8
     },
     {
-      "title": "英国长期借贷成本创1998年以来新高",
-      "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "英国长期借贷成本升至1998年以来最高水平，给首相Andy Burnham的首份预算案带来额外压力，市场关注财政政策。",
+      "title": "欧洲债券市场面临假期后冲击",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock",
+      "source": "The Economist Finance",
+      "summary": "欧洲债券收益率上升原因与美国不同但同样棘手，反映对财政赤字和经济增长的担忧，投资者要求更高回报。",
+      "importance": 8
+    },
+    {
+      "title": "库克获47 million美元薪酬任苹果执行董事长",
+      "url": "https://www.ft.com/content/8efaf87c-e5bf-4cfe-8403-16690ed4c265?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "苹果公司向库克支付4700万美元薪酬以担任执行董事长，其继任者John Ternus获5800万美元，反映高管薪酬与交接安排。",
       "importance": 7
     },
     {
-      "title": "印度经济增速7.8%超预期，展现韧性",
-      "url": "https://www.ftchinese.com/story/001110765",
-      "source": "FT中文网",
-      "summary": "尽管中东战争推高能源价格并扰乱贸易，印度经济在截至6月的季度同比增长7.8%，超出预期，显示企业能将成本转嫁给消费者。",
-      "importance": 7
-    },
-    {
-      "title": "软件公司面临AI威胁，高价展期债务",
+      "title": "软件公司高价展期债务以应对AI威胁",
       "url": "https://www.ftchinese.com/story/001110768",
       "source": "FT中文网",
-      "summary": "AI模型快速发展使投资者对软件公司长期竞争力存疑，尤其是私募股权所有的企业，现在需以高得多的利率再融资债务。",
-      "importance": 6
+      "summary": "AI模型快速发展令投资者对软件公司长期竞争力存疑，私募股权支持的企业面临高利率再融资压力。",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "美国军方完成对伊朗系列打击，中东紧张升级",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqvk3163472.shtml",
-      "source": "新浪财经",
-      "summary": "美军中央司令部宣布完成一波针对伊朗军事目标的打击，伊朗媒体称有4人在婚礼现场遇难，并开始对美军目标发动报复性导弹和无人机攻击。",
-      "importance": 10
-    },
-    {
-      "title": "G20峰会中美欧竞争展示全球权力格局",
-      "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
-      "source": "NYT World",
-      "summary": "习近平与俄伊领导人会晤，欧洲在G20挑战特朗普政府，呈现分裂的世界图景，两场会议成为全球权力的竞争性展示。",
+      "title": "德国指认俄罗斯参与莱比锡机场无人机袭击",
+      "url": "https://www.theguardian.com/world/2026/sep/01/germany-blames-russia-drone-attack-leipzig-airport",
+      "source": "The Guardian",
+      "summary": "德国政府将上月莱比锡机场无人机袭击归咎于俄罗斯，称其是混合战争一部分，俄方否认。多家媒体联合报道（多家报道）。",
       "importance": 9
     },
     {
-      "title": "德国指控俄罗斯发动莱比锡机场无人机袭击",
-      "url": "https://www.ft.com/content/2ca5dfbf-f48b-4ffb-9ce9-9ff3e787a75e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "德国内政部长指责俄罗斯发动莱比锡机场无人机袭击，称国家“虽未战争，但每日面临混合战”目标，事件加剧德俄紧张关系。",
+      "title": "伊朗报复美国袭击，开始攻击美军目标",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "据伊朗国家媒体报道，美军袭击致婚礼现场四人死亡后，伊朗开始对美军目标发动导弹和无人机报复。局势急剧升级。",
+      "importance": 9
+    },
+    {
+      "title": "G20峰会中美欧展示竞争性全球影响力",
+      "url": "https://www.nytimes.com/2026/09/01/world/asia/g20-meeting-china-trump-bishkek.html",
+      "source": "NYT World",
+      "summary": "习近平与俄伊领导人会晤，与此同时欧洲在G20挑战特朗普政府，形成全球权力对比的分屏画面。",
       "importance": 8
     }
   ],
-  "editor_note": "美伊冲突骤然升级，市场波动剧烈，投资者需关注地缘风险；科技领域AI竞争白热化，开源与商业化并行。建议保持谨慎，关注后续外交进展。",
+  "editor_note": "地缘冲突加剧市场不确定性，科技突破与开源生态变革并行。各领域事件相互交织，投资者需警惕风险传导。",
   "keywords": [
     "美伊冲突",
-    "油价飙升",
-    "AI竞争",
-    "G20峰会",
-    "OpenAI断供",
-    "债券收益率",
-    "地缘政治"
+    "油价上涨",
+    "AI视频生成",
+    "Gemini",
+    "Claude Fable 5.1",
+    "德国俄罗斯",
+    "G20"
   ],
   "trading": {
-    "market_overview": "A 股三大组指数整体技术面偏弱，但分化明显。上证指数（3979.89，-0.16%）相对抗跌，RSI 57.4 处于强势区，且 MACD 红柱放大，5 日涨 2.33%，为唯一维持短期上行结构的指数；深证成指（13872.38，-1.02%）和创业板指（3393.43，-1.32%）均跌破 SMA20/SMA50，MACD 绿柱或红柱收窄，RSI 降至 44.8 和 42.2，技术面走弱。ETF 方面，沪深300ETF 和中证500ETF 均现 MACD 金叉但柱体为负，反映动能尚未确认；科创50ETF 和创业板ETF 受科创/创业板拖累，RSI 低于 45，且价格普遍低于 20/50 日均线。个券贵州茅台（1299.56）微跌，RSI 49.5 中性，价格缠绕均线，方向不明。整体看，大盘指数技术面弱中带稳，但成长板块（创业板、科创）明显偏弱，ETF 与指数同步承压，仅上证指数技术面相对占优。",
+    "market_overview": "A股三大指数今日普遍回落，上证指数报3979.89点（-0.16%）相对抗跌，深证成指（-1.02%）和创业板指（-1.32%）跌幅较大，成交额合计超2.5万亿。指数层面呈现分化：上证指数MACD为正且站上短期均线，技术面偏多；深证成指和创业板指MACD仍为负值，价格低于主要均线，空头趋势未改。ETF方面，沪深300ETF和中证500ETF出现MACD金叉信号但柱体仍为负，显示动能转换初期；科创50ETF和创业板ETF价格均低于SMA200，中期承压。个券贵州茅台指标中性，RSI49.5接近均衡。整体技术面偏弱，仅上证指数短期占优，多数标的在均线下方运行，反弹持续性待观察。",
     "watchlist": [
-      {
-        "symbol": "sz399006",
-        "display_name": "创业板指",
-        "stance": "偏下行",
-        "rationale": "创业板指当前价 3393.43，低于 SMA20（3522.46）和 SMA50（3672.41），且低于 SMA200（3499.23），呈空头排列；RSI14 为 42.2，处于偏弱区域；MACD 绿柱（DIFF -57.34，DEA -53.15，柱 -4.19），趋势偏弱；5 日跌幅 0.12%，52 周高点回落 22.53%，技术面整体偏下行。"
-      },
       {
         "symbol": "sh000001",
         "display_name": "上证指数",
         "stance": "偏上行",
-        "rationale": "上证指数当前价 3979.89，明显高于 SMA20（3932.78）和 SMA50（3935.46），虽仍略低于 SMA200（4011.75），但短期均线已呈多头支撑；RSI14 为 57.4，偏强但未超买；MACD 红柱（DIFF 11.04，DEA 1.95，柱 9.08），处于多头区间；5 日涨幅 2.33%，52 周低点上涨 19.43%，技术面偏上行。"
+        "rationale": "上证指数当前报3979.89点，近5日上涨2.33%，价格高于SMA20（3932.78）和SMA50（3935.46），且MACD柱为正（11.0358），DIFF线位于信号线上方，显示短期动量偏强。RSI14为57.4，处于正常偏强区间，未进入超买。但价格仍低于SMA200（4011.75），且距52周高点回落6.55%，中长期趋势尚未完全修复。"
       },
       {
-        "symbol": "sh510500",
-        "display_name": "中证500ETF",
-        "stance": "中性",
-        "rationale": "中证500ETF 现价 7.88，略低于 SMA20（7.93）和 SMA200（7.94），但高于 52 周低点 45.35%；RSI14 为 48.9，接近 50 中枢，无明显超买超卖；MACD 虽显示金叉，但柱体为负（DIFF -0.0161，DEA -0.0284，柱 -0.0123），动能尚未转正；5 日涨 2.01%，多空交织，技术面中性。"
+        "symbol": "sz399006",
+        "display_name": "创业板指",
+        "stance": "偏下行",
+        "rationale": "创业板指报3393.43点，近1日下跌1.32%，价格低于SMA20（3522.46）、SMA50（3672.41）和SMA200（3499.23），均线呈空头排列。RSI14为42.2，处于弱势区。MACD柱为负（-57.3362），且DIFF低于信号线，下行动量延续。距52周低点虽有71.24%涨幅，但近5日微跌0.12%，走势短期承压。"
+      },
+      {
+        "symbol": "sz159915",
+        "display_name": "创业板ETF",
+        "stance": "偏下行",
+        "rationale": "创业板ETF报3.41元，近1日下跌1.27%，价格低于SMA20（3.54）、SMA50（3.69）和SMA200（3.5），均线空头排列。RSI14为41.9，为候选中最低之一，显示卖压偏重。MACD柱为负（-0.0582），DIFF在信号线下方，无金叉信号，短期下行趋势明确。近5日微跌0.2%，与创业板指走势一致。"
       },
       {
         "symbol": "sh600519",
         "display_name": "贵州茅台",
         "stance": "中性",
-        "rationale": "贵州茅台现价 1299.56，介于 SMA50（1275.16）与 SMA20（1311.17）之间，且低于 SMA200（1344.58），均线结构中性；RSI14 为 49.5，接近 50，多空平衡；MACD 红柱缩小（DIFF 0.7458，DEA 4.8841，柱 -4.14），动能减弱但未转绿；5 日微跌 0.34%，52 周高点回落 16.98%，技术面无明显方向。"
+        "rationale": "贵州茅台报1299.56元，当日持平，近5日微跌0.34%，价格在SMA20（1311.17）下方、SMA50（1275.16）上方，显示短期偏弱但中期仍有支撑。RSI14为49.5，接近50中性线，多空平衡。MACD柱为正（0.7458）但DIFF（0.7458）低于信号线（4.8841），信号偏弱。距52周高回落16.98%，整体呈震荡格局。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告仅基于历史行情数据的技术指标解读，不构成任何投资建议。技术指标存在滞后性，请投资者结合更多信息独立判断，仅供技术指标解读参考。",
+    "risk_caveat": "本报告基于历史行情数据计算的技术指标，仅供参考，不构成任何投资建议。过去走势不代表未来表现，指标信号可能滞后或失真，市场存在不确定性风险，投资者需自行判断并承担决策责任。本内容仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "sh000001",
@@ -420,6 +420,6 @@
         }
       ]
     },
-    "generated_at": "2026-09-01T22:48:34.250Z"
+    "generated_at": "2026-09-02T00:01:24.116Z"
   }
 }

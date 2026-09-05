@@ -1,129 +1,149 @@
 {
-  "hero_headline": "美军打击伊朗油轮，中东冲突升级",
-  "daily_overview": "今日要闻聚焦三大领域：科技方面，OpenAI推出Daybreak计划，投入10亿美元保护关键服务，并发布GPT-6 Astra模型登顶编程榜单；英伟达拟130亿美元收购Hugging Face，引发开源社区关注。财经方面，美国强劲就业数据推升9月加息预期，特朗普呼吁降息；美军袭击伊朗油轮，油价上涨殃及英国汽油价格。时政方面，美特使与普京会谈超3小时，重启乌克兰和谈；中国退出光州双年展，抗议台湾馆标注不当。",
+  "hero_headline": "美军与伊朗互袭油轮，霍尔木兹冲突再升级",
+  "daily_overview": "今日全球热点集中在美伊军事冲突、OpenAI 十亿美元网络安全投资及美联储加息预期。科技方面，GPT-6 登顶编程榜单，阿里布局循环 Transformer，OpenAI 宣布 Daybreak 计划。财经市场受强劲就业数据影响，9 月加息概率上升，美伊冲突推高油价。时政方面，美俄乌谈判现新动向，特朗普政府与各方互动频繁，中国退出光州双年展引发关注。多领域信号显示全球地缘政治与经济政策进入关键调整期。",
   "tech_briefs": [
     {
-      "title": "OpenAI斥资10亿美元保护关键服务网络",
+      "title": "OpenAI 推出 10 亿美元网络安全计划",
       "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "source": "OpenAI News",
-      "summary": "OpenAI推出Daybreak计划，承诺投入10亿美元，为关键基础设施（如电力、医疗）提供前沿网络AI、培训和支持，以增强网络防御能力。",
+      "summary": "OpenAI 宣布 Daybreak for Frontline Defenders 计划，承诺投入 10 亿美元，扩大前沿网络 AI 工具、培训和支持对关键服务的访问，以保护基础设施免受网络威胁。",
       "importance": 9
     },
     {
-      "title": "GPT-6 Astra登顶编程榜，领先对手35分",
+      "title": "GPT-6 登顶 Code Arena WebDev 榜首",
       "url": "https://aihot.virxact.com/items/cmtoxdsbb032sromz8bcrhsii",
       "source": "AIHOT",
-      "summary": "OpenAI的GPT-6 Astra（Max）在Code Arena WebDev基准测试中以1797分位居第一，领先第二名Claude Fable 5.1达35分，显示其代码生成能力领先。",
+      "summary": "OpenAI 的 GPT-6 Astra（Max）以 1797 分在 Code Arena：WebDev 排名中位列第一，领先第二名 Claude Fable 5.1 达 35 分，显示其在编程任务上的显著优势。",
       "importance": 8
     },
     {
-      "title": "英伟达拟130亿美元收购Hugging Face平台",
-      "url": "https://www.ftchinese.com/story/001110796",
-      "source": "FT中文网",
-      "summary": "英伟达宣布以130亿美元收购开源AI平台Hugging Face，该平台拥有数百万模型和数据集，此前曾拒绝英伟达投资保持独立，此举或重塑开源AI生态（多家报道）。",
+      "title": "谷歌发布 WeatherNext 3 天气 AI 模型",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "source": "DeepMind Blog",
+      "summary": "DeepMind 推出 WeatherNext 3，宣称是其最先进、最准确的全球天气 AI 模型，旨在提升天气预报的精确度和时效性。",
+      "importance": 8
+    },
+    {
+      "title": "伯克利 MIT 开源 FreeToken，RTX 4060 可跑 35B 模型",
+      "url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "summary": "伯克利和 MIT 联合开源 FreeToken，使普通消费级显卡（如 RTX 4060）能以每秒 39 Token 的速度运行 35B 参数大模型，极大降低大模型推理门槛。",
       "importance": 9
     },
     {
-      "title": "FreeToken开源，低配显卡可跑大模型",
-      "url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&utm_medium=article",
-      "source": "InfoQ 中文",
-      "summary": "伯克利和MIT联合开源FreeToken技术，使RTX 4060显卡能以每秒39 Token的速度运行35B参数模型，大幅降低大模型推理门槛。",
-      "importance": 8
+      "title": "GPT-6 带动循环 Transformer，阿里早有布局",
+      "url": "https://www.qbitai.com/2026/09/484726.html",
+      "source": "量子位",
+      "summary": "GPT-6 引发对循环 Transformer 架构的关注，阿里因拥有两篇相关顶会论文而备受瞩目，表明其在新型模型架构上已提前布局。",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "美国就业数据强劲，9月加息预期升温",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-05/jobs-surge-raises-odds-of-september-fed-hike-video",
-      "source": "Bloomberg Markets",
-      "summary": "美国8月非农就业数据超预期，市场对美联储9月加息的押注上升，特朗普则呼吁降息，美银和花旗给出截然相反的预测剧本（多家报道）。",
+      "title": "美国 CPI 数据将决定 9 月是否加息，美银花旗分歧",
+      "url": "https://wallstreetcn.com/articles/3781157",
+      "source": "华尔街见闻",
+      "summary": "下周公布的美国 CPI 数据成为关键。美银与花旗给出相反剧本，分别预测 CPI 将支持或阻止 9 月加息，市场波动加剧。",
+      "importance": 8
+    },
+    {
+      "title": "英伟达 130 亿美元收购开源 AI 平台 Hugging Face",
+      "url": "https://www.ftchinese.com/story/001110796",
+      "source": "FT中文网",
+      "summary": "英伟达以 130 亿美元收购 Hugging Face，该平台拥有数百万个模型和数据集。Hugging Face 去年曾拒绝英伟达的投资，选择保持独立，如今被收购。",
+      "importance": 10
+    },
+    {
+      "title": "美国就业数据强劲，9 月加息预期升温",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "美国 8 月就业数据超预期，加强市场对美联储在 9 月加息的预期。特朗普总统呼吁降息，但经济学家认为数据支持加息。",
       "importance": 9
     },
     {
-      "title": "美军袭击三艘伊朗油轮，油价持续走高",
-      "url": "https://www.ft.com/content/7c7c07db-cde5-474d-9a20-8e2c2f273d4e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "美国中央司令部对三艘伊朗油轮实施打击，作为对伊朗攻击美舰的回应，霍尔木兹海峡冲突升级，英国汽油价格涨至伊朗战争以来最高（多家报道）。",
-      "importance": 9
-    },
-    {
-      "title": "AI岗位潮涌现，但多数企业未见改变",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "source": "The Economist Finance",
-      "summary": "《经济学人》指出，AI对就业的初期影响看似积极，岗位增加，但相关人士称多数企业应用AI后实质未变，质疑其生产力提升效果。",
+      "title": "美伊冲突推高英国油价至伊朗战争以来最高",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "受美伊冲突影响，英国无铅汽油价格升至每升 163 便士，为伊朗战争开始以来的最高水平，反映石油市场持续紧张。",
       "importance": 7
     },
     {
-      "title": "智谱AI产品上架天猫，Token降价引关注",
-      "url": "https://wallstreetcn.com/articles/3781156",
-      "source": "华尔街见闻",
-      "summary": "智谱AI悄然上架天猫平台，业内分析称Token价格持续下降，但AI公司却开始限量供应，反映成本与商业化平衡难题。",
-      "importance": 6
+      "title": "AI 就业潮将至，经济学家称末日预言推迟",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "source": "The Economist Finance",
+      "summary": "《经济学人》分析认为，AI 对就业的初始影响为正面，出现 AI 相关就业增长，“失业末日”预言被推迟，但长期影响仍待观察。",
+      "importance": 8
     }
   ],
   "politics_briefs": [
     {
-      "title": "美特使与普京会谈超3小时，重启乌克兰谈判",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "title": "美伊在海湾互袭船只，冲突再起",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "美国总统特使威特科夫和库什纳在莫斯科与普京会谈，持续超3小时，随后将访问乌克兰。特朗普称带去了结束战争的提案，泽连斯基确认乌方将接待（多家报道）。",
+      "summary": "美国称打击三艘伊朗油轮，伊朗则声称袭击三艘关联美国的船只。双方在霍尔木兹海峡的军事行动升级，结束六个月暂停后冲突复发。（多家报道）",
       "importance": 10
     },
     {
-      "title": "中国退出光州双年展，抗议台湾标注不当",
-      "url": "https://news.artnet.com/art-world/gwangju-biennale-china-pulls-out-plows-ahead-2806903",
-      "source": "Artnet News",
-      "summary": "因光州双年展将台湾标为“自主实体”，中国宣布退出本届展览，台湾方面则表示将继续参展。事件引发艺术界争议（多家报道）。",
-      "importance": 8
+      "title": "美国特使访俄乌，重启和平谈判",
+      "url": "https://www.dw.com/zh/美特使先赴俄再访乌-重启结束战争谈判/a-79047490?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "特朗普派女婿库什纳和商人威特科夫前往莫斯科和基辅，带去结束战争提案。普京在克里姆林宫会见二人，称当前局势“并不容易”。泽连斯基称特使将于周日访乌。（多家报道）",
+      "importance": 10
     },
     {
-      "title": "美军伊朗互袭船只，冲突再度激化",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "美国称其打击了三艘伊朗油轮，伊朗则称袭击了三艘与美国相关的船只。双方在霍尔木兹海峡的报复行动持续，中东局势紧张（多家报道）。",
-      "importance": 9
+      "title": "中国退出光州双年展，台湾参展引争议",
+      "url": "https://www.artforum.com/news/china-withdraws-from-gwangju-biennale-1234758880/",
+      "source": "ARTFORUM",
+      "summary": "中国宣布退出即将举行的光州双年展，指称活动方将台湾视为“自治”实体，台湾方面则继续布展。此事件反映两岸与国际文化交流的紧张。（多家报道）",
+      "importance": 8
     }
   ],
-  "editor_note": "科技巨头动作频频，地缘冲突牵动能源市场，AI对就业影响初现曙光。各方需冷静评估技术价值与风险，避免情绪化预期。",
+  "editor_note": "今日焦点集中于地缘冲突与科技投资并行。美伊冲突升级影响能源市场，而 AI 领域大额投资与开源创新同步推进，凸显技术竞争与安全博弈交织的复杂局面。",
   "keywords": [
-    "AI",
-    "美联储",
-    "中东冲突",
-    "英伟达",
-    "乌克兰",
+    "美伊冲突",
     "OpenAI",
-    "就业数据",
-    "台湾"
+    "GPT-6",
+    "英伟达",
+    "美联储加息",
+    "乌克兰谈判",
+    "AI就业",
+    "光州双年展"
   ],
   "trading": {
-    "market_overview": "A股三大指数今日集体收跌，上证指数报3930.12跌0.30%，深证成指与创业板指跌幅更深，分别跌0.79%与0.78%，且当日成交额两市合计超2万亿元。技术面上，主要指数多数承压：深证成指、创业板指与科创50均运行于SMA20与SMA50下方，且MACD均为绿柱（macd低于信号线），其中深证成指与科创50已现MACD死叉，整体动量偏弱。沪深300走势尤为疲弱，已形成死叉(SMA50↓SMA200)及MACD死叉，并呈空头排列，趋势定为bearish。ETF方面全线下行，与指数走势同步，多数伴有MACD死叉。个券贵州茅台逆势上扬，收涨2.40%，RSI(14)为58.5，价格站上SMA20与SMA50，但未破SMA200，短期动能偏正。整体而言，指数与ETF技术面偏空，个股存在结构性亮点。",
+    "market_overview": "今日A股三大指数集体收跌，上证指数报3930.12点（-0.30%），深证成指报13516.97点（-0.79%），创业板指报3286.55点（-0.78%）。主要指数均处于SMA20与SMA50下方，技术面整体偏弱。上证指数RSI为49.9，MACD柱为正但接近零轴，趋势中性；深证成指、创业板指、科创50及沪深300均现MACD死叉，沪深300更出现空头排列（SMA50下穿SMA200），下行信号明确。ETF板块与对应指数同步走弱，中证500ETF、科创50ETF、创业板ETF均保持死叉状态。个股方面，贵州茅台逆势上行，RSI为58.5，站上SMA20与SMA50，技术面相对强势，但整体市场仍以调整为主。",
     "watchlist": [
       {
         "symbol": "sh000300",
         "display_name": "沪深300",
         "stance": "偏下行",
-        "rationale": "现价4548.05，低于SMA20(4624.22)、SMA50(4682.95)与SMA200(4697.29)，呈空头排列；近期出现死叉(SMA50下穿SMA200)与MACD死叉，macd为-32.50低于信号线-29.05，绿柱显著；RSI(14)为41.6，为偏弱但未超卖；较52周高点回落10.19%，近5日跌1.33%。技术setup明确偏下行。"
+        "rationale": "当前价4548.05，低于SMA20（4624.22）、SMA50（4682.95）及SMA200（4697.29），呈现空头排列；MACD柱为-32.50，信号线-29.05，MACD死叉确认；RSI为41.6，处于中性偏弱区域；近5日下跌1.33%，52周高点回撤10.19%，技术信号偏空。"
       },
       {
         "symbol": "sz399006",
         "display_name": "创业板指",
         "stance": "偏下行",
-        "rationale": "现价3286.55，大幅低于SMA20(3487.33)及SMA200(3501.18)，距SMA50(3614.28)更远；RSI(14)为37.4，已接近超卖区；MACD绿柱加长，macd为-76.60，信号线-62.26，动量持续走弱；近5日跌4.03%，较52周高点回撤24.97%；虽处于52周低点上方65.85%，但短期趋势承压明显。"
+        "rationale": "当前价3286.55，远低于SMA20（3487.33）和SMA50（3614.28），且跌破SMA200（3501.18）；RSI为37.4，接近超卖区；MACD柱为-76.60，持续为负且无收敛迹象；近5日大跌4.03%，52周高点回撤24.97%，整体动量明显偏弱。"
+      },
+      {
+        "symbol": "sz399001",
+        "display_name": "深证成指",
+        "stance": "偏下行",
+        "rationale": "当前价13516.97，低于SMA20（14047.15）、SMA50（14330.83）和SMA200（14321.09），价格处于所有主要均线下方；MACD已出现死叉，MACD柱为-177.28，负值扩大；RSI为39.2，偏弱；近5日下跌3.13%，52周高点回撤17.45%，技术面维持下行结构。"
       },
       {
         "symbol": "sh600519",
         "display_name": "贵州茅台",
         "stance": "偏上行",
-        "rationale": "现价1330，高于SMA20(1311.28)与SMA50(1283.04)，仅低于SMA200(1343.22)约0.98%；RSI(14)升至58.5，动量偏强；MACD为2.357虽略低于信号线3.021，但仍为正，且近1日大涨2.40%、近5日涨2.51%，为当日少数逆势上行标的；距52周高点回撤仅13.64%，为组内相对强势。"
+        "rationale": "当前价1330，高于SMA20（1311.28）和SMA50（1283.04），距SMA200（1343.22）仅一步之遥；RSI为58.5，中性偏强；MACD柱为2.36，虽信号线稍高（3.02）但柱状为正；近1日涨2.4%，近5日涨2.51%，在普跌环境中量价配合良好，短线技术状态偏多。"
       },
       {
-        "symbol": "sh588000",
-        "display_name": "科创50ETF",
+        "symbol": "sh000001",
+        "display_name": "上证指数",
         "stance": "中性",
-        "rationale": "现价1.67，介于SMA200(1.65)与SMA20(1.77)、SMA50(1.89)之间，价格已回落至长期均线附近；RSI(14)为39.1，处于弱势区间但未超卖；MACD呈死叉且绿柱扩大，macd为-0.0414低于信号线-0.0391；近1日跌2.06%、近5日跌5.01%，弹性较大；由于SMA200仍提供支撑，短期方向不明，故中性。"
+        "rationale": "当前价3930.12，接近SMA20（3937.52）和SMA50（3926.56），低于SMA200（4010.72）；RSI为49.9，处于50以下中性区；MACD柱为8.22，信号线为5.53，柱状为正但未能持续扩张；近1日微跌0.3%，近5日跌0.56%，多空信号交织，方向不明。"
       }
     ],
-    "risk_caveat": "以上解读基于公开行情数据计算的技术指标，仅供技术指标解读参考，不代表任何投资建议。过去走势不代表未来表现，市场存在不确定性，请投资者自行判断并注意风险。",
+    "risk_caveat": "以上技术指标解读基于当前数据，过去走势不代表未来表现，仅供技术指标解读参考，不构成任何投资建议。市场存在不确定性，实际走势可能偏离技术信号。",
     "tickers": [
       {
         "symbol": "sh000001",
@@ -416,6 +436,6 @@
         }
       ]
     },
-    "generated_at": "2026-09-05T22:51:57.595Z"
+    "generated_at": "2026-09-05T23:13:08.533Z"
   }
 }

@@ -1,0 +1,453 @@
+{
+  "hero_headline": "苹果发折叠屏iPhone，OpenAI突破纳维-斯托克斯",
+  "daily_overview": "今日科技与财经界迎来多项重磅消息。苹果发布首款折叠屏iPhone，起售价15999元，由AI参与设计，成为近20年最大设计变革。OpenAI宣布其代理系统在88小时内解决纳维-斯托克斯方程，有望斩获千禧年大奖，引发学界争议，同时AI安全专家Paul Christiano加入公司董事会。金融市场方面，受地缘冲突影响，布伦特原油突破每桶101美元，美股三连跌，全球债券市场遭抛售，英国长期借款成本创1998年来新高。时政领域，美国对伊朗相关实体实施新制裁，并摧毁五艘伊朗油轮，中东局势持续紧张。",
+  "tech_briefs": [
+    {
+      "title": "苹果发布首款折叠屏iPhone，售价15999元起",
+      "url": "https://www.qbitai.com/2026/09/486450.html",
+      "source": "量子位",
+      "summary": "苹果在秋季发布会上推出首款折叠屏iPhone，采用AI参与设计，起售价15999元，系近20年来iPhone首次重大设计变革。（多家报道）",
+      "importance": 10
+    },
+    {
+      "title": "OpenAI动用万名代理求解纳维-斯托克斯方程",
+      "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "source": "Latent Space",
+      "summary": "OpenAI在88小时内动用约1万代理和1300亿token，耗资超4000万美元，报告发现纳维-斯托克斯方程奇点，或成第二个千禧年大奖，引发学界争议。（多家报道）",
+      "importance": 10
+    },
+    {
+      "title": "DeepMind发布AlphaGenome图谱，预测90亿基因变异",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "source": "DeepMind Blog",
+      "summary": "AlphaGenome Atlas绘制人类基因组中90亿个单碱基DNA变异的分子效应图谱，为疾病研究和精准医疗提供重要工具。该项目覆盖所有可能的单字母改变，体现了AI在基因组学的重大应用。",
+      "importance": 8
+    },
+    {
+      "title": "GitHub热榜项目助ADHD用户优化AI交互输出",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "source": "GitHub Trending",
+      "summary": "开源项目i-have-adhd旨在阻止编码智能体在输出中掩埋答案，通过为ADHD用户定制简洁、直接的回复格式，提升信息获取效率。该项目利用提示词工程优化交互体验。",
+      "importance": 4
+    },
+    {
+      "title": "Recursive自我改进新论文：NeoHorse-1系统",
+      "url": "https://huggingface.co/papers/2609.08183",
+      "source": "HuggingFace Trending Papers",
+      "summary": "论文NeoHorse-1提出通过路由机制进行智能体后训练，实现递归自我改进。系统能观察自身能力并转化为下一轮学习，为AI自主进化提供新框架。",
+      "importance": 5
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "油价破百、美股三连跌，全球债券遭抛售",
+      "url": "https://wallstreetcn.com/articles/3781389",
+      "source": "华尔街见闻",
+      "summary": "布伦特原油升破每桶101美元，美股三大股指连续第三日下跌，美债收益率全线走高，市场等待通胀数据。Meta逆势上涨6%。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "英国长期借款成本升至1998年以来最高",
+      "url": "https://www.ftchinese.com/story/001110832",
+      "source": "FT中文网",
+      "summary": "英国30年期国债发行定价收益率高达5.82%，年度债务利息支出达1100亿英镑，超过国防、内政与司法部开支总和，财政压力凸显。",
+      "importance": 8
+    },
+    {
+      "title": "中美贸易摩擦：经济学家批特朗普关税越权",
+      "url": "https://wallstreetcn.com/articles/3781447",
+      "source": "华尔街见闻",
+      "summary": "耶伦等近50名经济学家联署，指特朗普援引“国际收支”条款征收全球关税属越权行为，引发对法律边界与贸易政策影响的大辩论。",
+      "importance": 7
+    },
+    {
+      "title": "洛杉矶港创三个月货运纪录，旺季延长",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/port-of-la-hits-three-month-record-as-cargo-peak-stretches-on",
+      "source": "Bloomberg Markets",
+      "summary": "洛杉矶港完成有史以来最繁忙的三个月，早旺季延至八月，进口商应对关税变化与极端天气，显示供应链压力持续。",
+      "importance": 6
+    },
+    {
+      "title": "Citadel证券吁SEC监管预测市场合约",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/citadel-securities-urges-sec-to-take-oversight-of-some-wagers",
+      "source": "Bloomberg Markets",
+      "summary": "Citadel证券向监管机构表示，涉及上市公司的预测市场合约应由SEC监管，而非现任机构，引发金融创新与监管边界讨论。",
+      "importance": 5
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "美军摧毁五艘伊朗油轮，中东冲突升级",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+      "source": "NPR World",
+      "summary": "美国军方表示已摧毁五艘伊朗油轮，相关冲突持续升级。同时，美国对土耳其、哈萨克及马来西亚企业实施新制裁，涉及伊朗航空业务。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "特朗普称与普京对话顺利，美欲重启俄乌谈判",
+      "url": "https://finance.sina.com.cn/world/2026-09-10/doc-inirhvxe7958268.shtml",
+      "source": "新浪财经",
+      "summary": "特朗普表示与普京进行“很棒的对话”，称俄方“想达成协议”，美国特使寻求开启新一轮谈判以结束俄乌冲突，但双方袭击仍持续。",
+      "importance": 8
+    },
+    {
+      "title": "欧盟公布公共采购新规，强调“欧洲优先”",
+      "url": "https://www.dw.com/zh/欧洲优先-：欧盟公布公共采购新规/a-79202934?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "欧盟提出新规，鼓励成员国政府合同招标优先选择本国企业，以对抗中国竞争者，旨在扶持欧洲关键产业，提升战略自主。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "AI突破与地缘动荡交织，油市与债市承压，苹果押注折叠屏，各方在变局中寻求新平衡。",
+  "keywords": [
+    "苹果折叠屏",
+    "OpenAI",
+    "纳维-斯托克斯",
+    "油价破百",
+    "全球债市",
+    "中东冲突",
+    "AI安全",
+    "欧盟采购新规"
+  ],
+  "trading": {
+    "market_overview": "A股三大指数今日呈现分化态势，上证指数收于3951.51，上涨0.28%，略高于20日和50日均线（3936.39/3917.44），MACD柱仍为正值（7.37），显示短中期动量偏多，但RSI为53.4处于中性区间；深证成指和创业板指分别下跌或持平，深证成指收于13723.32，价格低于所有主要均线，且MACD为负（-160.41），出现50日与200日均线死叉和空头排列，技术面偏弱；创业板指虽跌0.14%，但5日累计上涨1.29%，整体仍处于下跌趋势中。ETF方面，宽基ETF多呈现空头排列，如沪深300ETF、中证500ETF均跌破主要均线；科创50ETF和创业板ETF也承压，MACD均为负值。个券方面，贵州茅台跌1.41%，价格略高于50日均线（1289.89），但低于200日均线（1341.62），MACD柱为正但信号线仍在上方，显示中性。整体看，主要指数和ETF多数处于调整或下行结构中，仅上证指数和科创50指数表现相对抗跌，但板块间分化明显，技术面整体偏防守。",
+    "watchlist": [
+      {
+        "symbol": "sz399001",
+        "display_name": "深证成指",
+        "stance": "偏下行",
+        "rationale": "深证成指现价13723.32，低于20日、50日和200日均线（13957.68/14192.10/14327.43），呈空头排列；MACD为-160.41，信号线-154.16，绿柱扩大，显示下行动量持续；RSI为44.4，反映弱势但未超卖；5日累计上涨0.82%未能扭转趋势。技术指标综合显示中期偏空，存在进一步下探压力。"
+      },
+      {
+        "symbol": "sh000300",
+        "display_name": "沪深300",
+        "stance": "偏下行",
+        "rationale": "沪深300现价4572.60，跌破20日、50日及200日均线（4606.70/4659.77/4695.94），空头排列明确；MACD为-30.05，信号线-29.93，处于零轴下方，死叉状态延续；RSI为45，处于偏弱区间。尽管短期上涨0.30%，但均线压力及负动量指标暗示技术面整体承压，下行倾向明显。"
+      },
+      {
+        "symbol": "sh510500",
+        "display_name": "中证500ETF",
+        "stance": "偏下行",
+        "rationale": "中证500ETF现价7.79，明显低于20日、50日和200日均线（7.87/7.92/7.96），空头排列；MACD为-0.0436，信号线-0.0379，出现MACD死叉且绿柱动能减弱但仍为负；RSI为46.9，表明反弹力度不足；52周高点回撤14.97%，技术指标显示弱势整理，维持下行倾向。"
+      },
+      {
+        "symbol": "sh510300",
+        "display_name": "沪深300ETF",
+        "stance": "偏下行",
+        "rationale": "沪深300ETF现价4.64，低于20日、50日和200日均线（4.67/4.72/4.72），均线系统呈空头排列；MACD为-0.0272，信号线-0.0264，仍处于零轴下方，表明空头动能持续；RSI为44.8，反映市场情绪偏弱。尽管1日微涨0.28%，但技术指标整体指向下行修复未完成，支撑有限。"
+      },
+      {
+        "symbol": "sh510300",
+        "display_name": "沪深300ETF",
+        "stance": "中性",
+        "rationale": "沪深300ETF现价4.64，位于20日、50日和200日均线（4.67/4.72/4.72）下方，但偏离幅度较小（约0.6%-1.7%），未形成深度超卖；RSI为44.8，处于中性偏弱区域；MACD为-0.0272，虽在零轴下方，但柱状图绝对值小，显示动量趋于平衡。综合来看，短期方向不明显，处于多空博弈的盘整状态。"
+      }
+    ],
+    "risk_caveat": "过去走势不代表未来表现，本报告仅为客观技术指标解读，不构成任何投资建议。指标信号具有滞后性和多解性，实际行情可能受外部因素影响而偏离，仅供技术分析参考。",
+    "tickers": [
+      {
+        "symbol": "sh000001",
+        "displayName": "上证指数",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 3951.51,
+        "pct1Day": 0.2781337630533818,
+        "pct5Day": 0.2567622082564868,
+        "pct52WeekHigh": -7.216719967315184,
+        "pct52WeekLow": 18.575299550786365,
+        "sma20": 3936.3850000000048,
+        "sma50": 3917.443400000001,
+        "sma200": 4009.7439500000014,
+        "rsi14": 53.38550575303912,
+        "macd": 7.371160891020281,
+        "macdSignal": 6.307586522811073,
+        "macdHistogram": 1.063574368209208,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "sz399001",
+        "displayName": "深证成指",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SZSE",
+        "currentPrice": 13723.32,
+        "pct1Day": 0.14675393575666273,
+        "pct5Day": 0.8211408693352369,
+        "pct52WeekHigh": -16.18844975149658,
+        "pct52WeekLow": 37.92087347514709,
+        "sma20": 13957.675999999998,
+        "sma50": 14192.104400000026,
+        "sma200": 14327.426599999995,
+        "rsi14": 44.413921016823394,
+        "macd": -160.41405853291144,
+        "macdSignal": -154.1598346863801,
+        "macdHistogram": -6.254223846531346,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "death-cross",
+            "label": "死叉(SMA50↓SMA200)",
+            "daysAgo": 2
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sz399006",
+        "displayName": "创业板指",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SZSE",
+        "currentPrice": 3354.97,
+        "pct1Day": -0.1413808293548272,
+        "pct5Day": 1.2900635219670078,
+        "pct52WeekHigh": -23.4096808289635,
+        "pct52WeekLow": 69.30013574409462,
+        "sma20": 3458.5784999999996,
+        "sma50": 3560.146399999999,
+        "sma200": 3504.566100000001,
+        "rsi14": 42.97160363165879,
+        "macd": -67.30148443308326,
+        "macdSignal": -65.52598007918617,
+        "macdHistogram": -1.775504353897091,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "sh000688",
+        "displayName": "科创50",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 1580.06,
+        "pct1Day": -0.6876178504085515,
+        "pct5Day": -2.3207220573689393,
+        "pct52WeekHigh": -29.938587739718436,
+        "pct52WeekLow": 65.9151764619407,
+        "sma20": 1655.4210000000007,
+        "sma50": 1755.649800000001,
+        "sma200": 1567.2978499999992,
+        "rsi14": 40.25336496116876,
+        "macd": -40.689305913296266,
+        "macdSignal": -38.31535906011495,
+        "macdHistogram": -2.373946853181316,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 3
+          }
+        ]
+      },
+      {
+        "symbol": "sh000300",
+        "displayName": "沪深300",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 4572.6,
+        "pct1Day": 0.3040313770910511,
+        "pct5Day": 0.5417813701088032,
+        "pct52WeekHigh": -9.708605583825507,
+        "pct52WeekLow": 19.48012584006607,
+        "sma20": 4606.698999999991,
+        "sma50": 4659.7675999999965,
+        "sma200": 4695.944100000002,
+        "rsi14": 45.02496948469351,
+        "macd": -30.052391516833268,
+        "macdSignal": -29.93343398088637,
+        "macdHistogram": -0.11895753594689751,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "death-cross",
+            "label": "死叉(SMA50↓SMA200)",
+            "daysAgo": 4
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh510300",
+        "displayName": "沪深300ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 4.637,
+        "pct1Day": 0.2811418685121086,
+        "pct5Day": 0.3679653679653563,
+        "pct52WeekHigh": -8.989205103042202,
+        "pct52WeekLow": 24.617038430529416,
+        "sma20": 4.670799999999999,
+        "sma50": 4.715860000000004,
+        "sma200": 4.716550000000001,
+        "rsi14": 44.81931068673197,
+        "macd": -0.02723897674459952,
+        "macdSignal": -0.026376287646979697,
+        "macdHistogram": -0.0008626890976198218,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "death-cross",
+            "label": "死叉(SMA50↓SMA200)",
+            "daysAgo": 0
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh510500",
+        "displayName": "中证500ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 7.785,
+        "pct1Day": -0.0385208012326671,
+        "pct5Day": 0.4386530770223172,
+        "pct52WeekHigh": -14.973787680209702,
+        "pct52WeekLow": 43.58170416820363,
+        "sma20": 7.8720500000000015,
+        "sma50": 7.924520000000005,
+        "sma200": 7.956795,
+        "rsi14": 46.87950900134968,
+        "macd": -0.043603153679868,
+        "macdSignal": -0.03788183252728796,
+        "macdHistogram": -0.00572132115258004,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "death-cross",
+            "label": "死叉(SMA50↓SMA200)",
+            "daysAgo": 1
+          },
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 4
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh588000",
+        "displayName": "科创50ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 1.671,
+        "pct1Day": -0.5948839976204645,
+        "pct5Day": -2.166276346604211,
+        "pct52WeekHigh": -30.0836820083682,
+        "pct52WeekLow": 66.93306693306695,
+        "sma20": 1.7477,
+        "sma50": 1.8553600000000001,
+        "sma200": 1.6524899999999996,
+        "rsi14": 40.429493038300436,
+        "macd": -0.042538750802116665,
+        "macdSignal": -0.040395606751420794,
+        "macdHistogram": -0.0021431440506958707,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 3
+          }
+        ]
+      },
+      {
+        "symbol": "sz159915",
+        "displayName": "创业板ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SZSE",
+        "currentPrice": 3.373,
+        "pct1Day": -0.08886255924169638,
+        "pct5Day": 1.139430284857579,
+        "pct52WeekHigh": -23.253697383390204,
+        "pct52WeekLow": 72.44376278118611,
+        "sma20": 3.477200000000007,
+        "sma50": 3.5814799999999978,
+        "sma200": 3.5062800000000003,
+        "rsi14": 42.70571724858378,
+        "macd": -0.06827765908107963,
+        "macdSignal": -0.06633445962429992,
+        "macdHistogram": -0.0019431994567797178,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      },
+      {
+        "symbol": "sh600519",
+        "displayName": "贵州茅台",
+        "group": "stock",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 1290.88,
+        "pct1Day": -1.406858626747105,
+        "pct5Day": -0.5102119460500879,
+        "pct52WeekHigh": -16.17531701792755,
+        "pct52WeekLow": 12.151936125663559,
+        "sma20": 1305.1690000000008,
+        "sma50": 1289.892600000001,
+        "sma200": 1341.6216400000026,
+        "rsi14": 46.164617766155374,
+        "macd": 1.4066150418436791,
+        "macdSignal": 2.68625073578749,
+        "macdHistogram": -1.2796356939438107,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      }
+    ],
+    "ashare_sentiment": {
+      "indices": [
+        {
+          "code": "sh000001",
+          "name": "上证指数",
+          "price": 3951.51,
+          "pctChange": 0.28,
+          "turnoverYuan": 873734900000
+        },
+        {
+          "code": "sz399001",
+          "name": "深证成指",
+          "price": 13723.32,
+          "pctChange": 0.15,
+          "turnoverYuan": 981871740000
+        },
+        {
+          "code": "sz399006",
+          "name": "创业板指",
+          "price": 3354.97,
+          "pctChange": -0.14,
+          "turnoverYuan": 433306580000
+        }
+      ]
+    },
+    "generated_at": "2026-09-09T22:44:06.867Z"
+  }
+}

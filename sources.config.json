@@ -967,5 +967,33 @@
       "en"
     ],
     "notes": "public-apis free keyless museum API — featured artworks strip, not news."
+  },
+  {
+    "id": "jiazazhi",
+    "name": "假杂志",
+    "type": "rss",
+    "url": "http://42.194.206.149:8084/feed/MP_WXS_2399702600.xml",
+    "category": "tech",
+    "subcategory": "art",
+    "lang": "zh",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
+  },
+  {
+    "id": "nowness",
+    "name": "NOWNESS现在",
+    "type": "rss",
+    "url": "http://42.194.206.149:8084/feed/MP_WXS_3073172728.xml",
+    "category": "tech",
+    "subcategory": "art",
+    "lang": "zh",
+    "enabled": true,
+    "locales": [
+      "zh",
+      "en"
+    ]
   }
 ]

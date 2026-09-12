@@ -1,149 +1,149 @@
 {
-  "hero_headline": "Anthropic 呼吁放慢 AI 研发，GPT-6 Astra 已接入 Perplexity",
-  "daily_overview": "今日科技圈最大变量来自 Anthropic：CEO Dario Amodei 公开呼吁行业放慢前沿模型速度，并提出让第三方评估者获得员工级系统访问权限的三步计划，Altman 与马斯克罕见附和；与此同时 OpenAI 的 GPT-6 Astra 已被 Perplexity 用于端到端系统运维，DeepMind 发布覆盖 90 亿个 DNA 单字母变异的 AlphaGenome Atlas。财经方面，SpaceX 将在纳斯达克 100 权重上调，被动资金或带来数十亿美元买盘；沙特石油产量与出口双降、胡塞武装袭击沙特军事设施，油价升至每桶 105 美元，重燃全球债券抛售，拉加德警告价格冲击持续时间更长。时政焦点是红海与也门战事升级，德情报机关指俄罗斯特工参与莱比锡机场未遂袭击，印度主办金砖峰会讨论去美元化与中东议题。",
+  "hero_headline": "AI 圈集体呼吁放慢前沿速度，油价与加息潮夹击全球市场",
+  "daily_overview": "今日科技领域最受关注的是 Anthropic 首席执行官 Dario Amodei 公开呼吁行业放慢前沿模型开发节奏，并提出三步计划，OpenAI 的山姆·奥特曼与马斯克罕见同声支持；同时 Anthropic 披露 Claude 在第三方测试中发生多起安全事件，AI 治理议题从实验室走向公开博弈。财经方面，油价升至每桶105美元重燃全球债券抛售，G7 加息潮蔓延，市场聚焦美联储主席沃什；沙特石油产量与出口量因胡塞武装威胁双双大幅下降，拉里·埃里森取消75亿美元甲骨文股票出售计划。时政层面，金砖国家第十八次会晤在新德里发表宣言，对单边关税与非关税措施表达严重关切；德国情报机关指认俄罗斯特工参与莱比锡机场未遂袭击，特朗普有关爱尔兰统一的表态打破美国长期中立立场。",
   "tech_briefs": [
     {
-      "title": "Anthropic CEO 呼吁放慢 AI 研发并公布三步计划",
+      "title": "Anthropic 呼吁放慢 AI 前沿开发速度并公布三步计划",
       "url": "https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w",
       "source": "AIHOT",
-      "summary": "Dario Amodei 发文《We Must Pace the Frontier》，主张行业放慢速度，Anthropic 单方面承诺为第三方评估者提供员工级系统访问权限，以核实安全措施并评估训练期对齐情况。（多家报道）",
+      "summary": "Anthropic 首席执行官 Dario Amodei 发文主张 AI 行业应放慢前沿速度，提出三步计划，并承诺为第三方评估者提供员工级系统访问权限，以核实安全措施与模型对齐情况。OpenAI 的奥特曼与马斯克亦表态支持其放缓呼吁。（多家报道）",
       "importance": 9
     },
     {
-      "title": "Perplexity 采用 GPT-6 Astra 实现端到端系统运维",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI News",
-      "summary": "Perplexity 使用 Astra 撰写通信内容、修改软件并监控生产系统，检查频率较此前模型大幅降低，显示代理在真实工程流程中的自主性提升。",
-      "importance": 8
-    },
-    {
-      "title": "DeepMind 发布 AlphaGenome Atlas 预测全基因组变异",
+      "title": "DeepMind 发布 AlphaGenome Atlas 全基因组变异预测图谱",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "source": "DeepMind Blog",
-      "summary": "该图谱覆盖人类基因组 90 亿个单字母 DNA 变异的分子效应，为遗传病研究和药物靶点发现提供可查询的预测地图。",
+      "summary": "AlphaGenome Atlas 绘制了人类基因组中约90亿个单字母 DNA 变异的分子效应预测图，有望帮助研究人员更快判断基因变异的潜在影响，推动遗传病与药物靶点研究。",
       "importance": 8
     },
     {
-      "title": "浏览器间谍卫星模拟器 Gods Eye View 登 GitHub 热榜",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "source": "GitHub Trending",
-      "summary": "该项目在三维逼真地球上叠加真实开源空间情报数据，用户可像操作间谍卫星一样浏览实时地理信息，技术栈涉及 WebGL 与地理空间数据管道，适合关注 OSINT 可视化的人。",
-      "importance": 6
+      "title": "Perplexity 采用 GPT-6 Astra 承担端到端系统任务",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI News",
+      "summary": "Perplexity 使用 Astra 撰写沟通内容、修改软件并监控生产系统，检查频率较此前模型大幅降低，显示 AI 代理在真实业务系统中的自主性进一步提升。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "T1：面向终端长周期任务的混合专家智能体模型",
+      "title": "终端代理强化学习模型 T1 发布，总参数 122B",
       "url": "https://huggingface.co/papers/2609.11042",
       "source": "HuggingFace Trending Papers",
-      "summary": "T1 为 122B 总参数的 MoE 模型，针对终端操作等长周期任务强化学习训练，旨在让智能体在编码与科学发现场景中完成多步骤操作。",
+      "summary": "T1 是面向长周期终端任务的混合专家模型，总参数122B，针对编码与科学发现等场景优化。研究表明代理使用正从短指令转向长周期任务，终端环境成为关键测试场。",
       "importance": 7
+    },
+    {
+      "title": "浏览器间谍卫星模拟器 gods-eye-view 登上 GitHub 热榜",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "source": "GitHub Trending",
+      "summary": "该项目在浏览器中构建写实3D地球，叠加实时开源空间情报数据，让用户像操作间谍卫星一样查看真实地理信息。它降低了空间情报分析工具的使用门槛，技术栈涉及三维渲染与公开数据流整合。",
+      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "SpaceX 将在纳斯达克 100 权重上调",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
-      "source": "Bloomberg Markets",
-      "summary": "本月晚些时候的指数再平衡将提高 SpaceX 在纳斯达克 100 中的权重，追踪该基准的被动基金可能因此产生数十亿美元级别的买盘。",
+      "title": "油价涨至每桶105美元 全球债券抛售潮重燃",
+      "url": "https://www.ftchinese.com/story/001110857",
+      "source": "FT中文网",
+      "summary": "油价最新涨势为债券抛售增添动力，投资者押注能源涨价将引发全球通胀飙升。欧洲央行已于周四决定加息以遏制通胀，市场对进一步紧缩的预期升温。",
+      "importance": 9
+    },
+    {
+      "title": "金砖国家新德里宣言 严重关切单边关税措施",
+      "url": "https://wallstreetcn.com/livenews/3164371",
+      "source": "华尔街见闻",
+      "summary": "金砖国家领导人第十八次会晤发表新德里宣言，对单边关税和非关税措施上升表示严重关切，认为其扭曲贸易并违反 WTO 规则，谴责违背国际法的单边强制措施与次级制裁。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "沙特石油产量与出口量双双大幅下降",
+      "url": "https://www.ftchinese.com/story/001110859",
+      "source": "FT中文网",
+      "summary": "伊朗支持的也门胡塞武装加入中东冲突，对红海沙特石油出口运输构成威胁，并对沙特石油设施发起袭击，导致沙特石油产量和出口量双双大幅下降。",
       "importance": 8
     },
     {
-      "title": "胡塞武装打击沙特设施，沙特石油产量出口双降",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrpan4777922.shtml",
-      "source": "新浪财经",
-      "summary": "胡塞武装称使用大量弹道导弹和无人机打击沙特谢拉拉地区军事基地武器库；此前沙特石油产量和出口量已双双大幅下降，红海运输受威胁。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "油价升至每桶 105 美元，全球债券抛售重燃",
-      "url": "https://www.ftchinese.com/story/001110857",
-      "source": "FT中文网",
-      "summary": "油价最新涨势为债券抛售增添动力，投资者押注能源涨价将推高全球通胀，欧洲央行此前已决定加息以遏制通胀。",
-      "importance": 9
-    },
-    {
-      "title": "拉里·埃里森取消 75 亿美元甲骨文股票出售",
+      "title": "拉里·埃里森取消75亿美元甲骨文股票出售计划",
       "url": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "在提交文件披露拟于 10 月底前出售最多 5000 万股后仅一天，甲骨文创始人埃里森改变了这一售股计划。",
+      "summary": "甲骨文创始人埃里森取消原定出售至多5000万股、价值75亿美元的计划，前一天文件刚披露该出售意向。此举或与市场环境及公司股价波动有关。",
       "importance": 7
     },
     {
-      "title": "拉加德：价格冲击将持续更久，AI 领域估值非常高",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrpak7996680.shtml",
-      "source": "新浪财经",
-      "summary": "欧洲央行行长拉加德表示欧元区通胀将在一段时间内维持高位，中东冲突仍在持续；她同时指出 AI 领域估值非常高。",
-      "importance": 8
+      "title": "SpaceX 将在纳斯达克100再平衡中获权重提升",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
+      "source": "Bloomberg Markets",
+      "summary": "SpaceX 将在本月晚些时候获得纳斯达克100指数更高权重，可能触发挂钩该基准的被动基金数十亿美元买入。",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "德情报机关：俄特工参与莱比锡机场未遂袭击",
+      "title": "德国情报机关指俄罗斯特工参与莱比锡机场未遂袭击",
       "url": "https://www.dw.com/zh/德情报机关：俄罗斯特工参与对莱比锡机场的未遂袭击/a-79245879?maca=chi-rss-chi-all-1127-rdf",
       "source": "DW 中文",
-      "summary": "德情报机关内部报告指出，一名俄罗斯籍特工和一名白俄罗斯公民在 8 月初袭击前潜入德国，炸药从保加利亚、塞尔维亚偷运入境，目标为莱比锡机场。",
-      "importance": 9
-    },
-    {
-      "title": "黑海首次发生无人水面艇之间的海战",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "summary": "黑海出现首次两艘无人水面艇之间的直接交战，标志着海战形态向无人化对抗进一步演变。",
+      "summary": "德情报机关内部报告指出，一名俄罗斯籍特工和一名白俄罗斯公民在8月初针对莱比锡机场的无人机袭击未遂事件前潜入德国，炸药提前从保加利亚、塞尔维亚偷运入境。",
       "importance": 8
     },
     {
-      "title": "印度主办金砖峰会，中东战事与去美元化成焦点",
-      "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
+      "title": "特朗普称爱尔兰统一将「棒极了」 打破美国长期立场",
+      "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
       "source": "NYT World",
-      "summary": "第 18 届金砖峰会在新德里举行，伊朗与会成为与美国的不同之处；分析认为中东战争正加剧该松散组织内部利益分歧。（多家报道）",
+      "summary": "特朗普表示希望看到爱尔兰统一，称那将「棒极了」，打破美国在1998年和平协议前对北爱问题保持中立的长期立场。此番言论被解读为面向大西洋彼岸听众的政治信号。（多家报道）",
       "importance": 8
+    },
+    {
+      "title": "德国多城数万人游行抗议极右翼选择党",
+      "url": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "德国约20个城市包括柏林、汉堡和慕尼黑爆发数万人游行，抗议者要求取缔极右翼政党德国选择党（AfD）。",
+      "importance": 7
     }
   ],
-  "editor_note": "AI 安全承诺与产品落地同步加速，中东冲突则同时推高油价与债券风险，两条主线正在重塑科技与宏观的定价逻辑。",
+  "editor_note": "今日主线清晰：AI 安全从技术议题升级为产业公开博弈，而油价、加息与地缘冲突正把全球经济推向更紧的约束。",
   "keywords": [
+    "AI 放缓",
     "Anthropic",
-    "GPT-6 Astra",
-    "AlphaGenome",
-    "SpaceX",
     "油价",
-    "红海冲突",
-    "金砖峰会",
-    "AI 安全"
+    "加息潮",
+    "金砖国家",
+    "莱比锡机场",
+    "爱尔兰统一",
+    "债券抛售"
   ],
   "trading": {
-    "market_overview": "A 股三大组技术面整体偏弱。指数组中，上证指数报 3888.11（-1.18%，成交 9582 亿）、深证成指报 13471.26（-1.08%，成交 10137 亿）、创业板指报 3322.04（-0.49%，成交 4577 亿），三者均运行于 SMA20 与 SMA50 下方；深证成指与沪深300 已出现 SMA50 下穿 SMA200 的死叉并呈空头排列，上证指数亦录得 MACD 死叉（1.7964 对信号线 5.4132），RSI14 普遍落在 37.9 至 42.9 的中性偏弱区间。ETF 组与指数高度同步，沪深300ETF、中证500ETF 均呈空头排列并触发死叉，科创50ETF RSI14 低至 37.7，仅创业板ETF 近 5 日微涨 +1.09%、MACD 与信号线近乎粘合，显示局部企稳迹象。个股组样本仅贵州茅台，现价 1275.16 跌破全部均线、近 5 日 -4.12%，技术状态偏弱。整体看，各组普遍处于均线压制与动能收敛状态，尚未见明确转强信号。",
+    "market_overview": "今日A股三大指数集体走弱，上证指数收3888.11点跌1.18%、成交9582亿，深证成指收13471.26点跌1.08%、成交10137亿，创业板指收3322.04点跌0.49%、成交4577亿，量能维持高位但指数重心下移。指数组技术面整体偏空：上证指数MACD死叉且呈空头排列，深证成指与沪深300均触发SMA50下穿SMA200的死叉信号，RSI14集中在37至43的偏弱区间，无一进入超卖。ETF组同步走弱，沪深300ETF、中证500ETF均现死叉与空头排列，科创50ETF、创业板ETF标的围绕零轴附近震荡，MACD柱状体近乎持平，呈弱势整理。个股组贵州茅台近5日跌4.12%并跌破多条均线，空头排列特征明显。整体看，各标的距52周高点普遍回落8%至31%，RSI14多数位于40上下，尚未出现超卖共振，技术面呈弱势整理而非趋势性抛压。",
     "watchlist": [
       {
-        "symbol": "sz399001",
-        "display_name": "深证成指(sz399001)",
-        "stance": "偏下行",
-        "rationale": "现价 13471.26 跌破 SMA20(13879.93)、SMA50(14111.96) 与 SMA200(14331.46)，呈现空头排列，并触发 SMA50 下穿 SMA200 的死叉。RSI14 为 39.6，位于 50 下方；MACD 读数 -174.0759 低于信号线 -159.4878，绿柱延续，动量仍偏弱。距 52 周高点 -17.73%。"
-      },
-      {
-        "symbol": "sh000688",
-        "display_name": "科创50(sh000688)",
-        "stance": "偏下行",
-        "rationale": "现价 1553.39 低于 SMA20(1639.78) 与 SMA50(1738.84)，仅勉强站在 SMA200(1569.35) 下方附近。RSI14 为 37.9，逼近偏弱区间；MACD -43.755 低于信号线 -39.9878，绿柱未收敛。近 1 日 -1.01%、近 5 日 -1.52%，距 52 周高点 -31.12%，回撤幅度居前。"
-      },
-      {
         "symbol": "sh000001",
-        "display_name": "上证指数(sh000001)",
-        "stance": "中性",
-        "rationale": "现价 3888.11 位于 SMA20(3934.8)、SMA50(3912.44)、SMA200(4009.3) 之下，但已触发 MACD 死叉（MACD 1.7964 低于信号线 5.4132），红柱转弱。RSI14 为 42.9，处中性偏弱；距 52 周低点仍有 +16.67% 空间。指标多空信号交织，趋势读数为空头但跌速温和。"
+        "display_name": "上证指数",
+        "stance": "偏下行",
+        "rationale": "现价3888.11点已跌破SMA20（3934.8）与SMA50（3912.44），距SMA200（4009.3）低3.02%，均线呈空头排列。RSI14为42.9偏弱，MACD值1.7964低于信号线5.4132形成死叉，柱状体转负，动能走弱。近1日跌1.18%、近5日跌1.07%，距52周高点回落8.71%，整体技术面偏空。"
       },
       {
-        "symbol": "sz159915",
-        "display_name": "创业板ETF(sz159915)",
+        "symbol": "sz399006",
+        "display_name": "创业板指",
         "stance": "中性",
-        "rationale": "现价 3.34 低于 SMA20(3.45)、SMA50(3.55)、SMA200(3.51)，但近 5 日微涨 +1.09%，为候选中少数录得正 5 日变化的标的。RSI14 为 40.9 处中性偏弱；MACD -0.0668 与信号线 -0.0666 近乎粘合，绿柱几近归零，动量方向尚未明朗，故列为中性。"
+        "rationale": "现价3322.04点位于SMA20（3430.98）与SMA200（3507）下方，但近5日反弹1.08%为候选中最强。RSI14为41.1接近中性区，MACD-66.1364略低于信号线-65.7782，柱状体近乎持平，趋势标记中性且无金叉死叉信号，处于弱势整理状态。"
+      },
+      {
+        "symbol": "sh588000",
+        "display_name": "科创50ETF",
+        "stance": "偏下行",
+        "rationale": "现价1.64元显著低于SMA20（1.73）与SMA50（1.84），距52周高点回落31.42%为候选最弱之一。RSI14仅37.7，接近超卖边缘。MACD-0.0459低于信号线-0.042，绿柱走扩，近1日跌1.21%、近5日跌1.74%，下跌动能持续。"
       },
       {
         "symbol": "sh600519",
-        "display_name": "贵州茅台(sh600519)",
+        "display_name": "贵州茅台",
         "stance": "偏下行",
-        "rationale": "现价 1275.16 低于 SMA20(1298.32)、SMA50(1293.15)、SMA200(1340.21)，构成空头排列。近 5 日下跌 -4.12%，为候选个股中短周期跌幅最大者；MACD -2.3948 亦低于信号线 1.1953，动能转弱。RSI14 为 41.9，处中性略偏弱区间，距 52 周高点 -17.2%。"
+        "rationale": "现价1275.16元跌破SMA20（1298.32）、SMA50（1293.15）与SMA200（1340.21），呈空头排列。MACD值-2.3948大幅低于信号线1.1953，虽未形成标准死叉但红柱转负。近5日跌4.12%为候选最大跌幅，RSI14为41.9，量价形态偏弱。"
+      },
+      {
+        "symbol": "sz159915",
+        "display_name": "创业板ETF",
+        "stance": "中性",
+        "rationale": "现价3.34元低于SMA20（3.45）与SMA50（3.55），RSI14为40.9中性偏弱。MACD-0.0668与信号线-0.0666几乎重合，柱状体接近零轴，趋势标记中性且无金叉死叉信号。近1日跌0.51%，但近5日涨1.09%，呈震荡整理形态。"
       }
     ],
-    "risk_caveat": "本报告仅为技术指标读数与走势形态的客观复述，不构成投资建议；过去走势不代表未来表现，指标信号亦存在滞后，仅供技术指标解读参考。",
+    "risk_caveat": "本报告仅基于公开行情数据计算的技术指标进行客观解读，过去走势不代表未来表现，指标读数亦不构成任何买卖建议或收益承诺。仅供技术指标解读参考，请结合基本面与自身风险承受能力独立判断。",
     "tickers": [
       {
         "symbol": "sh000001",
@@ -446,6 +446,6 @@
         }
       ]
     },
-    "generated_at": "2026-09-12T22:12:19.875Z"
+    "generated_at": "2026-09-12T23:17:44.119Z"
   }
 }

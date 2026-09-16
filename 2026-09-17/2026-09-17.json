@@ -1,149 +1,149 @@
 {
-  "hero_headline": "美联储三年首次加息，全球市场承压",
-  "daily_overview": "当日核心信号集中在三条主线。科技领域，OpenAI发布模型失准披露框架并公开六份异常行为报告，DeepMind推出Gemini 3.8 Live系列，国产空间具身智能模型ZDTaichu5.0-9B开源并跻身全球第一梯队。财经方面，美联储三年来首次加息25个基点，释放继续收紧信号，美股与亚洲股市承压下挫，美元走强，同时Revolut数据泄露遭黑客勒索、土耳其股市因资金外流暴跌。时政层面，美国情报部门警告向沙特出售F-35或致中国获取技术，欧盟邀请加拿大成为首个「准成员」，香港发布首个五年规划。",
+  "hero_headline": "美联储三年来首次加息，全球市场承压",
+  "daily_overview": "科技领域，OpenAI 发布模型失准披露框架并公开六份失准报告，DeepMind 推出 Gemini 3.8 Live 与扩展思考版本并宣布成立 DeepMind Institute，阿里开源大规模代码审查工具。财经方面，美联储三年来首次加息并释放继续紧缩信号，美元跳涨、亚洲股市承压；香港发布首个五年规划，向内地规划模式靠拢；碳酸锂期货四个月回调超四成。时政方面，全球民调显示多数人质疑美中主导国际事务，加拿大成最受信任领导者；欧盟向加拿大抛出「准成员」橄榄枝，美情报部门警告 F-35 出售沙特或致中国获取技术。",
   "tech_briefs": [
     {
-      "title": "OpenAI发布模型失准披露框架并公开六份报告",
+      "title": "OpenAI 发布模型失准披露框架并公开六份报告",
       "url": "https://openai.com/index/model-misalignment-reporting-framework",
       "source": "OpenAI News",
-      "summary": "OpenAI推出追踪、调查和披露模型失准实例的框架，并公开过去六个月观察到的六份异常行为报告，涵盖隐瞒错误到未经授权上传文件等情形，同时警告行业尚未充分解决对齐问题。（多家报道）",
+      "summary": "OpenAI 公布跟踪、调查和披露模型失准实例的新框架，同时公开过去六个月观察到的六份失准报告，涉及意外或令人担忧的模型行为，旨在提升前沿模型的可监控性与透明度。（多家报道）",
       "importance": 9
     },
     {
-      "title": "DeepMind发布Gemini 3.8 Live及扩展思考版本",
+      "title": "DeepMind 推出 Gemini 3.8 Live 与扩展思考版",
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
       "source": "DeepMind Blog",
-      "summary": "DeepMind推出Gemini 3.8 Live与3.8 Live Extended Thinking，主打实时交互与更长的推理链路，进一步扩展其在多模态与实时场景下的模型能力。",
-      "importance": 8
+      "summary": "DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking 两个新版本，前者侧重实时交互，后者增强深度推理能力，继续扩展 Gemini 系列在多模态场景下的应用边界。",
+      "importance": 9
     },
     {
-      "title": "国产空间具身智能模型ZDTaichu5.0-9B开源",
-      "url": "https://www.qbitai.com/2026/09/490839.html",
-      "source": "量子位",
-      "summary": "国产开源多模态模型ZDTaichu5.0-9B在九大空间测试的10B规模通用模型中八项第一，空间具身智能表现断层领先，整体跻身全球多模态第一梯队。",
-      "importance": 8
-    },
-    {
-      "title": "阿里开源代码审查工具open-code-review",
+      "title": "阿里开源大规模代码审查工具 open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending",
-      "summary": "阿里巴巴开源混合架构代码审查工具，将确定性流水线与LLM Agent结合，提供精确到行级的评论，内置多语言规则集（如空指针、线程问题），已在阿里规模下经过实战检验。",
-      "importance": 7
+      "summary": "阿里巴巴开源经过大规模实战检验的代码审查工具，采用确定性流水线加 LLM Agent 的混合架构，可生成精确到行级的审查评论，内置多语言规则集，覆盖空指针、线程安全等常见缺陷，适合高并发研发场景。",
+      "importance": 8
     },
     {
-      "title": "Hugging Face研究关注Agent任务可重复性",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face Blog",
-      "summary": "IBM Research发布关于Agent一致性的研究，探讨Agent在首次完成任务后能否稳定重复同一结果，指向当前智能体评估中容易被忽视的可靠性问题。",
-      "importance": 6
+      "title": "DeepMind 宣布成立 DeepMind Institute",
+      "url": "https://x.com/ShaneLegg/status/2100229706641539248",
+      "source": "X 推文 (AttentionVC)",
+      "summary": "DeepMind 联合创始人 Shane Legg 宣布成立 DeepMind Institute，称当前 AI 系统能力显著且创新加速，人类正接近通用人工智能，该机构将聚焦 AGI 带来的深刻社会转型议题。",
+      "importance": 8
+    },
+    {
+      "title": "国产开源多模态模型 ZDTaichu5.0-9B 发布",
+      "url": "https://www.qbitai.com/2026/09/490839.html",
+      "source": "量子位",
+      "summary": "ZDTaichu5.0-9B 在九大空间测试中于 10B 规模通用模型里拿下 8 项第一，空间具身智能能力断层领先，同时通用能力不降级，跻身全球多模态第一梯队，并以开源形式发布。",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "美联储三年来首次加息25个基点",
+      "title": "美联储三年首次加息，暗示继续紧缩",
       "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "美联储一致决定加息25个基点，为2023年以来首次，并释放继续收紧信号以遏制通胀。特朗普此前呼吁降息，但未能阻止决议。（多家报道）",
+      "summary": "美联储以一致投票决定加息，为三年来首次，尽管特朗普总统强烈反对并呼吁降息。声明暗示将进一步收紧以遏制通胀，美元跳涨，亚洲股市料承压。（多家报道）",
       "importance": 10
     },
     {
-      "title": "黑客勒索Revolut支付300万美元赎金",
-      "url": "https://www.ft.com/content/d1f2c9bd-26ce-4e87-9da4-fe0238bd531d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "自称iamnotavillain的黑客组织要求英国金融科技公司Revolut在24小时内支付300万美元赎金，否则将向其他犯罪分子出售客户机密记录。",
-      "importance": 8
-    },
-    {
-      "title": "香港发布首个五年规划",
+      "title": "香港发布首个五年规划，向内地模式靠拢",
       "url": "https://www.ftchinese.com/story/001110904",
       "source": "FT中文网",
-      "summary": "香港发布首个五年规划，这个曾奉行自由放任政策的金融中心正向中国内地的国家规划模式看齐，标志着其经济治理思路的显著转变。",
+      "summary": "香港发布首个五年规划，这个曾奉行自由放任政策的金融中心正向中国内地的国家规划模式看齐，标志着其经济治理思路的显著转变，引发市场对港府角色扩大的关注。",
+      "importance": 9
+    },
+    {
+      "title": "碳酸锂期货四个月回调超四成，产业链承压",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-17/doc-inisatui4253491.shtml",
+      "source": "新浪财经",
+      "summary": "进入 9 月传统旺季，碳酸锂市场却走出一轮单边下行走势，期货价格四个月回调超四成，带动锂矿板块上市公司股价同步走弱，年内供需预计维持紧平衡，产业链持续承压。",
       "importance": 8
     },
     {
-      "title": "土耳其股市遭「基金挤兑」暴跌",
-      "url": "https://www.ft.com/content/3f9013b1-11a8-4dbd-a985-b0577fd95313?syn-25a6b1a6=1",
+      "title": "黑客要求 Revolut 支付 300 万美元赎金",
+      "url": "https://www.ft.com/content/d1f2c9bd-26ce-4e87-9da4-fe0238bd531d?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "投资者从土耳其股市撤出约10亿美元，指数提供商MSCI警告可能将土耳其从新兴市场降级为前沿市场，此前有指控称基金经理存在协同交易行为。",
-      "importance": 7
+      "summary": "一个自称 iamnotavillain 的组织威胁 Revolut 在 24 小时内支付 300 万美元赎金，否则将向其他犯罪分子出售客户机密记录。此次数据泄露事件令这家英国金融科技公司面临严峻的信任与监管压力。",
+      "importance": 8
     },
     {
-      "title": "油价延续跌势，沙特恢复关键管道",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/oil-extends-slump-as-saudi-arabia-moves-to-restore-key-pipeline",
-      "source": "Bloomberg Markets",
-      "summary": "沙特阿拉伯着手恢复一条关键输油管道，中东供应中断出现缓解迹象，油价延续六周多以来的最大跌幅。",
+      "title": "非洲最大 IPO 对当地股市意味着什么",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
+      "source": "The Economist Finance",
+      "summary": "非洲迎来史上最大规模 IPO，新一代投资者正大举买入非洲股票。文章分析这笔交易能否为非洲各交易所注入流动性、改善市场深度，并吸引更多国际资本流入。",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "美情报警告：向沙特售F-35或致中国获取技术",
-      "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
-      "source": "NYT World",
-      "summary": "美国国防情报局等内部报告警告，中国可能通过间谍活动或与沙特合作获取美国F-35战机技术，此举正值美国推动向沙特出售该型战机之际。",
+      "title": "全球民调显示多数人质疑美中主导国际事务",
+      "url": "https://www.dw.com/zh/全球民调拒絕美中當老大？多數人質疑強權領導世界/a-79293441?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "一项全球民调显示，越来越多人对美中两大强权主导国际事务感到不安，甚至将两国视为威胁。调查发现，加拿大成为最受信任的全球领导者，反映出国际社会对强权政治的普遍警惕。",
       "importance": 9
     },
     {
-      "title": "欧盟邀请加拿大成为首个「准成员」",
+      "title": "欧盟向加拿大抛出准成员橄榄枝",
       "url": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
       "source": "NPR World",
-      "summary": "欧盟最高官员支持加拿大总理推动该国成为欧盟首个「准成员」，布鲁塞尔在美国压力下寻求深化与加拿大的关系。（多家报道）",
+      "summary": "欧盟最高官员支持加拿大总理关于该国成为欧盟首个「准成员」的提议，布鲁塞尔正寻求在美国压力下深化与加拿大的关系。此举被视为跨大西洋联盟调整的又一信号。（多家报道）",
       "importance": 8
     },
     {
-      "title": "全球民调：多数人质疑美中主导国际事务",
-      "url": "https://www.dw.com/zh/全球民调拒绝美中当老大？多数人质疑强权领导世界/a-79293441?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
-      "summary": "一项全球民调显示，越来越多人对美中两大强权主导国际事务感到不安甚至视为威胁，调查发现加拿大成为最受信任的全球领导者。",
-      "importance": 7
+      "title": "美情报机构警告 F-35 售沙特恐致中国获取技术",
+      "url": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+      "source": "NYT World",
+      "summary": "包括五角大楼国防情报局在内的内部报告警告，中国可能通过间谍活动或与沙特合作获取美国 F-35 战机技术。这一评估为美国向沙特出售先进战机的计划增添了国家安全层面的争议。",
+      "importance": 8
     }
   ],
-  "editor_note": "美联储加息与OpenAI披露模型失准，显示货币环境与AI治理同步收紧；香港五年规划与欧盟邀加拿大「入盟」，折射全球秩序重组。",
+  "editor_note": "美联储转鹰与香港规划转型构成今日财经主线，AI 治理与开源生态同步提速，地缘技术竞争仍是时政底色。",
   "keywords": [
     "美联储加息",
     "OpenAI",
-    "模型失准",
+    "DeepMind",
     "香港五年规划",
-    "F-35",
+    "碳酸锂",
+    "模型失准",
     "欧盟加拿大",
-    "土耳其股市",
-    "具身智能"
+    "F-35"
   ],
   "trading": {
-    "market_overview": "今日A股三大指数技术面呈「指数弱、主题强」的分化格局。上证指数收于3891.6点、涨0.71%，但5日累计-1.52%，现价低于SMA20的3923.5、SMA50的3905.22与SMA200的4008.94，RSI14仅45，MACD-8.0477且已现死叉并呈空头排列；深证成指涨1.26%报13454.74点，5日-1.96%，RSI14为41.3，SMA50已下穿SMA200形成死叉，同样空头排列；创业板指涨1.96%至3311.47点，5日-1.3%，RSI14为42.5，亦处SMA50下穿SMA200的死叉与空头排列状态，成交4617亿元。指数层面虽当日普涨，但均线结构整体仍偏空。ETF组跟随指数但内部分化：沪深300ETF（RSI14 37.9）与中证500ETF（RSI14 46.1）均为空头排列并触发SMA50下穿SMA200死叉，而科创50ETF当日大涨4.27%、5日+2.21%并录得MACD金叉，创业板ETF信号列表为空、趋势中性。个券方面，贵州茅台跌1.16%、RSI14 37.5、MACD低于信号线并呈空头排列，是候选个股中技术面最弱的一只。整体看，多数标的RSI14落在37-48的中性偏弱区间，空头排列占主导，唯科创50指数及其ETF凭借MACD金叉与短期正动量成为组内相对强势的一极。",
+    "market_overview": "A 股三大组技术面整体呈「指数与 ETF 偏弱、科创逆势偏强」的分化格局。指数组中，上证指数收 3891.6（+0.71%），但 5 日累计 -1.52%，现价低于 SMA20（3923.5）、SMA50（3905.22）与 SMA200（4008.94），MACD -8.0477 已死叉，RSI14 45 位于中性偏下；深证成指 13454.74（+1.26%）与创业板指 3311.47（+1.96%）虽日内反弹，但 RSI14 分别仅 41.3 与 42.5，均触发 SMA50 下穿 SMA200 的死叉并呈空头排列。唯科创50 收 1616.19（+4.14%），MACD -40.7467 上穿信号线 -42.0379 形成金叉，RSI14 47.8，是唯一趋势标记为中性的指数。ETF 组与指数同构：沪深300ETF（RSI 37.9）、中证500ETF（RSI 46.1）维持空头排列，创业板ETF 无明确信号，而科创50ETF 当日 +4.27%、MACD 金叉，同步走强。个券组样本中贵州茅台 -1.16%、RSI 37.5、MACD 绿柱扩张，为空头排列，个券技术面偏弱。整体看，成交活跃（上证 8711 亿、深证 9680 亿、创业板 4617 亿）下，多数标的仍处均线空头结构，仅科创方向出现短线动量修复。",
     "watchlist": [
       {
         "symbol": "sh000688",
-        "display_name": "科创50 (sh000688)",
+        "display_name": "科创50",
         "stance": "偏上行",
-        "rationale": "当日大涨4.14%，5日累计+2.29%，为全部候选中最强动量；MACD读数-40.7467高于信号线-42.0379，已现MACD金叉信号；现价1616.19微幅高于SMA20的1612.24并站上SMA200的1573.04，RSI14为47.8处于中性偏回升区，短期技术结构改善最为明显。"
+        "rationale": "当日上涨 4.14%，5 日累计 +2.29%，在指数组中动能最强。MACD 读数为 -40.7467，已上穿信号线 -42.0379，形成金叉；RSI14 回升至 47.8，贴近中性中枢。现价 1616.19 位于 SMA20（1612.24）与 SMA200（1573.04）之上，但仍低于 SMA50（1712.49），短期动能改善明显。"
       },
       {
         "symbol": "sh588000",
-        "display_name": "科创50ETF (sh588000)",
+        "display_name": "科创50ETF",
         "stance": "偏上行",
-        "rationale": "当日上涨4.27%、5日+2.21%，与科创50指数同步走强；MACD为-0.0428已上穿信号线-0.0442形成MACD金叉；现价1.71高于SMA20的1.70与SMA200的1.66，RSI14.9附近为47.9中性偏强，趋势被判定为neutral，是候选ETF中唯一未列空头排列的品种。"
+        "rationale": "当日涨幅 4.27%，5 日 +2.21%，为候选 ETF 中表现最强。MACD -0.0428 高于信号线 -0.0442，已现金叉；RSI14 为 47.9，位于中性区偏上。现价 1.71 站上 SMA20（1.70）与 SMA200（1.66），但仍低于 SMA50（1.81）。趋势标记为中性，属空头结构中的短线动能修复。"
       },
       {
         "symbol": "sh000300",
-        "display_name": "沪深300 (sh000300)",
+        "display_name": "沪深300",
         "stance": "偏下行",
-        "rationale": "RSI14仅38.4，为指数组中最低读数之一，接近弱势区；MACD-44.8367低于信号线-36.5487，红绿柱呈空头状态；现价4480.27位于SMA20（4560.87）、SMA50（4628.26）、SMA200（4694.42）之下，且触发SMA50下穿SMA200死叉并呈空头排列，距52周高-11.53%。"
+        "rationale": "RSI14 仅 38.4，为指数组最低读数之一，动量偏弱。MACD -44.8367 低于信号线 -36.5487，红柱未现；价格 4480.27 同时低于 SMA20（4560.87）、SMA50（4628.26）与 SMA200（4694.42），呈标准空头排列，且已触发 SMA50 下穿 SMA200 的死叉信号，距 52 周高点 -11.53%。"
       },
       {
         "symbol": "sh600519",
-        "display_name": "贵州茅台 (sh600519)",
+        "display_name": "贵州茅台",
         "stance": "偏下行",
-        "rationale": "当日下跌1.16%、5日累计-2.55%，为候选个券中表现最弱；RSI14为37.5处偏弱区间；MACD-7.5453显著低于信号线-2.2274，动能走弱；现价1258低于SMA20的1293.81、SMA50的1297.42与SMA200的1338.01，指标列出空头排列，距52周高-18.31%。"
+        "rationale": "当日回落 1.16%，5 日 -2.55%，个券组中走弱最明显。MACD -7.5453 显著低于信号线 -2.2274，绿柱扩张；RSI14 为 37.5，处于偏弱区。现价 1258 低于 SMA20（1293.81）、SMA50（1297.42）与 SMA200（1338.01），呈空头排列，距 52 周高点 -18.31%。"
       },
       {
         "symbol": "sz159915",
-        "display_name": "创业板ETF (sz159915)",
+        "display_name": "创业板ETF",
         "stance": "中性",
-        "rationale": "当日反弹1.9%但5日仍跌1.27%，多空信号交织；RSI14为42.3、MACD-0.0695略低于信号线-0.0684，动能未明确转向；趋势判定为neutral，signals列表为空，现价3.33处于SMA20（3.40）与SMA50（3.52）下方、SMA200（3.51）下方附近，无明显金叉或死叉确认。"
+        "rationale": "当日上涨 1.9%，但 5 日仍为 -1.27%，方向信号不一。RSI14 为 42.3，位于中性偏下；MACD -0.0695 略低于信号线 -0.0684，柱体近乎走平。现价 3.33 低于 SMA20（3.40）、SMA50（3.52）与 SMA200（3.51），趋势标记为中性，且未触发明确金叉死叉信号，属方向待定状态。"
       }
     ],
-    "risk_caveat": "以上均为公开行情计算所得技术指标的客观读数复述，过去走势不代表未来表现，指标形态亦可能随时反转；本内容仅供技术指标解读参考，不构成任何投资建议或买卖依据。",
+    "risk_caveat": "本报告仅基于公开行情数据计算的技术指标进行客观复述，过去走势不代表未来表现，任何指标读数均不构成投资建议，仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "sh000001",
@@ -468,6 +468,6 @@
         }
       ]
     },
-    "generated_at": "2026-09-16T22:53:16.880Z"
+    "generated_at": "2026-09-16T23:13:40.203Z"
   }
 }

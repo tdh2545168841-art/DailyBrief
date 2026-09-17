@@ -1,0 +1,488 @@
+{
+  "hero_headline": "美联储加息后油价回落，华尔街股市创六周最佳",
+  "daily_overview": "今日科技、财经、时政三条主线交织。科技领域，OpenAI推出面向法律行业的Astra，阿里巴巴开源代码审查工具，神秘模型Union Alpha首日消耗20亿Token；企业级AI从聊天转向执行任务。财经领域，美联储2023年以来首次加息后，油价回落缓解通胀担忧，标普500指数创逾六周最佳表现；英国央行按兵不动但释放鹰派信号；欧盟要求中国自愿限制汽车出口，贸易摩擦升温。时政方面，美国同意伊朗领导人出席联合国大会，美伊冲突进入第七个月；美国批准向沙特出售F-35战机，中东安全格局持续重组；联合国专家称有理由相信美国在伊朗打击中犯下战争罪。",
+  "tech_briefs": [
+    {
+      "title": "OpenAI推出Astra for Law，进军法律行业",
+      "url": "https://openai.com/index/astra-for-law",
+      "source": "OpenAI News",
+      "summary": "OpenAI发布面向法律行业的Astra，提供前沿智能、定制律所工作流、连接法律数据源及客户机密工作控制功能，标志其向垂直行业深度落地。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "阿里开源代码审查工具open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "summary": "该项目采用确定性流水线加LLM Agent混合架构，支持行级精确评论与多语言规则集（空指针、线程安全等），已在阿里规模下实战验证，解决大规模代码审查效率问题。",
+      "importance": 8
+    },
+    {
+      "title": "神秘模型Union Alpha首日跑掉20亿Token",
+      "url": "https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC?utm_source=rss&utm_medium=article",
+      "source": "InfoQ 中文",
+      "summary": "神秘模型Union Alpha突袭上线，首日消耗20亿Token，部分网友实测称性能直逼Astra，引发社区对模型能力与算力消耗的广泛讨论。",
+      "importance": 8
+    },
+    {
+      "title": "vivo展示AI手机从会回答到会办事",
+      "url": "https://www.qbitai.com/2026/09/491649.html",
+      "source": "量子位",
+      "summary": "vivo提出构建个体专属AI助理，推动手机AI从问答交互转向任务执行，代表端侧智能体落地的新方向。",
+      "importance": 7
+    },
+    {
+      "title": "OpenAI披露模型令人担忧行为并推追踪系统",
+      "url": "https://www.ft.com/content/2c34414a-5381-4083-ac34-00bbe67ef8db?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "OpenAI披露模型出现令人担忧的行为，并推出系统以追踪和报告AI模型不当行为，回应外界对前沿模型安全性的关切。",
+      "importance": 8
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "标普500指数创逾六周最佳表现，油价回落缓解通胀担忧",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewti3546505.shtml",
+      "source": "新浪财经",
+      "summary": "美股周四上涨，美联储前一日实施2023年以来首次加息后，油价下跌提振市场对通胀受控的乐观情绪，标普500指数创逾六周最佳表现。",
+      "importance": 9
+    },
+    {
+      "title": "欧盟要求中国自愿限制汽车出口",
+      "url": "https://www.ftchinese.com/story/001110912",
+      "source": "FT中文网",
+      "summary": "布鲁塞尔希望北京将中国制造的混合动力汽车在欧盟市场份额限制在15%左右，目前该份额已超三分之一，中欧贸易摩擦或进一步升级。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "英国央行维持利率不变但释放鹰派信号",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "英国央行连续第六次维持利率不变，但表示若能源价格持续高企，未来更可能加息，释放偏鹰派政策信号。",
+      "importance": 8
+    },
+    {
+      "title": "私募信贷违约率分歧巨大：1%到19%",
+      "url": "https://wallstreetcn.com/articles/3782027",
+      "source": "华尔街见闻",
+      "summary": "私募信贷违约率因统计口径不同从1%到19%不等，凸显这一快速扩张市场的信息不透明与风险定价分歧。",
+      "importance": 7
+    },
+    {
+      "title": "美国检方称中国公司通过币安为伊朗石油交易洗钱",
+      "url": "https://www.ftchinese.com/story/001110899",
+      "source": "FT中文网",
+      "summary": "美国检方指控中国公司利用币安平台为伊朗石油交易洗钱，案件涉及制裁规避与加密货币合规问题。",
+      "importance": 7
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "美国同意伊朗领导人出席联合国大会",
+      "url": "https://wallstreetcn.com/livenews/3167018",
+      "source": "华尔街见闻",
+      "summary": "尽管美伊仍处于交战状态，美国政府已同意伊朗领导人参加下周在纽约举行的联合国大会高级别会议，伊朗代表团规模小于去年并面临出行限制。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "特朗普政府批准向沙特出售F-35战机",
+      "url": "https://www.ft.com/content/9934acc6-6b06-4f2e-a37a-6cf0869092cb?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "美国批准向沙特出售价值240亿美元的F-35战机，交易需国会批准，利雅得正寻求美国在其与也门胡塞武装战争中的支持。（多家报道）",
+      "importance": 8
+    },
+    {
+      "title": "联合国专家称有理由相信美国在伊朗打击中犯下战争罪",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "联合国专家表示，有理由相信美国在伊朗的打击行动中犯下战争罪，涉及2月对一所小学和体育综合体的致命袭击，美方尚未承认。",
+      "importance": 8
+    }
+  ],
+  "editor_note": "美联储加息与油价回落共振提振美股，但地缘冲突与贸易摩擦风险未消，AI行业正从技术竞赛转向安全与合规博弈。",
+  "keywords": [
+    "美联储加息",
+    "油价回落",
+    "欧盟对华贸易",
+    "OpenAI",
+    "AI安全",
+    "伊朗局势",
+    "F-35",
+    "私募信贷"
+  ],
+  "trading": {
+    "market_overview": "从技术面看，A 股三大组整体偏弱。指数组方面，上证指数 3875.6（-0.41%，成交 8688 亿）、深证成指 13409.91（-0.33%，成交 9544 亿）、创业板指 3298.31（-0.40%，成交 4432 亿）均收跌，且三者价格分别低于各自 SMA20、SMA50 与 SMA200，趋势标记均为 bearish，信号面普遍出现「空头排列」；深证成指与创业板指还叠加「死叉(SMA50↓SMA200)」，RSI14 分别为 40.4 与 41.7，处于 50 下方但未达超卖。相对而言，科创50（1606.29，+/-0.61%，5 日 +2.36%）趋势标记为 neutral，MACD 已现「金叉」，RSI14 为 46.7，是唯一 5 日收正的指数。ETF 组整体与宽基指数同步走弱，沪深300ETF（4.53）、中证500ETF（7.68）、创业板ETF（3.32）均呈「空头排列」，其中沪深300ETF 与创业板ETF 兼有 SMA50 下穿 SMA200 的死叉；科创50ETF（1.70）逆势持平于 SMA20，MACD 金叉，RSI14 报 46.7。个券组样本仅贵州茅台（1266.98，+0.71%），价格低于三条均线、呈「空头排列」，RSI14 为 41.2，MACD 为负柱。综合来看，21 项读数中多数 RSI14 落在 36-47 的中性偏弱区间，未见超卖极端值，也未出现普遍性金叉，技术面整体呈震荡偏弱格局。",
+    "watchlist": [
+      {
+        "symbol": "sh000688",
+        "display_name": "科创50(sh000688)",
+        "stance": "中性",
+        "rationale": "现价 1606.29 基本贴合 SMA20 的 1609.91，5 日 +2.36% 是全部候选中最强；RSI14 报 46.7 居中；MACD -36.55 高于信号线 -40.94，刚形成「MACD 金叉」，但 SMA50 的 1700.9 仍明显压制，属多空拉锯的整理状态。"
+      },
+      {
+        "symbol": "sh588000",
+        "display_name": "科创50ETF(sh588000)",
+        "stance": "中性",
+        "rationale": "现价 1.70 与 SMA20 的 1.70 完全重合，5 日 +2.23%；RSI14 为 46.7 中性区间；MACD -0.0384 高于信号线 -0.0431，同样触发「MACD 金叉」，但 SMA50 的 1.80 仍在上方形成压制，技术面呈横向整理。"
+      },
+      {
+        "symbol": "sh000300",
+        "display_name": "沪深300(sh000300)",
+        "stance": "偏下行",
+        "rationale": "现价 4460.16 低于 SMA20 的 4554.24、SMA50 的 4619.94 与 SMA200 的 4694.48，构成完整「空头排列」；RSI14 仅 36.6，为候选池最低读数；MACD -46.99 低于信号线 -38.64，柱状为负，动量持续偏弱。"
+      },
+      {
+        "symbol": "sh510300",
+        "display_name": "沪深300ETF(sh510300)",
+        "stance": "偏下行",
+        "rationale": "现价 4.53 位于 SMA20 的 4.62、SMA50 的 4.68 与 SMA200 的 4.72 之下，呈现「空头排列」并触发「死叉(SMA50↓SMA200)」；RSI14 报 36.2 为候选最低；MACD -0.0436 低于信号线 -0.0353，负柱延续。"
+      },
+      {
+        "symbol": "sh600519",
+        "display_name": "贵州茅台(sh600519)",
+        "stance": "偏下行",
+        "rationale": "现价 1266.98 低于 SMA20 的 1292.58、SMA50 的 1299.12 与 SMA200 的 1337.34，构成「空头排列」；虽当日 +0.71% 逆势反弹，但 5 日仍 -1.41%；RSI14 为 41.2，MACD -8.52 低于信号线 -3.49，负柱显示上行动能不足。"
+      }
+    ],
+    "risk_caveat": "本报告仅为公开行情技术指标的客观读数复述，过去走势不代表未来表现，亦不构成任何操作建议，仅供技术指标解读参考。",
+    "tickers": [
+      {
+        "symbol": "sh000001",
+        "displayName": "上证指数",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 3875.6,
+        "pct1Day": -0.41114194675711785,
+        "pct5Day": -1.4945099633997605,
+        "pct52WeekHigh": -8.999121830724649,
+        "pct52WeekLow": 16.03349630396967,
+        "sma20": 3922.089500000004,
+        "sma50": 3902.0000000000014,
+        "sma200": 4009.134100000002,
+        "rsi14": 42.55779271987233,
+        "macd": -10.316736456077251,
+        "macdSignal": -2.193414170621599,
+        "macdHistogram": -8.123322285455652,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bear-cross",
+            "label": "MACD 死叉",
+            "daysAgo": 4
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sz399001",
+        "displayName": "深证成指",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SZSE",
+        "currentPrice": 13409.91,
+        "pct1Day": -0.3331911281823352,
+        "pct5Day": -1.5256648163746092,
+        "pct52WeekHigh": -18.102518501870648,
+        "pct52WeekLow": 34.77106854777923,
+        "sma20": 13697.309500000003,
+        "sma50": 13963.093000000026,
+        "sma200": 14343.224449999989,
+        "rsi14": 40.35874124605363,
+        "macd": -200.95906420200117,
+        "macdSignal": -183.2397001297439,
+        "macdHistogram": -17.719364072257264,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "death-cross",
+            "label": "死叉(SMA50↓SMA200)",
+            "daysAgo": 8
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sz399006",
+        "displayName": "创业板指",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SZSE",
+        "currentPrice": 3298.31,
+        "pct1Day": -0.3974065898226424,
+        "pct5Day": -1.2014665620263516,
+        "pct52WeekHigh": -24.70316705513867,
+        "pct52WeekLow": 66.1140126009156,
+        "sma20": 3367.4085,
+        "sma50": 3480.991399999999,
+        "sma200": 3512.87115,
+        "rsi14": 41.69583952940517,
+        "macd": -66.98136655116605,
+        "macdSignal": -67.56269549574529,
+        "macdHistogram": 0.5813289445792407,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "death-cross",
+            "label": "死叉(SMA50↓SMA200)",
+            "daysAgo": 2
+          },
+          {
+            "type": "macd-bull-cross",
+            "label": "MACD 金叉",
+            "daysAgo": 0
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh000688",
+        "displayName": "科创50",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 1606.29,
+        "pct1Day": -0.6125517420600357,
+        "pct5Day": 2.36232013356954,
+        "pct52WeekHigh": -28.77552377785168,
+        "pct52WeekLow": 68.66947381684919,
+        "sma20": 1609.9050000000007,
+        "sma50": 1700.9034000000015,
+        "sma200": 1574.5874999999994,
+        "rsi14": 46.69436425760045,
+        "macd": -36.553124592181575,
+        "macdSignal": -40.94094279326458,
+        "macdHistogram": 4.387818201083007,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bull-cross",
+            "label": "MACD 金叉",
+            "daysAgo": 1
+          }
+        ]
+      },
+      {
+        "symbol": "sh000300",
+        "displayName": "沪深300",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 4460.16,
+        "pct1Day": -0.4488568769293051,
+        "pct5Day": -1.9398072724634536,
+        "pct52WeekHigh": -11.928866351912527,
+        "pct52WeekLow": 16.542115659980976,
+        "sma20": 4554.244499999993,
+        "sma50": 4619.938199999997,
+        "sma200": 4694.483900000002,
+        "rsi14": 36.63789602587282,
+        "macd": -46.98823238515615,
+        "macdSignal": -38.63659738190089,
+        "macdHistogram": -8.35163500325526,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh510300",
+        "displayName": "沪深300ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 4.532,
+        "pct1Day": -0.3956043956043911,
+        "pct5Day": -1.8410223088585653,
+        "pct52WeekHigh": -11.05004906771344,
+        "pct52WeekLow": 21.795216339693628,
+        "sma20": 4.620949999999999,
+        "sma50": 4.680060000000001,
+        "sma200": 4.717570000000002,
+        "rsi14": 36.191078387010116,
+        "macd": -0.04356749645616098,
+        "macdSignal": -0.03527206916485024,
+        "macdHistogram": -0.00829542729131074,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "death-cross",
+            "label": "死叉(SMA50↓SMA200)",
+            "daysAgo": 6
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh510500",
+        "displayName": "中证500ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 7.681,
+        "pct1Day": -0.3761348897535657,
+        "pct5Day": -0.7879101007491597,
+        "pct52WeekHigh": -16.109654871122768,
+        "pct52WeekLow": 40.93577981651376,
+        "sma20": 7.767200000000005,
+        "sma50": 7.809560000000004,
+        "sma200": 7.978339999999998,
+        "rsi14": 44.874431537743455,
+        "macd": -0.06769612660292967,
+        "macdSignal": -0.05877657659802925,
+        "macdHistogram": -0.008919550004900426,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "death-cross",
+            "label": "死叉(SMA50↓SMA200)",
+            "daysAgo": 7
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh588000",
+        "displayName": "科创50ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 1.696,
+        "pct1Day": -0.7025761124121785,
+        "pct5Day": 2.230259192284504,
+        "pct52WeekHigh": -29.037656903765697,
+        "pct52WeekLow": 69.43056943056945,
+        "sma20": 1.7000000000000004,
+        "sma50": 1.7957000000000003,
+        "sma200": 1.66041,
+        "rsi14": 46.69062699317638,
+        "macd": -0.03844789289481443,
+        "macdSignal": -0.043059984342364986,
+        "macdHistogram": 0.004612091447550558,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "macd-bull-cross",
+            "label": "MACD 金叉",
+            "daysAgo": 1
+          }
+        ]
+      },
+      {
+        "symbol": "sz159915",
+        "displayName": "创业板ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SZSE",
+        "currentPrice": 3.319,
+        "pct1Day": -0.33033033033033393,
+        "pct5Day": -1.161405598570582,
+        "pct52WeekHigh": -24.482366325369732,
+        "pct52WeekLow": 69.33673469387756,
+        "sma20": 3.386300000000007,
+        "sma50": 3.502239999999997,
+        "sma200": 3.5157300000000005,
+        "rsi14": 41.57694787847327,
+        "macd": -0.06725178793924735,
+        "macdSignal": -0.06814035460890233,
+        "macdHistogram": 0.0008885666696549777,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "death-cross",
+            "label": "死叉(SMA50↓SMA200)",
+            "daysAgo": 0
+          },
+          {
+            "type": "macd-bull-cross",
+            "label": "MACD 金叉",
+            "daysAgo": 0
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh600519",
+        "displayName": "贵州茅台",
+        "group": "stock",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 1266.98,
+        "pct1Day": 0.7138314785373624,
+        "pct5Day": -1.4123084824103467,
+        "pct52WeekHigh": -17.72728925645595,
+        "pct52WeekLow": 10.075498909653263,
+        "sma20": 1292.5810000000008,
+        "sma50": 1299.1192000000008,
+        "sma200": 1337.3423700000014,
+        "rsi14": 41.165031982231206,
+        "macd": -8.522274224618513,
+        "macdSignal": -3.4863648303743924,
+        "macdHistogram": -5.035909394244121,
+        "trend": "bearish",
+        "rsiState": "normal",
+        "signals": [
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      }
+    ],
+    "ashare_sentiment": {
+      "indices": [
+        {
+          "code": "sh000001",
+          "name": "上证指数",
+          "price": 3875.6,
+          "pctChange": -0.41,
+          "turnoverYuan": 868773070000
+        },
+        {
+          "code": "sz399001",
+          "name": "深证成指",
+          "price": 13409.91,
+          "pctChange": -0.33,
+          "turnoverYuan": 954361200000
+        },
+        {
+          "code": "sz399006",
+          "name": "创业板指",
+          "price": 3298.31,
+          "pctChange": -0.4,
+          "turnoverYuan": 443225380000
+        }
+      ]
+    },
+    "generated_at": "2026-09-17T22:06:01.106Z"
+  }
+}

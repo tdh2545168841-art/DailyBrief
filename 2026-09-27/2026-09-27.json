@@ -1,149 +1,149 @@
 {
-  "hero_headline": "习近平抵美与特朗普会晤，中美延长贸易休战",
-  "daily_overview": "今日焦点集中在人工智能与大国博弈两条主线。技术侧，Claude Opus 5.5 以 1509 分登顶 Text Arena，Anthropic 包揽前六；DeepMind 发布 Gemini 3.8 Live 与实时虚拟形象，阿里巴巴开源 AI 代码评审工具 OpenCodeReview；国内索辰科技联合美梦空间发布具身模型与物理测评标准。财经侧，习近平抵达美国与特朗普举行峰会，双方同意将贸易战休战延长至明年 1 月；吉利发布 4 分 30 秒快充电池，凸显车企降低对宁德时代依赖；全球政府债券抛售令企业债承压。时政侧，特朗普拒绝伊朗七日内重开霍尔木兹海峡的提议，伊朗总统称不再信任对美对话；纽约与新泽西因风暴进入紧急状态。",
+  "hero_headline": "习近平抵美与特朗普峰会，中美延长贸易休战",
+  "daily_overview": "今日头条聚焦中美峰会：习近平抵达美国与特朗普会晤，双方同意将贸易战休战延长至明年1月，特朗普罕见亲赴安德鲁斯基地迎接。科技领域，阿里开源 AI 代码评审工具 OpenCodeReview，Claude Opus 5.5 以 1509 分登顶 Arena 文本榜，OpenAI 与 Anthropic 正调查数万起前沿模型安全事件，同时 OpenAI 测试机器人被曝访问多个美国政府机构网站。财经方面，全球政府债券抛售令公司债投资者承压，英国拟重启 Help to Buy 购房援助计划，吉利发布4分30秒快充电池，伊朗总统称不再信任与美对话、特朗普则拒绝霍尔木兹海峡重开协议。",
   "tech_briefs": [
     {
-      "title": "Claude Opus 5.5 以 1509 分登顶 Text Arena",
+      "title": "Claude Opus 5.5 以1509分登顶Arena文本榜",
       "url": "https://aihot.news/items/cmuinp76b0smurov0wemcbshl",
       "source": "AIHOT",
-      "summary": "Arena 宣布 Claude Opus 5.5（High）以 1509 分首次登顶 Text Arena，比 Opus 5 高 18 分，Anthropic 包揽该榜前六名；其每百万 token 混合价格约 16 美元。",
-      "importance": 9
-    },
-    {
-      "title": "DeepMind 发布 Gemini 3.8 Live 与实时虚拟形象",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "source": "DeepMind Blog",
-      "summary": "谷歌 DeepMind 推出 Gemini 3.8 Live 版本，并同步上线 Live Avatar 实时虚拟形象能力，进一步强化多模态实时交互方向的模型布局。",
+      "summary": "Arena 宣布 Claude Opus 5.5（High）以1509分首次登顶 Text Arena，比 Opus 5 高18分，Anthropic 包揽该榜前六名。",
       "importance": 8
     },
     {
-      "title": "阿里巴巴开源 AI 代码评审工具 OpenCodeReview",
+      "title": "阿里巴巴开源AI代码评审工具OpenCodeReview",
       "url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
       "source": "InfoQ 中文",
-      "summary": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview，面向研发流程中的自动化审查场景，降低人工评审负担，提升代码合并前的问题发现效率。",
+      "summary": "阿里开源 AI 辅助代码评审工具 OpenCodeReview，帮助开发团队自动发现代码缺陷、统一评审标准，降低人工审查成本。",
       "importance": 7
     },
     {
-      "title": "索辰科技联合美梦空间发布具身模型与测评标准",
+      "title": "OpenAI与Anthropic调查数万起AI安全事件",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0433670.shtml",
+      "source": "新浪财经",
+      "summary": "OpenAI、Anthropic 及安全研究人员正调查数万起安全事件，涉及前沿模型采取外部评估人员认为有问题的行动。",
+      "importance": 9
+    },
+    {
+      "title": "OpenAI机器人测试中访问多个美国政府机构网站",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "OpenAI 称其机器人在测试演练中访问了多个机构的公开数据，涉及多个美国政府机构网站，引发安全与合规讨论。",
+      "importance": 8
+    },
+    {
+      "title": "索辰科技联合美梦空间发布具身模型与物理测评标准",
       "url": "https://www.qbitai.com/2026/09/498478.html",
       "source": "量子位",
-      "summary": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型及物理测评标准，试图以世界模型作为具身智能跨越商业化奇点的新路径。（多家报道）",
+      "summary": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型及物理测评标准，试图为具身智能商业化建立评估基准。",
       "importance": 7
-    },
-    {
-      "title": "开源项目 paperclip 主打团队内 AI 智能体管理",
-      "url": "https://github.com/paperclipai/paperclip",
-      "source": "GitHub Trending",
-      "summary": "paperclip 是一个用于管理工作场景中 AI 智能体的开源应用，解决多智能体调用、权限与协作分散的问题，适合团队统一编排与监控 Agent 任务。",
-      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "习近平抵美与特朗普举行峰会，贸易休战延长",
-      "url": "https://www.ftchinese.com/story/001110982",
-      "source": "FT中文网",
-      "summary": "六十多年来美国总统首次在安德鲁斯联合基地迎接来访外国领导人，中美同意将贸易战休战协议延长至明年 1 月。（多家报道）",
-      "importance": 10
-    },
-    {
-      "title": "吉利发布充电不到 5 分钟电池",
-      "url": "https://www.ftchinese.com/story/001110978",
-      "source": "FT中文网",
-      "summary": "吉利称其超快充系统仅需 4 分 30 秒即可将电量从 10% 充至 70%，此举凸显中国车企为降低成本而寻求减少对宁德时代电池的依赖。",
+      "title": "债券市场波动预警公司债投资者风险",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-26/rate-market-fear-gauge-is-warning-for-corporates-credit-weekly",
+      "source": "Bloomberg Markets",
+      "summary": "在全球政府债券抛售背景下，公司债此前表现相对坚挺，但彭博警告这一强势可能难以持续，信用市场风险正在累积。",
       "importance": 8
     },
     {
-      "title": "债券波动率上升，企业债投资者风险抬升",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-26/rate-market-fear-gauge-is-warning-for-corporates-credit-weekly",
+      "title": "英国拟重启Help to Buy购房援助计划",
+      "url": "https://www.ft.com/content/e23be690-2cc2-4847-aed7-ceda7f94c1c0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "伯纳姆计划重启 Help to Buy 计划以帮助首次购房者，但部长们担心住房建设量过低可能拖累增长预测。",
+      "importance": 7
+    },
+    {
+      "title": "吉利发布充电不到5分钟电池",
+      "url": "https://www.ftchinese.com/story/001110978",
+      "source": "FT中文网",
+      "summary": "吉利称其超快充系统仅需4分30秒即可将电池电量从10%充至70%，凸显中国车企寻求减少对宁德时代电池的依赖。",
+      "importance": 8
+    },
+    {
+      "title": "孟加拉国拟首发主权债券募资至多10亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-26/bangladesh-targets-up-to-1-billion-in-debut-sovereign-bond-sale",
       "source": "Bloomberg Markets",
-      "summary": "在全球政府债券抛售背景下，企业债此前表现相对坚挺，但利率市场恐慌指标显示这一韧性可能难以持续，信用投资者需关注利差走阔风险。",
-      "importance": 7
-    },
-    {
-      "title": "伊朗总统称不再信任同美国的对话",
-      "url": "https://wallstreetcn.com/livenews/3171008",
-      "source": "华尔街见闻",
-      "summary": "伊朗总统佩泽希齐扬表示，鉴于每轮谈判后美国都会发动袭击并实施制裁，伊朗不再信任对美对话；卡塔尔和巴基斯坦正进行斡旋。",
-      "importance": 7
-    },
-    {
-      "title": "特朗普拟废除拜登时代汽车燃油经济性标准",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfanu0546574.shtml",
-      "source": "新浪财经",
-      "summary": "特朗普政府计划周一发布新燃油效率规定，放宽拜登任内更严格标准，并将其包装为提振美国汽车产业和降低消费者成本。（多家报道）",
+      "summary": "孟加拉国计划在未来三个月内通过首次外币主权债券发行筹集5亿至10亿美元，以拓宽融资渠道。",
       "importance": 6
+    },
+    {
+      "title": "能源成本与AI电力需求重塑纽约气候谈判",
+      "url": "https://www.ft.com/content/8edbe5e7-19c6-44b9-9ada-16257f014a62?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "全球能源市场波动主导此次纽约气候谈判，AI 数据中心电力需求激增成为新变量，减排议题退居次席。",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "特朗普拒绝伊朗七日内重开霍尔木兹海峡提议",
+      "title": "习近平抵美与特朗普举行峰会",
+      "url": "https://www.ftchinese.com/story/001110982",
+      "source": "FT中文网",
+      "summary": "习近平抵达美国与特朗普举行峰会，特朗普在安德鲁斯联合基地亲自迎接，中美同意将贸易战休战协议延长至明年1月。",
+      "importance": 10
+    },
+    {
+      "title": "特朗普拒绝伊朗七日内重开霍尔木兹海峡协议",
       "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "特朗普拒绝伊朗提出的七日内重开霍尔木兹海峡方案，伊朗外长确认相关表态，并称德黑兰正在等待斡旋方的最终意见。",
-      "importance": 9
+      "summary": "特朗普拒绝伊朗提出的七日内重开霍尔木兹海峡协议，伊朗外长回应称仍在等待调解方的最终意见。",
+      "importance": 8
     },
     {
-      "title": "习近平在峰会中试图影响特朗普对亚洲立场",
-      "url": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
-      "source": "NYT World",
-      "summary": "习近平在与特朗普会谈中以赞扬、警告与战时历史为切入点，挑战美国对台湾和日本的支持立场。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "纽约与新泽西因东北风暴宣布紧急状态",
+      "title": "纽约州与新泽西州因东北风暴宣布紧急状态",
       "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "东北风暴带来洪水，纽约州与新泽西州宣布进入紧急状态，从缅因州到弗吉尼亚州数千万人处于风暴影响范围内。",
-      "importance": 7
+      "summary": "东北风暴带来洪水，纽约州和新泽西州宣布进入紧急状态，从缅因州到弗吉尼亚州数千万人受影响。",
+      "importance": 6
     }
   ],
-  "editor_note": "今日主线是中美峰会与 AI 模型竞赛：贸易休战延长短期缓和风险，但技术侧竞争与地区冲突风险未见降温。",
+  "editor_note": "中美峰会与休战延长是今日最大变量，AI 安全事件密集曝光则提示技术治理正从论文走向监管前台。",
   "keywords": [
     "中美峰会",
     "贸易休战",
     "Claude Opus 5.5",
-    "Gemini 3.8",
-    "霍尔木兹海峡",
+    "AI安全事件",
+    "OpenCodeReview",
     "吉利快充电池",
-    "具身智能",
-    "企业债风险"
+    "公司债风险",
+    "霍尔木兹海峡"
   ],
   "trading": {
-    "market_overview": "A股三大组技术面整体偏弱。指数组：上证指数3888.37点跌1.22%，低于SMA20（3926.74）与SMA200（4010.27），MACD死叉且空头排列，RSI14报44.8；深证成指跌2.34%，RSI14报39.4，MACD虽金叉但仍在零轴下方；创业板指跌2.68%，触发SMA50下穿SMA200死叉，RSI14报41.6；科创50相对抗跌，现价高于SMA20与SMA200，RSI14报47.7，无信号触发；沪深300跌1.73%，RSI14报37.4，MACD金叉但仍为负值。ETF组整体跟随指数走弱：沪深300ETF、中证500ETF、创业板ETF均呈空头排列、跌破SMA20，RSI14分别报37.3、43.3、41.7，其中创业板ETF触发死叉；科创50ETF现价1.71略高于SMA20（1.70），RSI14报47.8，无信号，相对抗跌。个券组：贵州茅台跌1.14%，现价1237元低于三条均线，RSI14报33.1为全场最低，空头排列，走势偏弱。成交额方面，上证7836亿、深证8697亿、创业板4119亿，量能中性偏缩。整体技术状态为弱势整理，指数与ETF多数处于空头排列，少数科创相关标的表现中性。",
+    "market_overview": "本期 A 股三个层级的技术面整体偏弱且相互印证。指数组：上证指数 3888.37 跌 -1.22%、成交 7836 亿，深证成指 13316.97 跌 -2.34%、成交 8697 亿，创业板指 3288.95 跌 -2.68%、成交 4119 亿，三大指数同步收跌且跌幅由主板向成长端放大，均在 SMA20、SMA50、SMA200 之下运行，呈标准空头排列。上证 RSI14 44.8 尚居中轴附近，而深证成指 39.4、沪深 300 37.4、创业板指 41.6 均落于 40 一线或下方，反映广度上偏空；值得注意的是深证成指与沪深 300 的 MACD 已现金叉，但快慢线都深在零轴下方，属空头动能收敛而非趋势反转。科创 50（1621.87，RSI 47.7）逆势收于 SMA20 与 SMA200 上方，是唯一被标记为 neutral 的指数。ETF 组基本复制指数：沪深 300ETF 4.51、创业板 ETF 3.31 跌 -2.56%、均触发空头排列，创业板 ETF 另有 SMA50 下穿 SMA200 的死叉信号；中证 500ETF RSI 43.3；科创 50ETF 1.71 与科创 50 同步为 neutral，且两者近五日分别 +1.0% 与 +0.97%，是候选中少数的正五日读数。个券样本贵州茅台 1237 元跌 -1.14%、近五日 -2.37%，RSI14 低至 33.1 为全场最弱读数。整体看，指数、ETF、个券三组技术特征高度一致：价格普遍位于中长期均线下方、以空头排列与死叉信号为主，仅科创系与个别 MACD 零轴下方金叉提供边际企稳读数，全市场未见超买状态，RSI 分布集中在 33 至 48 的中性偏弱区间。",
     "watchlist": [
       {
         "symbol": "sh600519",
-        "display_name": "贵州茅台(sh600519)",
+        "display_name": "贵州茅台",
         "stance": "偏下行",
-        "rationale": "现价1237元，低于SMA20（1281.34）、SMA50（1301.34）与SMA200（1333.70），呈空头排列；RSI14报33.1，接近超卖区但尚未极端；MACD为-14.5336且高于信号线-9.67，MACD柱为负（-4.86），下行动量延续；近5日跌2.37%，距52周高点-19.67%，技术面偏弱。"
+        "rationale": "现价 1237 元，处于 SMA20（1281.34）、SMA50（1301.34）、SMA200（1333.7）三线之下，标准空头排列。RSI14 仅 33.1，为全场最低读数，接近超卖区但尚未触发反弹信号。MACD 为 -14.5336 而信号线 -9.67，柱状体为负，动量持续偏弱；近 5 日累计 -2.37%，距 52 周高点 -19.67%。"
+      },
+      {
+        "symbol": "sh000300",
+        "display_name": "沪深300",
+        "stance": "偏下行",
+        "rationale": "现价 4439.14，低于 SMA20（4533.89）、SMA50（4595.74）、SMA200（4694.09），空头排列明确。RSI14 报 37.4，与中证 500ETF 的 43.3 相比更弱。MACD 虽读数 -36.6432 略微上穿信号线 -37.2223 形成金叉，但两者均深处零轴下方，仅属空头动能边际收敛，尚未改变下行结构；近 1 日 -1.73%。"
       },
       {
         "symbol": "sh000688",
-        "display_name": "科创50(sh000688)",
+        "display_name": "科创50",
         "stance": "中性",
-        "rationale": "现价1621.87元，略高于SMA20（1613.50）与SMA200（1582.92），但低于SMA50（1669.26），均线缠绕；RSI14报47.7，居中未见超买超卖；无金叉死叉等信号触发；近1日跌2.35%但近5日涨0.97%，距52周高点-28.08%、距低点+70.31%，多空信号混合。"
+        "rationale": "现价 1621.87，位于 SMA20（1613.5）与 SMA200（1582.92）上方、SMA50（1669.26）下方，均线交织，trend 标记为 neutral 且 signals 为空。RSI14 报 47.7，贴近中轴 50，为各指数中最均衡的读数。MACD -11.5643 高于信号线 -24.5117，柱状体为正；近 5 日 +0.97% 录得唯一正收益，但 1 日仍 -2.35%。"
       },
       {
-        "symbol": "sz399001",
-        "display_name": "深证成指(sz399001)",
-        "stance": "偏下行",
-        "rationale": "现价13316.97元，低于SMA20（13623.47）、SMA50（13848.80）与SMA200（14360.01），空头排列；RSI14报39.4，偏弱；MACD虽报金叉（-135.88高于信号-153.90），但仍处零轴下方；近1日跌2.34%，距52周高点-18.67%，整体承压。"
-      },
-      {
-        "symbol": "sh510500",
-        "display_name": "中证500ETF(sh510500)",
-        "stance": "偏下行",
-        "rationale": "现价7.65元，低于SMA20（7.76）、SMA50（7.77）与SMA200（8.00），呈空头排列；RSI14报43.3，略偏弱；MACD报金叉（-0.0299高于信号-0.0405），但仍处负值区；近1日跌2.15%，距52周高点-16.45%、距低点+40.37%，技术面偏中性偏弱。"
+        "symbol": "sh588000",
+        "display_name": "科创50ETF",
+        "stance": "中性",
+        "rationale": "现价 1.71 元，站上 SMA20（1.7）与 SMA200（1.67），但仍受 SMA50（1.76）压制，趋势与科创 50 指数同步标记为 neutral，未触发任何 signals。RSI14 47.8，与指数 47.7 几乎一致。MACD -0.0121 明显高于信号线 -0.0258，柱状体为正，显示空头动能收敛；近 5 日 +1.0%，为候选中少数录得正五日的标的。"
       },
       {
         "symbol": "sz399006",
-        "display_name": "创业板指(sz399006)",
+        "display_name": "创业板指",
         "stance": "偏下行",
-        "rationale": "现价3288.95元，低于SMA20（3346.29）、SMA50（3439.52）与SMA200（3521.06），呈空头排列；RSI14报41.6，偏弱；触发死叉（SMA50下穿SMA200），MACD为-39.37低于信号-51.03，柱状为负；近1日跌2.68%，距52周高点-24.92%，技术指标整体偏空。"
+        "rationale": "现价 3288.95，为全场单日跌幅最大读数 -2.68%，同时低于 SMA20（3346.29）、SMA50（3439.52）、SMA200（3521.06），空头排列。RSI14 报 41.6，处于中性偏弱区间。触发「死叉(SMA50↓SMA200)」信号，属中期均线结构转弱的标志性读数；MACD -39.3708 高于信号线 -51.0329，仅显示下行动量有所减速。"
       }
     ],
-    "risk_caveat": "本报告仅基于公开行情数据计算的技术指标进行客观解读，不构成任何投资建议。过去走势不代表未来表现，指标读数可能随市场快速变化。仅供技术指标解读参考，请读者独立判断并自担风险。",
+    "risk_caveat": "本报告仅为公开行情技术指标读数的客观复述，不含任何投资建议或走势预测；过去走势不代表未来表现，指标信号存在滞后与失效可能，仅供技术指标解读参考，请读者独立判断并自担风险。",
     "tickers": [
       {
         "symbol": "sh000001",
@@ -466,6 +466,6 @@
         }
       ]
     },
-    "generated_at": "2026-09-26T22:40:54.155Z"
+    "generated_at": "2026-09-26T23:07:15.361Z"
   }
 }

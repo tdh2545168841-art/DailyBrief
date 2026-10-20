@@ -1,0 +1,463 @@
+{
+  "hero_headline": "AI 应用转向纵深，军工与日债成市场新变数",
+  "daily_overview": "科技领域，OpenAI 着手改进低资源编程语言支持，Hugging Face 推出 TorchNeuron 以降低 AWS 自研芯片部署门槛，AI 应用也从求职走向反诈与法律实务。财经方面，AI 债务违约保险交易激增引发泡沫担忧，美国中期选举预期压制军工股，日本央行倾向按兵不动并上调下财年通胀预测；日本稀土供应仅剩数月库存，成为制造业新风险。时政方面，加拿大阿尔伯塔省公投否决脱离联邦，澳大利亚议员遭车辆冲撞引发对政治暴力的担忧，特朗普称对美中俄三方峰会持开放态度但聚焦核控。（多家报道）",
+  "tech_briefs": [
+    {
+      "title": "OpenAI 改进 ChatGPT 对低资源编程语言的支持",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI News",
+      "summary": "OpenAI 发文介绍 ChatGPT 在低资源编程语言上的能力改进，并新增软件工程、SQLite 与 COBOL 迁移等评测，方向是把代码能力从主流语言扩展到老旧系统与现代数据场景。",
+      "importance": 8
+    },
+    {
+      "title": "TorchNeuron 降低在 AWS Trainium 上运行 Hugging Face 模型的难度",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face Blog",
+      "summary": "Hugging Face 发布 TorchNeuron，目标是简化把 Transformers 模型部署到 AWS 自研 AI 芯片 Trainium 的流程，减少用户为不同加速硬件重写代码的成本，对想降低推理成本的团队有参考价值。",
+      "importance": 7
+    },
+    {
+      "title": "AI 求职框架 ai-job-search 登上 GitHub 热榜",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "source": "GitHub Trending",
+      "summary": "这是一个本地运行的 AI 求职申请框架，基于 Claude Code 实现职位评估、简历定制、求职信撰写与面试准备，用户可 fork 后自行掌控数据与流程，解决求职流程碎片化的问题。",
+      "importance": 6
+    },
+    {
+      "title": "Apate.ai 用 35 万个 AI 拖住诈骗分子",
+      "url": "https://aihot.news/items/awmaqqunma83599eii4g3akgw",
+      "source": "AIHOT",
+      "summary": "澳大利亚公司 Apate.ai 部署 35 万个 AI 冒充易受骗者与骗子周旋，累计对话 250 万次、耗掉对方约 17 年时间，合作运营商把近 59 万通可疑来电转入，澳洲联邦银行报告的诈骗损失下降 76%，公司今年 8 月获 815 万美元种子轮融资。",
+      "importance": 7
+    },
+    {
+      "title": "研究：为 AI 代理优化互联网可能损害普通用户体验",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Tech Review AI",
+      "summary": "MIT 科技评论指出，网站为方便 AI 代理抓取与操作而做的改造，可能进一步挤压普通用户的浏览体验与内容生态，提示代理时代的网页设计需要兼顾人机两类访问者。",
+      "importance": 6
+    }
+  ],
+  "finance_briefs": [
+    {
+      "title": "AI 债务担忧推动违约保险交易激增",
+      "url": "https://www.ft.com/content/92a2e2a4-356a-4aa3-9d1e-8b4fbaf1c365?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "FT 报道，围绕 AI 相关债务的信用违约互换交易明显升温，投资者开始为 AI 基建与相关企业的偿债风险购买保险，反映市场对 AI 资本开支过热的警惕上升。",
+      "importance": 9
+    },
+    {
+      "title": "中期选举预期压制美国军工股",
+      "url": "https://www.ftchinese.com/story/001111143",
+      "source": "FT中文网",
+      "summary": "投资者押注民主党在中期选举中拿下国会两院、从而阻挠特朗普增加 5000 亿美元军费的计划，美国军工股走势低迷，显示选举政治正直接定价防务板块。",
+      "importance": 8
+    },
+    {
+      "title": "日本央行 10 月料维持利率不变并上调下财年通胀预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwcmk0833836.shtml",
+      "source": "新浪财经",
+      "summary": "知情人士称，日本央行本月季度预测可能上调下一财年通胀预期，原因是油价上涨带来的价格压力持续时间超出预期，但政策利率预计仍按兵不动。",
+      "importance": 8
+    },
+    {
+      "title": "谁将承接 1200 亿美元新发日本国债",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/19/who-will-buy-120bn-worth-of-fresh-japanese-government-bonds",
+      "source": "The Economist Finance",
+      "summary": "经济学人指出，日本希望养老金与家庭部门增持政府债务以承接约 1200 亿美元新发日债，文章讨论在利率环境变化下本土买家的承接能力与潜在市场压力。",
+      "importance": 7
+    },
+    {
+      "title": "日本稀土库存仅剩数月，寻求美国斡旋",
+      "url": "https://www.ft.com/content/ebd3244a-9120-4773-b55f-41df77f60c93?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "FT 报道，中国收紧钇等稀土供应后，日本关键稀土库存仅够支撑数月，东京已请求美国帮助说服北京放松管制，以避免制造业停产。",
+      "importance": 8
+    }
+  ],
+  "politics_briefs": [
+    {
+      "title": "阿尔伯塔公投否决脱离加拿大方案",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "source": "The Guardian",
+      "summary": "加拿大阿尔伯塔省选民在公投中否决了启动独立进程的提议，被视为总理卡尼与统一派的一次胜利，但支持与反对双方均表达不满，分离议题并未消失。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "澳议员遭车辆冲撞重伤，总理称并非意外",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+      "source": "NPR World",
+      "summary": "澳大利亚独立议员海伦·海恩斯在选区办公室外遭车辆冲撞，伤势危重，总理阿尔巴尼斯称这并非事故，反恐联合工作组已介入调查，事件引发对政治人物安全威胁上升的担忧。（多家报道）",
+      "importance": 8
+    },
+    {
+      "title": "特朗普称对美中俄峰会持开放态度，聚焦核控",
+      "url": "https://www.dw.com/zh/特朗普：愿意举行美中俄峰会-聚焦去核化议题/a-79699813?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "有报道称普京希望在深圳 APEC 期间与特朗普、习近平举行三方会谈，特朗普表示持开放态度但更希望聚焦核武控制而非乌克兰局势，中国外交部称暂无可以提供的消息。",
+      "importance": 7
+    }
+  ],
+  "editor_note": "今日主线是 AI 从模型竞赛转入落地与风险定价：一边是芯片适配、反诈等应用深化，一边是债务违约保险升温，市场开始为热度买单。（55 字）",
+  "keywords": [
+    "AI 代理",
+    "债务违约保险",
+    "日本央行",
+    "稀土供应",
+    "中期选举",
+    "阿尔伯塔公投",
+    "政治暴力",
+    "代码模型"
+  ],
+  "trading": {
+    "market_overview": "A股三大组技术面整体偏弱。指数组中，上证指数收3706.18点跌0.66%、成交5793亿，深证成指收11706.23点跌0.94%、成交6341亿，创业板指收2711.45点跌1.27%、成交3136亿，三大指数5日跌幅分别为2.49%、5.24%、8.34%，均处SMA20/50/200下方并呈空头排列，RSI14分别低至29.3、19.2、17.8，普遍进入超卖区，MACD柱状均为负值。ETF组与指数高度同步：沪深300ETF与创业板ETF的RSI14分别为18.6和17.8，科创50ETF为23.5，全部贴于均线系统下方，仅科创50ETF趋势字段记为中性。个券组中贵州茅台是唯一亮点，5日涨3.54%，RSI14为61.8，MACD 8.47高于信号线-0.89，价格站上SMA20与SMA50，与指数、ETF的深度超卖形成对照。整体看，超卖读数密集但趋势指标尚未出现转向信号，技术状态仍以弱势主导、个别标的动能偏强。",
+    "watchlist": [
+      {
+        "symbol": "sz399006",
+        "display_name": "创业板指",
+        "stance": "偏下行",
+        "rationale": "现价2711.47点，日内跌1.27%、5日累计跌8.34%，距52周高点-38.1%。RSI14仅17.8，处深度超卖；MACD -169.96低于信号线-131.50，红绿柱为负，空头排列，价格远低于SMA20（3099.92）、SMA50（3318.14）与SMA200（3509.38），趋势指标全线走弱。"
+      },
+      {
+        "symbol": "sh000001",
+        "display_name": "上证指数",
+        "stance": "偏下行",
+        "rationale": "收报3706.18点，跌0.66%，5日跌2.49%，距52周高点-12.98%。RSI14为29.3，已进入超卖区；MACD -51.79弱于信号线-37.83，柱状为负。价格低于SMA20（3830.92）、SMA50（3888.85）和SMA200（4003.94），呈空头排列，动量与趋势指标同步偏弱。"
+      },
+      {
+        "symbol": "sh588000",
+        "display_name": "科创50ETF",
+        "stance": "中性",
+        "rationale": "现价1.40元，日内跌0.5%、5日跌7.23%，距52周高点-41.51%。RSI14为23.5，处超卖区间；MACD -0.0837低于信号线-0.0637，柱状为负。虽价格低于SMA20（1.59）、SMA50（1.69）与SMA200（1.68），但趋势字段为中性、未列空头排列信号，超卖与弱势并存。"
+      },
+      {
+        "symbol": "sh600519",
+        "display_name": "贵州茅台",
+        "stance": "偏上行",
+        "rationale": "现价1319.98元，日内微跌0.38%，但5日累计涨3.54%，与大盘弱势背离。RSI14为61.8，处正常偏强区；MACD 8.47高于信号线-0.89，柱状为正，呈多头动能。价格站上SMA20（1272.11）与SMA50（1293.49），仅略低于SMA200（1328.51），是候选中唯一动量为正的标的。"
+      }
+    ],
+    "risk_caveat": "本报告仅基于公开行情数据的技术指标读数进行客观复述，不构成任何投资建议；过去走势不代表未来表现，超卖或超买读数亦可能持续，仅供技术指标解读参考。",
+    "tickers": [
+      {
+        "symbol": "sh000001",
+        "displayName": "上证指数",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 3706.18,
+        "pct1Day": -0.6631072228833702,
+        "pct5Day": -2.491015191298819,
+        "pct52WeekHigh": -12.977181687118147,
+        "pct52WeekLow": 9.647700646138551,
+        "sma20": 3830.921000000002,
+        "sma50": 3888.8484000000026,
+        "sma200": 4003.938000000001,
+        "rsi14": 29.301598226240856,
+        "macd": -51.78929913908769,
+        "macdSignal": -37.83245005132045,
+        "macdHistogram": -13.956849087767239,
+        "trend": "bearish",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sz399001",
+        "displayName": "深证成指",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SZSE",
+        "currentPrice": 11706.23,
+        "pct1Day": -0.940899113342849,
+        "pct5Day": -5.241101856124086,
+        "pct52WeekHigh": -28.507293871633237,
+        "pct52WeekLow": 16.199287888849508,
+        "sma20": 12805.171500000002,
+        "sma50": 13503.446400000017,
+        "sma200": 14310.787299999995,
+        "rsi14": 19.22972111002082,
+        "macd": -515.0002629333849,
+        "macdSignal": -408.9949460844141,
+        "macdHistogram": -106.00531684897078,
+        "trend": "bearish",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sz399006",
+        "displayName": "创业板指",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SZSE",
+        "currentPrice": 2711.47,
+        "pct1Day": -1.2678923201846917,
+        "pct5Day": -8.34488260308147,
+        "pct52WeekHigh": -38.10008652158132,
+        "pct52WeekLow": 33.919593026127316,
+        "sma20": 3099.9169999999986,
+        "sma50": 3318.143799999999,
+        "sma200": 3509.3788499999996,
+        "rsi14": 17.837636767464744,
+        "macd": -169.95554529428318,
+        "macdSignal": -131.5024048194494,
+        "macdHistogram": -38.45314047483379,
+        "trend": "bearish",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh000688",
+        "displayName": "科创50",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 1322.77,
+        "pct1Day": -0.4830009253756102,
+        "pct5Day": -7.315825614148186,
+        "pct52WeekHigh": -41.34707903780069,
+        "pct52WeekLow": 37.24670311997427,
+        "sma20": 1510.2760000000005,
+        "sma50": 1598.0884000000017,
+        "sma200": 1589.0951499999987,
+        "rsi14": 22.985642073101616,
+        "macd": -79.45702927353568,
+        "macdSignal": -60.40381263443549,
+        "macdHistogram": -19.053216639100192,
+        "trend": "neutral",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          }
+        ]
+      },
+      {
+        "symbol": "sh000300",
+        "displayName": "沪深300",
+        "group": "index",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 4117.5,
+        "pct1Day": -1.3661418171626445,
+        "pct5Day": -3.6995284960520967,
+        "pct52WeekHigh": -18.695093271093373,
+        "pct52WeekLow": 6.604977746939075,
+        "sma20": 4350.977499999992,
+        "sma50": 4507.074399999999,
+        "sma200": 4675.54185,
+        "rsi14": 20.43106690412587,
+        "macd": -105.72422404566896,
+        "macdSignal": -86.32479464720738,
+        "macdHistogram": -19.399429398461578,
+        "trend": "bearish",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh510300",
+        "displayName": "沪深300ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 4.191,
+        "pct1Day": -1.1556603773584992,
+        "pct5Day": -3.5443037974683524,
+        "pct52WeekHigh": -17.742885181550538,
+        "pct52WeekLow": 11.078717201166173,
+        "sma20": 4.4229499999999975,
+        "sma50": 4.573660000000001,
+        "sma200": 4.705680000000002,
+        "rsi14": 18.564830891183192,
+        "macd": -0.10460591382310636,
+        "macdSignal": -0.0843201017415258,
+        "macdHistogram": -0.020285812081580562,
+        "trend": "bearish",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh510500",
+        "displayName": "中证500ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 6.817,
+        "pct1Day": -0.19033674963396635,
+        "pct5Day": -4.107469404979601,
+        "pct52WeekHigh": -25.546089995631284,
+        "pct52WeekLow": 23.675616835994205,
+        "sma20": 7.3734000000000055,
+        "sma50": 7.663480000000001,
+        "sma200": 8.008905000000004,
+        "rsi14": 22.764030784036848,
+        "macd": -0.25290600309091715,
+        "macdSignal": -0.18969055085632863,
+        "macdHistogram": -0.06321545223458852,
+        "trend": "bearish",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh588000",
+        "displayName": "科创50ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 1.398,
+        "pct1Day": -0.49822064056940335,
+        "pct5Day": -7.232913072329131,
+        "pct52WeekHigh": -41.50627615062763,
+        "pct52WeekLow": 38.005923000987174,
+        "sma20": 1.5949500000000012,
+        "sma50": 1.6872800000000006,
+        "sma200": 1.6762849999999998,
+        "rsi14": 23.529618320037287,
+        "macd": -0.08366566121232522,
+        "macdSignal": -0.0637015890809613,
+        "macdHistogram": -0.01996407213136392,
+        "trend": "neutral",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          }
+        ]
+      },
+      {
+        "symbol": "sz159915",
+        "displayName": "创业板ETF",
+        "group": "etf",
+        "currency": "CNY",
+        "exchangeName": "SZSE",
+        "currentPrice": 2.729,
+        "pct1Day": -1.1947863866763184,
+        "pct5Day": -8.238063214525894,
+        "pct52WeekHigh": -37.90671217292377,
+        "pct52WeekLow": 36.24563155267099,
+        "sma20": 3.119200000000007,
+        "sma50": 3.3375199999999974,
+        "sma200": 3.5153949999999976,
+        "rsi14": 17.839537760029245,
+        "macd": -0.1702097097781068,
+        "macdSignal": -0.13158779257462727,
+        "macdHistogram": -0.03862191720347952,
+        "trend": "bearish",
+        "rsiState": "oversold",
+        "signals": [
+          {
+            "type": "rsi-oversold",
+            "label": "RSI 超卖"
+          },
+          {
+            "type": "below-sma50-sma200",
+            "label": "空头排列"
+          }
+        ]
+      },
+      {
+        "symbol": "sh600519",
+        "displayName": "贵州茅台",
+        "group": "stock",
+        "currency": "CNY",
+        "exchangeName": "SSE",
+        "currentPrice": 1319.98,
+        "pct1Day": -0.3766123006558646,
+        "pct5Day": 3.536775721826974,
+        "pct52WeekHigh": -14.285677179384617,
+        "pct52WeekLow": 14.680150476538001,
+        "sma20": 1272.1070000000007,
+        "sma50": 1293.4942000000003,
+        "sma200": 1328.5103550000024,
+        "rsi14": 61.783236555937236,
+        "macd": 8.470988557863848,
+        "macdSignal": -0.8889210377785512,
+        "macdHistogram": 9.3599095956424,
+        "trend": "neutral",
+        "rsiState": "normal",
+        "signals": []
+      }
+    ],
+    "ashare_sentiment": {
+      "indices": [
+        {
+          "code": "sh000001",
+          "name": "上证指数",
+          "price": 3706.18,
+          "pctChange": -0.66,
+          "turnoverYuan": 579307470000
+        },
+        {
+          "code": "sz399001",
+          "name": "深证成指",
+          "price": 11706.23,
+          "pctChange": -0.94,
+          "turnoverYuan": 634092770000
+        },
+        {
+          "code": "sz399006",
+          "name": "创业板指",
+          "price": 2711.45,
+          "pctChange": -1.27,
+          "turnoverYuan": 313620520000
+        }
+      ]
+    },
+    "generated_at": "2026-10-20T06:10:56.013Z"
+  }
+}

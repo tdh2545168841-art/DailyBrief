@@ -976,11 +976,12 @@
     "category": "tech",
     "subcategory": "art",
     "lang": "zh",
-    "enabled": true,
+    "enabled": false,
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "notes": "we-mp-rss 已于 2026-10-18 因 CVE-2026-111687 停用，源不可达；恢复前保持 disabled"
   },
   {
     "id": "nowness",
@@ -990,10 +991,26 @@
     "category": "tech",
     "subcategory": "art",
     "lang": "zh",
+    "enabled": false,
+    "locales": [
+      "zh",
+      "en"
+    ],
+    "notes": "we-mp-rss 已于 2026-10-18 因 CVE-2026-111687 停用，源不可达；恢复前保持 disabled"
+  },
+  {
+    "id": "last30days",
+    "name": "社区风向 · last30days",
+    "type": "api",
+    "url": "local:data/last30days.json",
+    "category": "tech",
+    "subcategory": "overseas-community",
+    "lang": "en",
     "enabled": true,
     "locales": [
       "zh",
       "en"
-    ]
+    ],
+    "notes": "Reddit/HN 按真实互动量排序；由 workflow 的 last30days 步骤预生成 data/last30days.json，fetcher 只读文件。"
   }
 ]

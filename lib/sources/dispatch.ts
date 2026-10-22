@@ -2,6 +2,7 @@ import { fetchAttentionVc } from "./attentionvc";
 import { fetchGithubTrending } from "./github-trending";
 import { fetchHackerNews } from "./hackernews";
 import { fetchHuggingfacePapers } from "./huggingface-papers";
+import { fetchLast30days } from "./last30days";
 import { fetchMuseum } from "./museum";
 import { fetchLinuxDo } from "./linuxdo";
 import { fetchRss } from "./rss";
@@ -23,6 +24,7 @@ export async function fetchSource(source: SourceDef): Promise<RawArticle[]> {
   if (source.id === "huggingface-papers") return fetchHuggingfacePapers(source.id, source.keywords);
   if (source.id === "wallstreetcn") return fetchWallstreetcn(source.id);
   if (source.id === "sina-finance") return fetchSinaFinance(source.id);
+  if (source.id === "last30days") return fetchLast30days(source);
   if (
     source.id === "artic-museum" ||
     source.id === "met-museum"
